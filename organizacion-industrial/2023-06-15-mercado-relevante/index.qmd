@@ -24,9 +24,8 @@ categories:
   - Organizacion Industrial
   - Economía y Negocios
 tags:
-  - OrganizaciónIndustrial
-  - MercadoRelevanteIndustrial
-  - MercadoGeográficoRelevante
+  - microeconomia
+  - organizacion_industrial
 
 # Nota del Autor
 author-note:

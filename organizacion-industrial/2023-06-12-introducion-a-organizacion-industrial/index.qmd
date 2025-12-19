@@ -24,10 +24,8 @@ categories:
   - Organizacion Industrial
   - Economía y Negocios
 tags:
-  - OrganizaciónIndustrial
-  - EstrategiasEmpresariales
-  - EconomíaDeMercado
-  - AnálisisIndustrial
+  - microeconomia
+  - organizacion_industrial
 
 # Nota del Autor
 author-note:

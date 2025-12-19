@@ -24,11 +24,8 @@ categories:
   - Organizacion Industrial
   - Economía
 tags:
-  - OrganizaciónIndustrial
-  - SistemasEconómicos
-  - EconomíaDeMercado
-  - EconomíaPlanificada
-  - EconomíaMixta
+  - microeconomia
+  - organizacion_industrial
 
 # Nota del Autor
 author-note:

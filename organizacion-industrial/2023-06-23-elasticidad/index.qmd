@@ -24,12 +24,13 @@ categories:
   - Organizacion Industrial
   - Economía y Negocios
 tags:
-  - OrganizaciónIndustrial
-  - Elasticidad
-  - Economía
-  - Demanda
-  - Oferta
-  - Mercado
+  - elasticidad
+  - economia
+  - demanda
+  - oferta
+  - mercado
+  - microeconomia
+  - organizacion_industrial
 
 # Nota del Autor
 author-note:

@@ -24,11 +24,11 @@ categories:
   - Organizacion Industrial
   - Economía y Negocios
 tags:
-  - OrganizaciónIndustrial
-  - Empresa
-  - Organización
-  - Cooperación
-  - Impactosocial
+  - empresa
+  - organizacion
+  - cooperacion
+  - microeconomia
+  - organizacion_industrial
 
 # Nota del Autor
 author-note:

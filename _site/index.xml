@@ -6,30 +6,23 @@
       version="2.0">
 <channel>
 <title>Edison Achalma B.Sc. Econ.</title>
-<link>https://achalmaedison.netlify.app/</link>
-<atom:link href="https://achalmaedison.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://optimums.netlify.app/</link>
+<atom:link href="https://optimums.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Este es mi blog donde practico compartir mi curiosidad.&lt;br&gt;
 Incluye notas y tutoriales para mi futuro y espero que también para ti.&lt;br&gt;&lt;br&gt;
 {{&lt; fa envelope &gt;}} Sign up for my [newsletter](https://achalmaedison.netlify.app/contact#buttondown) to receive updates about new posts.
 </description>
-<generator>quarto-1.7.32</generator>
-<lastBuildDate>Sun, 31 Mar 2024 05:00:00 GMT</lastBuildDate>
+<image>
+<url>https://optimums.netlify.app/assets/img/default-preview.jpg</url>
+<title>Edison Achalma B.Sc. Econ.</title>
+<link>https://optimums.netlify.app/</link>
+</image>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Fri, 23 Jun 2023 05:00:00 GMT</lastBuildDate>
 <item>
-  <title></title>
+  <title>Elasticidad y poder de mercado</title>
   <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/posts/2024-03-31-por-editar/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Microeconomia</category>
-  <category>Blogdown</category>
-  <category>Desarrollo Web</category>
-  <category>Herramientas para R</category>
-  <guid>https://achalmaedison.netlify.app/posts/2024-03-31-por-editar/</guid>
-  <pubDate>Sun, 31 Mar 2024 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Explorando la Elasticidad. Entendiendo las Dinámicas del Mercado</title>
-  <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-23-elasticidad/</link>
+  <link>https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/</link>
   <description><![CDATA[ 
 
 <style>
@@ -208,13 +201,13 @@ z-index: 0;
 <h1>Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
 <ol type="1">
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-sistemas-economicos">Sistemas Economicos</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-15-mercado-relevante">Mercado Relevante</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño">Medidas Concentracion Desempeño</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos">Sistemas Economicos</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante">Mercado Relevante</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño">Medidas Concentracion Desempeño</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
 </ol>
 <p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
 
@@ -222,38 +215,18 @@ z-index: 0;
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2023" class="csl-entry quarto-appendix-citeas">
-Achalma, Edison. 2023. <span>“Explorando la Elasticidad. Entendiendo las
-Dinámicas del Mercado,”</span> June. <a href="https://achalmaedison.netlify.app/organizacion-industrial/2023-06-23-elasticidad/">https://achalmaedison.netlify.app/organizacion-industrial/2023-06-23-elasticidad/</a>.
+Achalma, Edison. 2023. <span>“Elasticidad y poder de mercado,”</span>
+June. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/">https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/</a>.
 </div></div></section></div> ]]></description>
   <category>Organizacion Industrial</category>
-  <category>Economía y Negocios</category>
-  <guid>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-23-elasticidad/</guid>
+  <guid>https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/</guid>
   <pubDate>Fri, 23 Jun 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/organizacion-industrial/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title></title>
+  <title>Definición de mercado relevante</title>
   <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Organizacion Industrial</category>
-  <category>Economía y Negocios</category>
-  <guid>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/</guid>
-  <pubDate>Sat, 17 Jun 2023 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Organizacion Industrial</category>
-  <category>Economía y Negocios</category>
-  <guid>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/</guid>
-  <pubDate>Fri, 16 Jun 2023 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>El Mercado Relevante Industrial de Bienes y el Mercado Geográfico</title>
-  <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/</link>
+  <link>https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/</link>
   <description><![CDATA[ 
 
 <style>
@@ -774,13 +747,13 @@ z-index: 0;
 <h1>Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
 <ol type="1">
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-sistemas-economicos">Sistemas Economicos</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-15-mercado-relevante">Mercado Relevante</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño">Medidas Concentracion Desempeño</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos">Sistemas Economicos</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante">Mercado Relevante</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño">Medidas Concentracion Desempeño</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
 </ol>
 <p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
 
@@ -788,261 +761,18 @@ z-index: 0;
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2023" class="csl-entry quarto-appendix-citeas">
-Achalma, Edison. 2023. <span>“El Mercado Relevante Industrial de Bienes
-y el Mercado Geográfico,”</span> June. <a href="https://achalmaedison.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/">https://achalmaedison.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/</a>.
+Achalma, Edison. 2023. <span>“Definición de mercado relevante,”</span>
+June. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/">https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/</a>.
 </div></div></section></div> ]]></description>
   <category>Organizacion Industrial</category>
-  <category>Economía y Negocios</category>
-  <guid>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/</guid>
+  <guid>https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/</guid>
   <pubDate>Thu, 15 Jun 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/organizacion-industrial/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>La Empresa como Organización. Promoviendo Valores Cooperativos, Humanos y Sociales</title>
+  <title>Sistemas económicos comparados</title>
   <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/</link>
-  <description><![CDATA[ 
-
-<style>
-:root {
---primary-color: ;
-}
-#title-block-header {
-width: 100%;
-overflow: hidden;
-position: relative;
-}
-.title-block-content {
-position: relative;
-padding-top: 60px;
-
-padding-bottom: 60px;
-
-max-width: 752px;
-margin: 0 auto;
-z-index: 1;
-}
-#particles-js {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-z-index: 0;
-}
-.bg-image {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-object-fit: cover;
-z-index: 0;
-}
-</style>
-
-
-
-
-<section id="la-empresa-como-organización-un-enfoque-cooperativo-humano-y-social" class="level1">
-<h1>La Empresa como Organización: Un Enfoque Cooperativo, Humano y Social</h1>
-<p>La empresa es un tipo específico de organización que se caracteriza por su estructura social, su enfoque cooperativo y su impacto en la sociedad. Destacan los valores cooperativos, humanos y sociales que la empresa promueve en su funcionamiento.</p>
-<p>Según varios teóricos, como Etzioni, Hall y Barnard, las organizaciones son unidades sociales creadas con el propósito de alcanzar metas específicas. En el caso de la empresa, esta se compone de diversos factores que interactúan bajo la dirección y supervisión del empresario, con el objetivo principal de lograr fines económicos a través de la producción de bienes y servicios.</p>
-<p>Las características distintivas de la empresa incluyen:</p>
-<ol type="1">
-<li><p><strong>Grupo social definido:</strong> La empresa reúne a individuos que colaboran en la consecución de sus objetivos comunes.</p></li>
-<li><p><strong>Sistema cooperativo:</strong> Existe una dinámica de trabajo en equipo y colaboración entre los miembros de la organización.</p></li>
-<li><p><strong>Estructuración, coordinación consciente y orientación a un fin:</strong> La empresa se organiza y coordina de manera consciente para lograr sus metas establecidas.</p></li>
-<li><p><strong>Vocación de permanencia:</strong> A diferencia de proyectos temporales, la empresa tiene una perspectiva de continuidad y estabilidad en el tiempo.</p></li>
-<li><p><strong>Interacción con el ambiente externo:</strong> La empresa se relaciona y se adapta al entorno externo en el que opera, teniendo en cuenta factores económicos, legales, sociales y tecnológicos.</p></li>
-</ol>
-</section>
-<section id="la-empresa-como-sistema-coordinación-y-complejidad" class="level1">
-<h1>La Empresa como Sistema: Coordinación y Complejidad</h1>
-<p>Un sistema se define como un conjunto de elementos que están discretos e interrelacionados entre sí, y que trabajan de manera coordinada para alcanzar un objetivo común.</p>
-<p>La empresa se puede entender como un sistema, que se compone de elementos interrelacionados y coordinados, con el objetivo común de lograr resultados específicos. Esta perspectiva sistémica resalta la importancia de una coordinación consciente en el funcionamiento de la empresa.</p>
-<ol type="1">
-<li><p><strong>Conjunto de elementos:</strong> La empresa está compuesta por diversos elementos, como personas, recursos, procesos y estructuras organizativas, que interactúan entre sí.</p></li>
-<li><p><strong>Estructura del sistema:</strong> La empresa establece relaciones entre oferentes y demandantes, es decir, entre los que ofrecen bienes o servicios y los que los demandan.</p></li>
-<li><p><strong>Plan común:</strong> La empresa define un plan en el que se establecen los objetivos que se buscan alcanzar, proporcionando una dirección clara a seguir.</p></li>
-<li><p><strong>Funciones características:</strong> La empresa desempeña funciones de transformación, es decir, utiliza los recursos disponibles para producir bienes o servicios que satisfacen las necesidades de los clientes.</p></li>
-<li><p><strong>Conjunto de estados o situaciones en el tiempo:</strong> La empresa atraviesa diferentes etapas y estados a lo largo de su existencia, adaptándose a cambios internos y externos.</p></li>
-</ol>
-<p>Bajo esta perspectiva sistémica, se reconoce que la empresa es un sistema complejo que requiere una coordinación consciente para alcanzar sus objetivos. Esto implica establecer una estructura organizativa eficiente, fomentar una comunicación efectiva, gestionar adecuadamente los recursos y adaptarse a los cambios del entorno.</p>
-<p>Al comprender a la empresa como un sistema, se puede tener una visión holística de su funcionamiento y tomar decisiones estratégicas más informadas. Además, se enfatiza la importancia de la coordinación y la interacción entre los elementos del sistema para lograr resultados exitosos y sostenibles en el tiempo.</p>
-</section>
-<section id="evolución-histórica-de-la-empresa-del-feudalismo-al-capitalismo-informacional" class="level1">
-<h1>Evolución Histórica de la Empresa: Del Feudalismo al Capitalismo Informacional</h1>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 20%">
-<col style="width: 28%">
-<col style="width: 51%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Sistema Económico</th>
-<th>Tipo de Empresa</th>
-<th>Estructura Básica</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Sistema Feudal</td>
-<td>Empresa Primitiva</td>
-<td>Unidad simple, de base familiar</td>
-</tr>
-<tr class="even">
-<td>Capitalismo Mercantilista</td>
-<td>Empresa Comercial</td>
-<td>Unidad simple, organizada, no siempre de base familiar</td>
-</tr>
-<tr class="odd">
-<td>Capitalismo Industrial</td>
-<td>Empresa Industrial</td>
-<td>Unidad compleja, organizada, societaria y funcional</td>
-</tr>
-<tr class="even">
-<td>Capitalismo Financiero</td>
-<td>Empresa de Organización Financiera</td>
-<td>Unidad compleja, organizada, multisocietaria, divisional y multinacional</td>
-</tr>
-<tr class="odd">
-<td>Capitalismo de la Información</td>
-<td>Empresa de Organización del Conocimiento</td>
-<td>Unidad compleja evolucionada, organizada, multisocietaria y global</td>
-</tr>
-</tbody>
-</table>
-<ol type="1">
-<li><p><strong>Sistema Feudal - Empresa Primitiva</strong>: En el sistema feudal, se caracterizaba por la existencia de unidades económicas y productivas básicas llamadas empresas primitivas. Estas empresas eran unidades simples y de base familiar, donde las actividades económicas se centraban en la subsistencia y estaban vinculadas a la tierra y a la agricultura.</p></li>
-<li><p><strong>Capitalismo Mercantilista - Empresa Comercial</strong>: Durante el periodo del capitalismo mercantilista, surgieron las empresas comerciales. Estas empresas eran unidades técnicas-económicas que se dedicaban al comercio, tanto a nivel local como internacional. Eran organizaciones simples, pero más estructuradas que las empresas primitivas, y su objetivo principal era obtener beneficios a través de las actividades comerciales.</p></li>
-<li><p><strong>Capitalismo Industrial - Empresa Industrial</strong>: Con la llegada del capitalismo industrial, se desarrollaron las empresas industriales. Estas empresas se caracterizaban por ser unidades económicas de producción en las que se llevaban a cabo actividades industriales y se utilizaban tecnologías avanzadas. Eran unidades complejas, organizadas en forma societaria y funcional, con el objetivo de maximizar la producción y obtener beneficios.</p></li>
-<li><p><strong>Capitalismo Financiero - Empresa de Organización Financiera</strong>: En el capitalismo financiero, surgieron las empresas de organización financiera. Estas empresas se centraban en la gestión y dirección de los recursos financieros, tomando decisiones sobre inversiones, financiamiento y dirección estratégica. Eran unidades complejas, organizadas en forma multisocietaria, divisional y multinacional, con un enfoque en la maximización de los beneficios a través de la gestión financiera.</p></li>
-<li><p><strong>Capitalismo de la Información - Empresa de Organización del Conocimiento</strong>: En la era del capitalismo de la información, se destacan las empresas de organización del conocimiento. Estas empresas se centran en el manejo y utilización de la información como recurso estratégico, tomando decisiones basadas en el conocimiento y la tecnología. Son unidades complejas evolucionadas, organizadas en forma multisocietaria y global, con un enfoque en la creación, gestión y utilización del conocimiento para obtener ventajas competitivas.</p></li>
-</ol>
-</section>
-<section id="elementos-constitutivos-de-la-empresa" class="level1">
-<h1>Elementos constitutivos de la empresa</h1>
-<p>La empresa está compuesta por diversos elementos que desempeñan un papel fundamental en su funcionamiento y desarrollo. A continuación, se detallan los elementos constitutivos de la empresa:</p>
-<div class="cell" data-layout-align="default">
-<div class="cell-output-display">
-<div>
-<p></p><figure class="figure"><p></p>
-<div>
-
-</div>
-<p></p></figure><p></p>
-</div>
-</div>
-</div>
-<section id="elementos-activos" class="level2">
-<h2 class="anchored" data-anchor-id="elementos-activos">Elementos activos</h2>
-<section id="empresario" class="level3">
-<h3 class="anchored" data-anchor-id="empresario">Empresario</h3>
-<p>El empresario es aquel que asume el riesgo y la responsabilidad de la empresa. Puede ser el propietario o un directivo que toma decisiones estratégicas y dirige las operaciones de la empresa.</p>
-</section>
-<section id="empleados" class="level3">
-<h3 class="anchored" data-anchor-id="empleados">Empleados</h3>
-<p>Los empleados son el recurso humano que trabaja en la empresa. Estos desempeñan diferentes roles y funciones dentro de la organización, contribuyendo al logro de los objetivos empresariales.</p>
-</section>
-</section>
-<section id="elementos-pasivos" class="level2">
-<h2 class="anchored" data-anchor-id="elementos-pasivos">Elementos pasivos</h2>
-<section id="elementos-tangibles" class="level3">
-<h3 class="anchored" data-anchor-id="elementos-tangibles">Elementos Tangibles</h3>
-<p>Los elementos tangibles se refieren a los activos físicos de la empresa. Estos pueden ser no duraderos, como materias primas o productos en proceso, o duraderos, como maquinaria, equipos y edificios.</p>
-</section>
-<section id="elementos-intangibles" class="level3">
-<h3 class="anchored" data-anchor-id="elementos-intangibles">Elementos Intangibles</h3>
-<p>Los elementos intangibles se refieren a los activos no físicos de la empresa, que no se pueden tocar ni ver. como el:</p>
-<p>Capital Intelectual: Representa el conocimiento y los recursos intelectuales de la empresa.</p>
-<ol type="a">
-<li><p><strong>Capital Humano:</strong> Se refiere a las competencias y capacidades de los empleados, incluyendo su formación, experiencia y habilidades.</p></li>
-<li><p><strong>Capital Estructural:</strong> Engloba la organización y la tecnología utilizada en la empresa, incluyendo los sistemas de gestión, la infraestructura tecnológica y los procesos operativos.</p></li>
-<li><p><strong>Capital Relacional:</strong> Hace referencia a las relaciones que la empresa establece con clientes, proveedores y otros agentes del entorno empresarial. Estas relaciones son clave para el desarrollo de alianzas estratégicas, la colaboración y la creación de redes de valor.</p></li>
-</ol>
-</section>
-</section>
-</section>
-<section id="función-de-la-empresa-en-la-economía" class="level1">
-<h1>Función de la empresa en la economía</h1>
-<p>La empresa desempeña un papel fundamental en la economía al generar bienes y servicios de forma eficiente. A continuación, se detallan las funciones principales de la empresa en la economía:</p>
-<section id="generar-bienes-y-servicios-de-forma-eficiente" class="level2">
-<h2 class="anchored" data-anchor-id="generar-bienes-y-servicios-de-forma-eficiente">Generar bienes y servicios de forma eficiente</h2>
-<p>La empresa tiene como objetivo principal producir bienes y servicios de manera eficiente, utilizando los recursos disponibles de manera óptima. Esto implica minimizar los costos de producción y maximizar la calidad y la productividad.</p>
-</section>
-<section id="asumir-y-reducir-costos-de-mercado-y-de-información" class="level2">
-<h2 class="anchored" data-anchor-id="asumir-y-reducir-costos-de-mercado-y-de-información">Asumir y reducir costos de mercado y de información</h2>
-<p>La empresa asume y reduce los costos de mercado al organizar la producción de bienes y servicios de manera interna, en lugar de adquirirlos a través del mercado. Al hacerlo, la empresa puede aprovechar economías de escala, especialización y eficiencia en la producción.</p>
-<p>Además, la empresa también asume y reduce los costos de información al tener acceso a información privilegiada y especializada sobre el mercado, los consumidores y los proveedores. Esto le permite tomar decisiones informadas y estratégicas para mejorar su desempeño y competitividad.</p>
-</section>
-<section id="anticipar-el-producto-obtenido" class="level2">
-<h2 class="anchored" data-anchor-id="anticipar-el-producto-obtenido">Anticipar el producto obtenido</h2>
-<p>La empresa tiene la capacidad de anticipar el producto obtenido al identificar y satisfacer las necesidades y demandas de los consumidores. A través de la investigación de mercado y el análisis de las tendencias, la empresa puede desarrollar productos y servicios que se ajusten a las preferencias del público objetivo, anticipándose así a sus deseos y expectativas.</p>
-</section>
-<section id="asumir-el-riesgo-de-la-actividad-económica" class="level2">
-<h2 class="anchored" data-anchor-id="asumir-el-riesgo-de-la-actividad-económica">Asumir el riesgo de la actividad económica</h2>
-<p>La empresa asume el riesgo de la actividad económica al invertir recursos financieros, humanos y tecnológicos en la producción de bienes y servicios. Esto implica enfrentar la incertidumbre del mercado, los cambios en la demanda, la competencia y otros factores externos que pueden afectar su desempeño. La empresa asume este riesgo con el objetivo de obtener beneficios y lograr su supervivencia en el mercado.</p>
-</section>
-<section id="desarrollar-el-sistema-económico" class="level2">
-<h2 class="anchored" data-anchor-id="desarrollar-el-sistema-económico">Desarrollar el sistema económico</h2>
-<p>La empresa juega un papel crucial en el desarrollo del sistema económico al generar empleo, contribuir al crecimiento económico, fomentar la innovación y la investigación, y promover el intercambio comercial. La actividad empresarial impulsa el desarrollo económico de una sociedad al generar riqueza, crear oportunidades y estimular la competencia.</p>
-</section>
-<section id="coordinar-el-proceso-productivo" class="level2">
-<h2 class="anchored" data-anchor-id="coordinar-el-proceso-productivo">Coordinar el proceso productivo</h2>
-<p>La empresa desempeña un papel de coordinación en el proceso productivo al organizar y supervisar las diferentes etapas de producción. Esto implica la planificación, la asignación de recursos, la gestión de inventarios, la coordinación de equipos de trabajo y el control de la calidad, entre otras actividades. La empresa busca garantizar la eficiencia y la coherencia en el proceso productivo para lograr la satisfacción de los clientes y la obtención de resultados óptimos.</p>
-</section>
-</section>
-<section id="fundamentos-económicos-de-las-empresas" class="level1">
-<h1>Fundamentos económicos de las empresas</h1>
-<p>Según Gregory Mankiw, la economía se ocupa del estudio de cómo la sociedad administra sus recursos. En el contexto de las empresas, existen diferentes tipos de recursos que son fundamentales para su funcionamiento. A continuación, se detallan estos recursos y su relación con la producción de bienes y servicios:</p>
-<section id="recursos-naturales" class="level2">
-<h2 class="anchored" data-anchor-id="recursos-naturales">Recursos Naturales</h2>
-<p>Los recursos naturales son elementos que no son producidos por el ser humano y que se encuentran disponibles en la naturaleza. Ejemplos de recursos naturales incluyen terrenos, bosques, agua, minerales, petróleo, entre otros. Estos recursos son utilizados por las empresas en sus procesos de producción para extraer, transformar o utilizar como insumos en la elaboración de bienes y servicios.</p>
-</section>
-<section id="recursos-humanos-o-mano-de-obra" class="level2">
-<h2 class="anchored" data-anchor-id="recursos-humanos-o-mano-de-obra">Recursos Humanos o Mano de obra</h2>
-<p>Los recursos humanos se refieren a las capacidades físicas y mentales que las personas aplican en la producción de bienes y servicios. Esto incluye tanto el trabajo manual como el trabajo intelectual realizado por los empleados de una empresa. Los recursos humanos son esenciales para llevar a cabo las diferentes tareas y funciones necesarias en la producción y operación de la empresa.</p>
-</section>
-<section id="recursos-financieros-o-capital" class="level2">
-<h2 class="anchored" data-anchor-id="recursos-financieros-o-capital">Recursos Financieros o Capital</h2>
-<p>Los recursos financieros, también conocidos como capital, se refieren a los fondos con los que se adquieren los recursos naturales y humanos necesarios para la elaboración de productos. El capital puede provenir de diversas fuentes, como inversionistas, préstamos bancarios, capital propio de los empresarios, entre otros. Estos recursos financieros se utilizan para financiar la adquisición de activos, como maquinaria, equipos, tecnología, así como para cubrir los costos operativos y de producción de la empresa.</p>
-</section>
-<section id="producción-de-bienes-y-servicios" class="level2">
-<h2 class="anchored" data-anchor-id="producción-de-bienes-y-servicios">Producción de bienes y servicios</h2>
-<p>La producción de bienes y servicios es el resultado de combinar los recursos naturales, recursos humanos y recursos financieros. En este proceso, los recursos naturales se utilizan como insumos, los recursos humanos aportan su trabajo y conocimiento, y los recursos financieros permiten adquirir y utilizar eficientemente los otros recursos. La producción de bienes y servicios es el objetivo principal de las empresas, donde se busca transformar los insumos en productos finales que satisfagan las necesidades y demandas de los consumidores.</p>
-</section>
-</section>
-<section id="publicaciones-similares" class="level1">
-<h1>Publicaciones Similares</h1>
-<p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
-<ol type="1">
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-sistemas-economicos">Sistemas Economicos</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-15-mercado-relevante">Mercado Relevante</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño">Medidas Concentracion Desempeño</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
-</ol>
-<p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2023" class="csl-entry quarto-appendix-citeas">
-Achalma, Edison. 2023. <span>“La Empresa como Organización. Promoviendo
-Valores Cooperativos, Humanos y Sociales,”</span> June. <a href="https://achalmaedison.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/">https://achalmaedison.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/</a>.
-</div></div></section></div> ]]></description>
-  <category>Organizacion Industrial</category>
-  <category>Economía y Negocios</category>
-  <guid>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/</guid>
-  <pubDate>Tue, 13 Jun 2023 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Introducción a los Sistemas Económicos. Cómo se distribuyen los recursos y se producen</title>
-  <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/</link>
+  <link>https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/</link>
   <description><![CDATA[ 
 
 <style>
@@ -1293,13 +1023,13 @@ z-index: 0;
 <h1>Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
 <ol type="1">
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-sistemas-economicos">Sistemas Economicos</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-15-mercado-relevante">Mercado Relevante</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño">Medidas Concentracion Desempeño</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos">Sistemas Economicos</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante">Mercado Relevante</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño">Medidas Concentracion Desempeño</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
 </ol>
 <p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
 
@@ -1315,18 +1045,250 @@ z-index: 0;
 <li id="fn3"><p>El empleo en el comunismo se basa en principios de cooperación, igualdad y satisfacción de las necesidades de la comunidad. En un estado comunista ideal, el objetivo es eliminar la explotación y las desigualdades laborales presentes en otros sistemas económicos. En el comunismo, se espera que todas las personas contribuyan a la sociedad según sus capacidades y habilidades. El trabajo se concibe como una actividad que beneficia a toda la comunidad, en lugar de ser una forma de generar beneficios individuales o acumulación de riqueza. En términos de elección de carrera, aunque no hay una definición específica en el marco teórico del comunismo, se espera que la planificación centralizada y la organización colectiva de la economía permitan satisfacer las necesidades de la sociedad en general. En teoría, se busca la asignación de recursos y empleo en función de las necesidades sociales y la capacidad de cada individuo, en lugar de las fuerzas del mercado o los intereses individuales.↩︎</p></li>
 </ol>
 </section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2023" class="csl-entry quarto-appendix-citeas">
-Achalma, Edison. 2023. <span>“Introducción a los Sistemas Económicos.
-Cómo se distribuyen los recursos y se producen,”</span> June. <a href="https://achalmaedison.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/">https://achalmaedison.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/</a>.
+Achalma, Edison. 2023. <span>“Sistemas económicos comparados,”</span>
+June. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/">https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/</a>.
 </div></div></section></div> ]]></description>
   <category>Organizacion Industrial</category>
-  <category>Economía</category>
-  <guid>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/</guid>
+  <guid>https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/</guid>
   <pubDate>Tue, 13 Jun 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/organizacion-industrial/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>La empresa como organización económica</title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/</link>
+  <description><![CDATA[ 
+
+<style>
+:root {
+--primary-color: ;
+}
+#title-block-header {
+width: 100%;
+overflow: hidden;
+position: relative;
+}
+.title-block-content {
+position: relative;
+padding-top: 60px;
+
+padding-bottom: 60px;
+
+max-width: 752px;
+margin: 0 auto;
+z-index: 1;
+}
+#particles-js {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+z-index: 0;
+}
+.bg-image {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+object-fit: cover;
+z-index: 0;
+}
+</style>
+
+
+
+
+<section id="la-empresa-como-organización-un-enfoque-cooperativo-humano-y-social" class="level1">
+<h1>La Empresa como Organización: Un Enfoque Cooperativo, Humano y Social</h1>
+<p>La empresa es un tipo específico de organización que se caracteriza por su estructura social, su enfoque cooperativo y su impacto en la sociedad. Destacan los valores cooperativos, humanos y sociales que la empresa promueve en su funcionamiento.</p>
+<p>Según varios teóricos, como Etzioni, Hall y Barnard, las organizaciones son unidades sociales creadas con el propósito de alcanzar metas específicas. En el caso de la empresa, esta se compone de diversos factores que interactúan bajo la dirección y supervisión del empresario, con el objetivo principal de lograr fines económicos a través de la producción de bienes y servicios.</p>
+<p>Las características distintivas de la empresa incluyen:</p>
+<ol type="1">
+<li><p><strong>Grupo social definido:</strong> La empresa reúne a individuos que colaboran en la consecución de sus objetivos comunes.</p></li>
+<li><p><strong>Sistema cooperativo:</strong> Existe una dinámica de trabajo en equipo y colaboración entre los miembros de la organización.</p></li>
+<li><p><strong>Estructuración, coordinación consciente y orientación a un fin:</strong> La empresa se organiza y coordina de manera consciente para lograr sus metas establecidas.</p></li>
+<li><p><strong>Vocación de permanencia:</strong> A diferencia de proyectos temporales, la empresa tiene una perspectiva de continuidad y estabilidad en el tiempo.</p></li>
+<li><p><strong>Interacción con el ambiente externo:</strong> La empresa se relaciona y se adapta al entorno externo en el que opera, teniendo en cuenta factores económicos, legales, sociales y tecnológicos.</p></li>
+</ol>
+</section>
+<section id="la-empresa-como-sistema-coordinación-y-complejidad" class="level1">
+<h1>La Empresa como Sistema: Coordinación y Complejidad</h1>
+<p>Un sistema se define como un conjunto de elementos que están discretos e interrelacionados entre sí, y que trabajan de manera coordinada para alcanzar un objetivo común.</p>
+<p>La empresa se puede entender como un sistema, que se compone de elementos interrelacionados y coordinados, con el objetivo común de lograr resultados específicos. Esta perspectiva sistémica resalta la importancia de una coordinación consciente en el funcionamiento de la empresa.</p>
+<ol type="1">
+<li><p><strong>Conjunto de elementos:</strong> La empresa está compuesta por diversos elementos, como personas, recursos, procesos y estructuras organizativas, que interactúan entre sí.</p></li>
+<li><p><strong>Estructura del sistema:</strong> La empresa establece relaciones entre oferentes y demandantes, es decir, entre los que ofrecen bienes o servicios y los que los demandan.</p></li>
+<li><p><strong>Plan común:</strong> La empresa define un plan en el que se establecen los objetivos que se buscan alcanzar, proporcionando una dirección clara a seguir.</p></li>
+<li><p><strong>Funciones características:</strong> La empresa desempeña funciones de transformación, es decir, utiliza los recursos disponibles para producir bienes o servicios que satisfacen las necesidades de los clientes.</p></li>
+<li><p><strong>Conjunto de estados o situaciones en el tiempo:</strong> La empresa atraviesa diferentes etapas y estados a lo largo de su existencia, adaptándose a cambios internos y externos.</p></li>
+</ol>
+<p>Bajo esta perspectiva sistémica, se reconoce que la empresa es un sistema complejo que requiere una coordinación consciente para alcanzar sus objetivos. Esto implica establecer una estructura organizativa eficiente, fomentar una comunicación efectiva, gestionar adecuadamente los recursos y adaptarse a los cambios del entorno.</p>
+<p>Al comprender a la empresa como un sistema, se puede tener una visión holística de su funcionamiento y tomar decisiones estratégicas más informadas. Además, se enfatiza la importancia de la coordinación y la interacción entre los elementos del sistema para lograr resultados exitosos y sostenibles en el tiempo.</p>
+</section>
+<section id="evolución-histórica-de-la-empresa-del-feudalismo-al-capitalismo-informacional" class="level1">
+<h1>Evolución Histórica de la Empresa: Del Feudalismo al Capitalismo Informacional</h1>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 28%">
+<col style="width: 51%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Sistema Económico</th>
+<th>Tipo de Empresa</th>
+<th>Estructura Básica</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sistema Feudal</td>
+<td>Empresa Primitiva</td>
+<td>Unidad simple, de base familiar</td>
+</tr>
+<tr class="even">
+<td>Capitalismo Mercantilista</td>
+<td>Empresa Comercial</td>
+<td>Unidad simple, organizada, no siempre de base familiar</td>
+</tr>
+<tr class="odd">
+<td>Capitalismo Industrial</td>
+<td>Empresa Industrial</td>
+<td>Unidad compleja, organizada, societaria y funcional</td>
+</tr>
+<tr class="even">
+<td>Capitalismo Financiero</td>
+<td>Empresa de Organización Financiera</td>
+<td>Unidad compleja, organizada, multisocietaria, divisional y multinacional</td>
+</tr>
+<tr class="odd">
+<td>Capitalismo de la Información</td>
+<td>Empresa de Organización del Conocimiento</td>
+<td>Unidad compleja evolucionada, organizada, multisocietaria y global</td>
+</tr>
+</tbody>
+</table>
+<ol type="1">
+<li><p><strong>Sistema Feudal - Empresa Primitiva</strong>: En el sistema feudal, se caracterizaba por la existencia de unidades económicas y productivas básicas llamadas empresas primitivas. Estas empresas eran unidades simples y de base familiar, donde las actividades económicas se centraban en la subsistencia y estaban vinculadas a la tierra y a la agricultura.</p></li>
+<li><p><strong>Capitalismo Mercantilista - Empresa Comercial</strong>: Durante el periodo del capitalismo mercantilista, surgieron las empresas comerciales. Estas empresas eran unidades técnicas-económicas que se dedicaban al comercio, tanto a nivel local como internacional. Eran organizaciones simples, pero más estructuradas que las empresas primitivas, y su objetivo principal era obtener beneficios a través de las actividades comerciales.</p></li>
+<li><p><strong>Capitalismo Industrial - Empresa Industrial</strong>: Con la llegada del capitalismo industrial, se desarrollaron las empresas industriales. Estas empresas se caracterizaban por ser unidades económicas de producción en las que se llevaban a cabo actividades industriales y se utilizaban tecnologías avanzadas. Eran unidades complejas, organizadas en forma societaria y funcional, con el objetivo de maximizar la producción y obtener beneficios.</p></li>
+<li><p><strong>Capitalismo Financiero - Empresa de Organización Financiera</strong>: En el capitalismo financiero, surgieron las empresas de organización financiera. Estas empresas se centraban en la gestión y dirección de los recursos financieros, tomando decisiones sobre inversiones, financiamiento y dirección estratégica. Eran unidades complejas, organizadas en forma multisocietaria, divisional y multinacional, con un enfoque en la maximización de los beneficios a través de la gestión financiera.</p></li>
+<li><p><strong>Capitalismo de la Información - Empresa de Organización del Conocimiento</strong>: En la era del capitalismo de la información, se destacan las empresas de organización del conocimiento. Estas empresas se centran en el manejo y utilización de la información como recurso estratégico, tomando decisiones basadas en el conocimiento y la tecnología. Son unidades complejas evolucionadas, organizadas en forma multisocietaria y global, con un enfoque en la creación, gestión y utilización del conocimiento para obtener ventajas competitivas.</p></li>
+</ol>
+</section>
+<section id="elementos-constitutivos-de-la-empresa" class="level1">
+<h1>Elementos constitutivos de la empresa</h1>
+<p>La empresa está compuesta por diversos elementos que desempeñan un papel fundamental en su funcionamiento y desarrollo. A continuación, se detallan los elementos constitutivos de la empresa:</p>
+<section id="elementos-activos" class="level2">
+<h2 class="anchored" data-anchor-id="elementos-activos">Elementos activos</h2>
+<section id="empresario" class="level3">
+<h3 class="anchored" data-anchor-id="empresario">Empresario</h3>
+<p>El empresario es aquel que asume el riesgo y la responsabilidad de la empresa. Puede ser el propietario o un directivo que toma decisiones estratégicas y dirige las operaciones de la empresa.</p>
+</section>
+<section id="empleados" class="level3">
+<h3 class="anchored" data-anchor-id="empleados">Empleados</h3>
+<p>Los empleados son el recurso humano que trabaja en la empresa. Estos desempeñan diferentes roles y funciones dentro de la organización, contribuyendo al logro de los objetivos empresariales.</p>
+</section>
+</section>
+<section id="elementos-pasivos" class="level2">
+<h2 class="anchored" data-anchor-id="elementos-pasivos">Elementos pasivos</h2>
+<section id="elementos-tangibles" class="level3">
+<h3 class="anchored" data-anchor-id="elementos-tangibles">Elementos Tangibles</h3>
+<p>Los elementos tangibles se refieren a los activos físicos de la empresa. Estos pueden ser no duraderos, como materias primas o productos en proceso, o duraderos, como maquinaria, equipos y edificios.</p>
+</section>
+<section id="elementos-intangibles" class="level3">
+<h3 class="anchored" data-anchor-id="elementos-intangibles">Elementos Intangibles</h3>
+<p>Los elementos intangibles se refieren a los activos no físicos de la empresa, que no se pueden tocar ni ver. como el:</p>
+<p>Capital Intelectual: Representa el conocimiento y los recursos intelectuales de la empresa.</p>
+<ol type="a">
+<li><p><strong>Capital Humano:</strong> Se refiere a las competencias y capacidades de los empleados, incluyendo su formación, experiencia y habilidades.</p></li>
+<li><p><strong>Capital Estructural:</strong> Engloba la organización y la tecnología utilizada en la empresa, incluyendo los sistemas de gestión, la infraestructura tecnológica y los procesos operativos.</p></li>
+<li><p><strong>Capital Relacional:</strong> Hace referencia a las relaciones que la empresa establece con clientes, proveedores y otros agentes del entorno empresarial. Estas relaciones son clave para el desarrollo de alianzas estratégicas, la colaboración y la creación de redes de valor.</p></li>
+</ol>
+</section>
+</section>
+</section>
+<section id="función-de-la-empresa-en-la-economía" class="level1">
+<h1>Función de la empresa en la economía</h1>
+<p>La empresa desempeña un papel fundamental en la economía al generar bienes y servicios de forma eficiente. A continuación, se detallan las funciones principales de la empresa en la economía:</p>
+<section id="generar-bienes-y-servicios-de-forma-eficiente" class="level2">
+<h2 class="anchored" data-anchor-id="generar-bienes-y-servicios-de-forma-eficiente">Generar bienes y servicios de forma eficiente</h2>
+<p>La empresa tiene como objetivo principal producir bienes y servicios de manera eficiente, utilizando los recursos disponibles de manera óptima. Esto implica minimizar los costos de producción y maximizar la calidad y la productividad.</p>
+</section>
+<section id="asumir-y-reducir-costos-de-mercado-y-de-información" class="level2">
+<h2 class="anchored" data-anchor-id="asumir-y-reducir-costos-de-mercado-y-de-información">Asumir y reducir costos de mercado y de información</h2>
+<p>La empresa asume y reduce los costos de mercado al organizar la producción de bienes y servicios de manera interna, en lugar de adquirirlos a través del mercado. Al hacerlo, la empresa puede aprovechar economías de escala, especialización y eficiencia en la producción.</p>
+<p>Además, la empresa también asume y reduce los costos de información al tener acceso a información privilegiada y especializada sobre el mercado, los consumidores y los proveedores. Esto le permite tomar decisiones informadas y estratégicas para mejorar su desempeño y competitividad.</p>
+</section>
+<section id="anticipar-el-producto-obtenido" class="level2">
+<h2 class="anchored" data-anchor-id="anticipar-el-producto-obtenido">Anticipar el producto obtenido</h2>
+<p>La empresa tiene la capacidad de anticipar el producto obtenido al identificar y satisfacer las necesidades y demandas de los consumidores. A través de la investigación de mercado y el análisis de las tendencias, la empresa puede desarrollar productos y servicios que se ajusten a las preferencias del público objetivo, anticipándose así a sus deseos y expectativas.</p>
+</section>
+<section id="asumir-el-riesgo-de-la-actividad-económica" class="level2">
+<h2 class="anchored" data-anchor-id="asumir-el-riesgo-de-la-actividad-económica">Asumir el riesgo de la actividad económica</h2>
+<p>La empresa asume el riesgo de la actividad económica al invertir recursos financieros, humanos y tecnológicos en la producción de bienes y servicios. Esto implica enfrentar la incertidumbre del mercado, los cambios en la demanda, la competencia y otros factores externos que pueden afectar su desempeño. La empresa asume este riesgo con el objetivo de obtener beneficios y lograr su supervivencia en el mercado.</p>
+</section>
+<section id="desarrollar-el-sistema-económico" class="level2">
+<h2 class="anchored" data-anchor-id="desarrollar-el-sistema-económico">Desarrollar el sistema económico</h2>
+<p>La empresa juega un papel crucial en el desarrollo del sistema económico al generar empleo, contribuir al crecimiento económico, fomentar la innovación y la investigación, y promover el intercambio comercial. La actividad empresarial impulsa el desarrollo económico de una sociedad al generar riqueza, crear oportunidades y estimular la competencia.</p>
+</section>
+<section id="coordinar-el-proceso-productivo" class="level2">
+<h2 class="anchored" data-anchor-id="coordinar-el-proceso-productivo">Coordinar el proceso productivo</h2>
+<p>La empresa desempeña un papel de coordinación en el proceso productivo al organizar y supervisar las diferentes etapas de producción. Esto implica la planificación, la asignación de recursos, la gestión de inventarios, la coordinación de equipos de trabajo y el control de la calidad, entre otras actividades. La empresa busca garantizar la eficiencia y la coherencia en el proceso productivo para lograr la satisfacción de los clientes y la obtención de resultados óptimos.</p>
+</section>
+</section>
+<section id="fundamentos-económicos-de-las-empresas" class="level1">
+<h1>Fundamentos económicos de las empresas</h1>
+<p>Según Gregory Mankiw, la economía se ocupa del estudio de cómo la sociedad administra sus recursos. En el contexto de las empresas, existen diferentes tipos de recursos que son fundamentales para su funcionamiento. A continuación, se detallan estos recursos y su relación con la producción de bienes y servicios:</p>
+<section id="recursos-naturales" class="level2">
+<h2 class="anchored" data-anchor-id="recursos-naturales">Recursos Naturales</h2>
+<p>Los recursos naturales son elementos que no son producidos por el ser humano y que se encuentran disponibles en la naturaleza. Ejemplos de recursos naturales incluyen terrenos, bosques, agua, minerales, petróleo, entre otros. Estos recursos son utilizados por las empresas en sus procesos de producción para extraer, transformar o utilizar como insumos en la elaboración de bienes y servicios.</p>
+</section>
+<section id="recursos-humanos-o-mano-de-obra" class="level2">
+<h2 class="anchored" data-anchor-id="recursos-humanos-o-mano-de-obra">Recursos Humanos o Mano de obra</h2>
+<p>Los recursos humanos se refieren a las capacidades físicas y mentales que las personas aplican en la producción de bienes y servicios. Esto incluye tanto el trabajo manual como el trabajo intelectual realizado por los empleados de una empresa. Los recursos humanos son esenciales para llevar a cabo las diferentes tareas y funciones necesarias en la producción y operación de la empresa.</p>
+</section>
+<section id="recursos-financieros-o-capital" class="level2">
+<h2 class="anchored" data-anchor-id="recursos-financieros-o-capital">Recursos Financieros o Capital</h2>
+<p>Los recursos financieros, también conocidos como capital, se refieren a los fondos con los que se adquieren los recursos naturales y humanos necesarios para la elaboración de productos. El capital puede provenir de diversas fuentes, como inversionistas, préstamos bancarios, capital propio de los empresarios, entre otros. Estos recursos financieros se utilizan para financiar la adquisición de activos, como maquinaria, equipos, tecnología, así como para cubrir los costos operativos y de producción de la empresa.</p>
+</section>
+<section id="producción-de-bienes-y-servicios" class="level2">
+<h2 class="anchored" data-anchor-id="producción-de-bienes-y-servicios">Producción de bienes y servicios</h2>
+<p>La producción de bienes y servicios es el resultado de combinar los recursos naturales, recursos humanos y recursos financieros. En este proceso, los recursos naturales se utilizan como insumos, los recursos humanos aportan su trabajo y conocimiento, y los recursos financieros permiten adquirir y utilizar eficientemente los otros recursos. La producción de bienes y servicios es el objetivo principal de las empresas, donde se busca transformar los insumos en productos finales que satisfagan las necesidades y demandas de los consumidores.</p>
+</section>
+</section>
+<section id="publicaciones-similares" class="level1">
+<h1>Publicaciones Similares</h1>
+<p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
+<ol type="1">
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos">Sistemas Economicos</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante">Mercado Relevante</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño">Medidas Concentracion Desempeño</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
+</ol>
+<p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2023" class="csl-entry quarto-appendix-citeas">
+Achalma, Edison. 2023. <span>“La empresa como organización
+económica,”</span> June. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/">https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/</a>.
+</div></div></section></div> ]]></description>
+  <category>Organizacion Industrial</category>
+  <guid>https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/</guid>
+  <pubDate>Tue, 13 Jun 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/organizacion-industrial/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Introducción a organización industrial</title>
   <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/</link>
+  <link>https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/</link>
   <description><![CDATA[ 
 
 <style>
@@ -1603,17 +1565,6 @@ z-index: 0;
 </section>
 <section id="el-modelo-de-análisis-de-la-organización-industrial---paradigma" class="level1">
 <h1>El modelo de análisis de la organización industrial - Paradigma</h1>
-<div class="cell" data-layout-align="default">
-<div class="cell-output-display">
-<div>
-<p></p><figure class="figure"><p></p>
-<div>
-
-</div>
-<p></p></figure><p></p>
-</div>
-</div>
-</div>
 <section id="estructura" class="level2">
 <h2 class="anchored" data-anchor-id="estructura">Estructura</h2>
 <p>Los elementos de la estructura en el análisis de la Organización Industrial comprenden aspectos estáticos y dinámicos que influyen en el funcionamiento de las empresas y el mercado. Algunos de estos elementos son:</p>
@@ -1698,13 +1649,13 @@ z-index: 0;
 <h1>Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
 <ol type="1">
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-sistemas-economicos">Sistemas Economicos</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-15-mercado-relevante">Mercado Relevante</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño">Medidas Concentracion Desempeño</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
-<li><a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos">Sistemas Economicos</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante">Mercado Relevante</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño">Medidas Concentracion Desempeño</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
+<li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
 </ol>
 <p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
 
@@ -1713,96 +1664,12 @@ z-index: 0;
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2023" class="csl-entry quarto-appendix-citeas">
 Achalma, Edison. 2023. <span>“Introducción a organización
-industrial,”</span> June. <a href="https://achalmaedison.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/">https://achalmaedison.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/</a>.
+industrial,”</span> June. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/">https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/</a>.
 </div></div></section></div> ]]></description>
   <category>Organizacion Industrial</category>
-  <category>Economía y Negocios</category>
-  <guid>https://achalmaedison.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/</guid>
+  <guid>https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/</guid>
   <pubDate>Mon, 12 Jun 2023 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/posts/2021-08-09-07-fallas-de-mercado/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Microeconomia</category>
-  <category>Blogdown</category>
-  <category>Desarrollo Web</category>
-  <category>Herramientas para R</category>
-  <guid>https://achalmaedison.netlify.app/posts/2021-08-09-07-fallas-de-mercado/</guid>
-  <pubDate>Mon, 09 Aug 2021 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/posts/2021-08-02-06-modelo-de-intercambio-puro/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Microeconomia</category>
-  <category>Blogdown</category>
-  <category>Desarrollo Web</category>
-  <category>Herramientas para R</category>
-  <guid>https://achalmaedison.netlify.app/posts/2021-08-02-06-modelo-de-intercambio-puro/</guid>
-  <pubDate>Mon, 02 Aug 2021 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/posts/2021-07-26-05-monopolio-y-modelos-de-oligopolio/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Microeconomia</category>
-  <category>Blogdown</category>
-  <category>Desarrollo Web</category>
-  <category>Herramientas para R</category>
-  <guid>https://achalmaedison.netlify.app/posts/2021-07-26-05-monopolio-y-modelos-de-oligopolio/</guid>
-  <pubDate>Mon, 26 Jul 2021 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/posts/2021-07-19-04-equilibrio-parcial-y-competitivo/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Microeconomia</category>
-  <category>Blogdown</category>
-  <category>Desarrollo Web</category>
-  <category>Herramientas para R</category>
-  <guid>https://achalmaedison.netlify.app/posts/2021-07-19-04-equilibrio-parcial-y-competitivo/</guid>
-  <pubDate>Mon, 19 Jul 2021 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/posts/2021-07-12-03-decisiones-de-consumo-y-produccion-en-el-tiempo/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Microeconomia</category>
-  <category>Blogdown</category>
-  <category>Desarrollo Web</category>
-  <category>Herramientas para R</category>
-  <guid>https://achalmaedison.netlify.app/posts/2021-07-12-03-decisiones-de-consumo-y-produccion-en-el-tiempo/</guid>
-  <pubDate>Mon, 12 Jul 2021 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/posts/2021-07-05-02-teoria-del-productor/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Microeconomia</category>
-  <category>Blogdown</category>
-  <category>Desarrollo Web</category>
-  <category>Herramientas para R</category>
-  <guid>https://achalmaedison.netlify.app/posts/2021-07-05-02-teoria-del-productor/</guid>
-  <pubDate>Mon, 05 Jul 2021 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Edison Achalma</dc:creator>
-  <link>https://achalmaedison.netlify.app/posts/2021-06-28-01-teoria-del-consumidor/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>Microeconomia</category>
-  <category>Blogdown</category>
-  <category>Desarrollo Web</category>
-  <category>Herramientas para R</category>
-  <guid>https://achalmaedison.netlify.app/posts/2021-06-28-01-teoria-del-consumidor/</guid>
-  <pubDate>Mon, 28 Jun 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/organizacion-industrial/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

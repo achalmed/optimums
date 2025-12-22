@@ -101,26 +101,6 @@ Al comprender a la empresa como un sistema, se puede tener una visión holístic
 
 La empresa está compuesta por diversos elementos que desempeñan un papel fundamental en su funcionamiento y desarrollo. A continuación, se detallan los elementos constitutivos de la empresa:
 
-```{mermaid}
-%%| echo: false
-flowchart TD
-    A[Elementos activos] 
-    A --> E(Empleados)
-    A --> B[Empresario]
-    B --> C(Propietaios)
-    B --> D(Directivos)
-
-    F[Elementos pasivos]
-    F --> G(Elementos tangibles)
-    G --> I(No duraderos) 
-    G --> J(Duraderos)
-    F --> H(Elementos intangibles)
-    H --> K(Capital intelectual)
-    K --> L(Capital humano) 
-    K --> M(Capital estructural)
-    K --> N(Capital relacional)
-```
-
 ## Elementos activos
 
 ### Empresario

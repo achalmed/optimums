@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,22 +31,22 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./assets/img/favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-cd918b563e4f768957f23be5314ee61b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-092403fec9bcbc50b0bb9dfc088d57e2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a04b885fc98d199d60c38db527abd914.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-author','listing-description','listing-date','listing-image','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -103,15 +103,13 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-XGH6TP6RB3"></script>
-
-<script type="text/javascript">
-
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-XGH6TP6RB3', { 'anonymize_ip': true});
-</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W2WTSQ6M');</script>
+<!-- End Google Tag Manager -->
 <link rel="stylesheet" href="assets/listing-default.css">
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -128,7 +126,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -144,15 +142,17 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Edison Achalma B.Sc. Econ." href="index.xml" data-external="1"><meta property="og:title" content="Microeconomía – Edison Achalma B.Sc. Econ.">
-<meta property="og:description" content="Este es mi blog donde practico compartir mi curiosidad. Incluye notas y tutoriales para mi futuro y espero que también para ti.  Sign up for my newsletter to receive updates about new posts.">
-<meta property="og:site_name" content="AchalmaEdison">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="alternate" type="application/rss+xml" title="Edison Achalma B.Sc. Econ." href="index.xml" data-external="1"><meta property="og:title" content="Edison Achalma B.Sc. Econ.">
+<meta property="og:description" content="Investigador y educador que aplica la ciencia de datos de forma que se dé prioridad a la equidad social.">
+<meta property="og:image" content="https://optimums.netlify.app//assets/img/sidebar.jpg">
+<meta property="og:site_name" content="Actus mercator">
 <meta property="og:locale" content="es_ES">
 <meta name="twitter:title" content="Microeconomía – Edison Achalma B.Sc. Econ.">
 <meta name="twitter:description" content="Este es mi blog donde practico compartir mi curiosidad. Incluye notas y tutoriales para mi futuro y espero que también para ti.  Sign up for my newsletter to receive updates about new posts.">
+<meta name="twitter:image" content="https://optimums.netlify.app/organizacion-industrial/featured.jpg">
 <meta name="twitter:creator" content="@achalmaedison">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -176,6 +176,59 @@ window.Quarto = {
     <a class="nav-link" href="https://achalmaedison.netlify.app/about/"> 
 <span class="menu-text">About</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-more" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+      <i class="bi bi-ellipsis-h" role="img" aria-label="More">
+</i> 
+ <span class="menu-text">More</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-more">    
+        <li>
+    <a class="dropdown-item" href="https://epsilon-y-beta.netlify.app/">
+ <span class="dropdown-text">Econometria</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://dialectica-y-mercado.netlify.app/">
+ <span class="dropdown-text">Filosofía</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://pecunia-fluxus.netlify.app/">
+ <span class="dropdown-text">Finanzas</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://actus-mercator.netlify.app/">
+ <span class="dropdown-text">Gestión empresarial</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://res-publica.netlify.app/">
+ <span class="dropdown-text">Gestión pública</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://methodica.netlify.app/">
+ <span class="dropdown-text">Metodología de la investigación</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://aequilibria.netlify.app/">
+ <span class="dropdown-text">Macroeconomía</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://axiomata.netlify.app/">
+ <span class="dropdown-text">Matemáticas</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://optimums.netlify.app/">
+ <span class="dropdown-text">Microeconomía</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://numerus-scriptum.netlify.app/">
+ <span class="dropdown-text">Programación y Software</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://chaska-x.netlify.app/">
+ <span class="dropdown-text">Seguridad informática</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/achalmed"> <i class="bi bi-github" role="img">
 </i> 
@@ -186,12 +239,20 @@ window.Quarto = {
 </i> 
 <span class="menu-text"></span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <div id="quarto-announcement" data-announcement-id="198edcd182a186efde93855487f89d6b" class="alert alert-primary hidden"><i class="bi bi-gift quarto-announcement-icon"></i><div class="quarto-announcement-content">
+<p>¡Bienvenidos a mi mundo! ¡Felices fiestas! Gracias por visitar 🎄</p>
+</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
@@ -233,44 +294,18 @@ Si disfrutas mis blogs y artículos sobre economía, finanzas y análisis de dat
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-ultimas-entradas">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="TWljcm9lY29ub21pYSUyQ0Jsb2dkb3duJTJDRGVzYXJyb2xsbyUyMFdlYiUyQ0hlcnJhbWllbnRhcyUyMHBhcmElMjBS" data-listing-date-sort="1711861200000" data-listing-file-modified-sort="1744921215735" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
-<div class="thumbnail"><a href="./posts/2024-03-31-por-editar/index.html" class="no-external">
-
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2024-03-31-por-editar/index.html" class="no-external">Editar</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2024-03-31-por-editar/index.html" class="no-external">
-<p>Descubre cómo crear tu propio sitio web estático con Blogdown, una herramienta poderosa que combina R Markdown y Hugo. Aprende a usar comandos sencillos para personalizar, construir y alojar tu sitio web de manera fácil y rápida. ¡Comienza tu proyecto web hoy mismo!</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2024-03-31-por-editar/index.html" class="no-external">
-<div class="listing-date">
-3/31/24
-</div>
-<div class="listing-author">
-Edison Achalma
-</div>
-<div class="listing-reading-time">1 min</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="T3JnYW5pemFjaW9uJTIwSW5kdXN0cmlhbCUyQ0Vjb25vbSVDMyVBRGElMjB5JTIwTmVnb2Npb3M=" data-listing-date-sort="1687496400000" data-listing-file-modified-sort="1744921215734" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="9" data-listing-word-count-sort="1799">
+<div class="quarto-post image-right" data-index="0" data-categories="T3JnYW5pemFjaW9uJTIwSW5kdXN0cmlhbA==" data-listing-date-sort="1687496400000" data-listing-file-modified-sort="1766399430184" data-listing-date-modified-sort="1766379600000" data-listing-reading-time-sort="9" data-listing-word-count-sort="1799">
 <div class="thumbnail"><a href="./organizacion-industrial/2023-06-23-elasticidad/index.html" class="no-external">
 
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
+<img loading="lazy" src="./organizacion-industrial/featured.jpg" class="thumbnail-image">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./organizacion-industrial/2023-06-23-elasticidad/index.html" class="no-external">Explorando la Elasticidad. Entendiendo las Dinámicas del Mercado</a>
+<a href="./organizacion-industrial/2023-06-23-elasticidad/index.html" class="no-external">Elasticidad y poder de mercado</a>
 </h3>
 <div class="delink listing-description"><a href="./organizacion-industrial/2023-06-23-elasticidad/index.html" class="no-external">
-<p>Primer parrafo de abstrac</p>
+<p>Elasticidad precio de la demanda, Lerner index y su uso para medir poder de mercado en organización industrial.</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -285,70 +320,18 @@ Edison Achalma
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="T3JnYW5pemFjaW9uJTIwSW5kdXN0cmlhbCUyQ0Vjb25vbSVDMyVBRGElMjB5JTIwTmVnb2Npb3M=" data-listing-date-sort="1686978000000" data-listing-file-modified-sort="1744921215733" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="2" data-listing-word-count-sort="311">
-<div class="thumbnail"><a href="./organizacion-industrial/2023-06-17-estructura-del-mercado/index.html" class="no-external">
-
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./organizacion-industrial/2023-06-17-estructura-del-mercado/index.html" class="no-external">Medidas de concentracion</a>
-</h3>
-<div class="delink listing-description"><a href="./organizacion-industrial/2023-06-17-estructura-del-mercado/index.html" class="no-external">
-<p>Primer parrafo de abstrac</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./organizacion-industrial/2023-06-17-estructura-del-mercado/index.html" class="no-external">
-<div class="listing-date">
-6/17/23
-</div>
-<div class="listing-author">
-Edison Achalma
-</div>
-<div class="listing-reading-time">2 min</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="T3JnYW5pemFjaW9uJTIwSW5kdXN0cmlhbCUyQ0Vjb25vbSVDMyVBRGElMjB5JTIwTmVnb2Npb3M=" data-listing-date-sort="1686891600000" data-listing-file-modified-sort="1744921215733" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="32" data-listing-word-count-sort="6285">
-<div class="thumbnail"><a href="./organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.html" class="no-external">
-
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.html" class="no-external">Medidas de concentracion</a>
-</h3>
-<div class="delink listing-description"><a href="./organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.html" class="no-external">
-<p>Primer parrafo de abstrac</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.html" class="no-external">
-<div class="listing-date">
-6/16/23
-</div>
-<div class="listing-author">
-Edison Achalma
-</div>
-<div class="listing-reading-time">32 min</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="T3JnYW5pemFjaW9uJTIwSW5kdXN0cmlhbCUyQ0Vjb25vbSVDMyVBRGElMjB5JTIwTmVnb2Npb3M=" data-listing-date-sort="1686805200000" data-listing-file-modified-sort="1744921215729" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="35" data-listing-word-count-sort="6942">
+<div class="quarto-post image-right" data-index="1" data-categories="T3JnYW5pemFjaW9uJTIwSW5kdXN0cmlhbA==" data-listing-date-sort="1686805200000" data-listing-file-modified-sort="1766399430170" data-listing-date-modified-sort="1766379600000" data-listing-reading-time-sort="35" data-listing-word-count-sort="6942">
 <div class="thumbnail"><a href="./organizacion-industrial/2023-06-15-mercado-relevante/index.html" class="no-external">
 
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
+<img loading="lazy" src="./organizacion-industrial/featured.jpg" class="thumbnail-image">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./organizacion-industrial/2023-06-15-mercado-relevante/index.html" class="no-external">El Mercado Relevante Industrial de Bienes y el Mercado Geográfico</a>
+<a href="./organizacion-industrial/2023-06-15-mercado-relevante/index.html" class="no-external">Definición de mercado relevante</a>
 </h3>
 <div class="delink listing-description"><a href="./organizacion-industrial/2023-06-15-mercado-relevante/index.html" class="no-external">
-<p>Primer parrafo de abstrac</p>
+<p>Métodos SSNIP y criterios para delimitar mercados en análisis de competencia y regulación antimonopolio.</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -363,44 +346,18 @@ Edison Achalma
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="T3JnYW5pemFjaW9uJTIwSW5kdXN0cmlhbCUyQ0Vjb25vbSVDMyVBRGElMjB5JTIwTmVnb2Npb3M=" data-listing-date-sort="1686632400000" data-listing-file-modified-sort="1744921215727" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="12" data-listing-word-count-sort="2291">
-<div class="thumbnail"><a href="./organizacion-industrial/2023-06-13-empresa-como-organizacion/index.html" class="no-external">
-
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./organizacion-industrial/2023-06-13-empresa-como-organizacion/index.html" class="no-external">La Empresa como Organización. Promoviendo Valores Cooperativos, Humanos y Sociales</a>
-</h3>
-<div class="delink listing-description"><a href="./organizacion-industrial/2023-06-13-empresa-como-organizacion/index.html" class="no-external">
-<p>Primer parrafo de abstrac</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./organizacion-industrial/2023-06-13-empresa-como-organizacion/index.html" class="no-external">
-<div class="listing-date">
-6/13/23
-</div>
-<div class="listing-author">
-Edison Achalma
-</div>
-<div class="listing-reading-time">12 min</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="T3JnYW5pemFjaW9uJTIwSW5kdXN0cmlhbCUyQ0Vjb25vbSVDMyVBRGE=" data-listing-date-sort="1686632400000" data-listing-file-modified-sort="1744921215728" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="25" data-listing-word-count-sort="4947">
+<div class="quarto-post image-right" data-index="2" data-categories="T3JnYW5pemFjaW9uJTIwSW5kdXN0cmlhbA==" data-listing-date-sort="1686632400000" data-listing-file-modified-sort="1766399430156" data-listing-date-modified-sort="1766379600000" data-listing-reading-time-sort="25" data-listing-word-count-sort="4947">
 <div class="thumbnail"><a href="./organizacion-industrial/2023-06-13-sistemas-economicos/index.html" class="no-external">
 
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
+<img loading="lazy" src="./organizacion-industrial/featured.jpg" class="thumbnail-image">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./organizacion-industrial/2023-06-13-sistemas-economicos/index.html" class="no-external">Introducción a los Sistemas Económicos. Cómo se distribuyen los recursos y se producen</a>
+<a href="./organizacion-industrial/2023-06-13-sistemas-economicos/index.html" class="no-external">Sistemas económicos comparados</a>
 </h3>
 <div class="delink listing-description"><a href="./organizacion-industrial/2023-06-13-sistemas-economicos/index.html" class="no-external">
-<p>Primer parrafo de abstrac</p>
+<p>Diferencias entre capitalismo, socialismo y economías mixtas desde la perspectiva de organización industrial.</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -415,10 +372,36 @@ Edison Achalma
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="T3JnYW5pemFjaW9uJTIwSW5kdXN0cmlhbCUyQ0Vjb25vbSVDMyVBRGElMjB5JTIwTmVnb2Npb3M=" data-listing-date-sort="1686546000000" data-listing-file-modified-sort="1744921215726" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="29" data-listing-word-count-sort="5750">
+<div class="quarto-post image-right" data-index="3" data-categories="T3JnYW5pemFjaW9uJTIwSW5kdXN0cmlhbA==" data-listing-date-sort="1686632400000" data-listing-file-modified-sort="1766409130566" data-listing-date-modified-sort="1766379600000" data-listing-reading-time-sort="11" data-listing-word-count-sort="2196">
+<div class="thumbnail"><a href="./organizacion-industrial/2023-06-13-empresa-como-organizacion/index.html" class="no-external">
+
+<img loading="lazy" src="./organizacion-industrial/featured.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./organizacion-industrial/2023-06-13-empresa-como-organizacion/index.html" class="no-external">La empresa como organización económica</a>
+</h3>
+<div class="delink listing-description"><a href="./organizacion-industrial/2023-06-13-empresa-como-organizacion/index.html" class="no-external">
+<p>Teoría de la firma, costos de transacción y límites de la empresa en el análisis de organización industrial.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./organizacion-industrial/2023-06-13-empresa-como-organizacion/index.html" class="no-external">
+<div class="listing-date">
+6/13/23
+</div>
+<div class="listing-author">
+Edison Achalma
+</div>
+<div class="listing-reading-time">11 min</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="T3JnYW5pemFjaW9uJTIwSW5kdXN0cmlhbA==" data-listing-date-sort="1686546000000" data-listing-file-modified-sort="1766406882897" data-listing-date-modified-sort="1766379600000" data-listing-reading-time-sort="29" data-listing-word-count-sort="5724">
 <div class="thumbnail"><a href="./organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.html" class="no-external">
 
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
+<img loading="lazy" src="./organizacion-industrial/featured.jpg" class="thumbnail-image">
 
 </a></div>
 <div class="body">
@@ -426,7 +409,7 @@ Edison Achalma
 <a href="./organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.html" class="no-external">Introducción a organización industrial</a>
 </h3>
 <div class="delink listing-description"><a href="./organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.html" class="no-external">
-<p>Primer parrafo de abstrac</p>
+<p>Conceptos fundamentales de la economía de la organización industrial, estructuras de mercado y conducta empresarial.</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -441,191 +424,12 @@ Edison Achalma
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="TWljcm9lY29ub21pYSUyQ0Jsb2dkb3duJTJDRGVzYXJyb2xsbyUyMFdlYiUyQ0hlcnJhbWllbnRhcyUyMHBhcmElMjBS" data-listing-date-sort="1628485200000" data-listing-file-modified-sort="1744921215735" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
-<div class="thumbnail"><a href="./posts/2021-08-09-07-fallas-de-mercado/index.html" class="no-external">
-
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2021-08-09-07-fallas-de-mercado/index.html" class="no-external">Editar</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2021-08-09-07-fallas-de-mercado/index.html" class="no-external">
-<p>Descubre cómo crear tu propio sitio web estático con Blogdown, una herramienta poderosa que combina R Markdown y Hugo. Aprende a usar comandos sencillos para personalizar, construir y alojar tu sitio web de manera fácil y rápida. ¡Comienza tu proyecto web hoy mismo!</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2021-08-09-07-fallas-de-mercado/index.html" class="no-external">
-<div class="listing-date">
-8/9/21
-</div>
-<div class="listing-author">
-Edison Achalma
-</div>
-<div class="listing-reading-time">1 min</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="9" data-categories="TWljcm9lY29ub21pYSUyQ0Jsb2dkb3duJTJDRGVzYXJyb2xsbyUyMFdlYiUyQ0hlcnJhbWllbnRhcyUyMHBhcmElMjBS" data-listing-date-sort="1627880400000" data-listing-file-modified-sort="1744921215734" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
-<div class="thumbnail"><a href="./posts/2021-08-02-06-modelo-de-intercambio-puro/index.html" class="no-external">
-
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2021-08-02-06-modelo-de-intercambio-puro/index.html" class="no-external">Editar</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2021-08-02-06-modelo-de-intercambio-puro/index.html" class="no-external">
-<p>Descubre cómo crear tu propio sitio web estático con Blogdown, una herramienta poderosa que combina R Markdown y Hugo. Aprende a usar comandos sencillos para personalizar, construir y alojar tu sitio web de manera fácil y rápida. ¡Comienza tu proyecto web hoy mismo!</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2021-08-02-06-modelo-de-intercambio-puro/index.html" class="no-external">
-<div class="listing-date">
-8/2/21
-</div>
-<div class="listing-author">
-Edison Achalma
-</div>
-<div class="listing-reading-time">1 min</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="10" data-categories="TWljcm9lY29ub21pYSUyQ0Jsb2dkb3duJTJDRGVzYXJyb2xsbyUyMFdlYiUyQ0hlcnJhbWllbnRhcyUyMHBhcmElMjBS" data-listing-date-sort="1627275600000" data-listing-file-modified-sort="1744921215734" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
-<div class="thumbnail"><a href="./posts/2021-07-26-05-monopolio-y-modelos-de-oligopolio/index.html" class="no-external">
-
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2021-07-26-05-monopolio-y-modelos-de-oligopolio/index.html" class="no-external">Editar</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2021-07-26-05-monopolio-y-modelos-de-oligopolio/index.html" class="no-external">
-<p>Descubre cómo crear tu propio sitio web estático con Blogdown, una herramienta poderosa que combina R Markdown y Hugo. Aprende a usar comandos sencillos para personalizar, construir y alojar tu sitio web de manera fácil y rápida. ¡Comienza tu proyecto web hoy mismo!</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2021-07-26-05-monopolio-y-modelos-de-oligopolio/index.html" class="no-external">
-<div class="listing-date">
-7/26/21
-</div>
-<div class="listing-author">
-Edison Achalma
-</div>
-<div class="listing-reading-time">1 min</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="11" data-categories="TWljcm9lY29ub21pYSUyQ0Jsb2dkb3duJTJDRGVzYXJyb2xsbyUyMFdlYiUyQ0hlcnJhbWllbnRhcyUyMHBhcmElMjBS" data-listing-date-sort="1626670800000" data-listing-file-modified-sort="1744921215734" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
-<div class="thumbnail"><a href="./posts/2021-07-19-04-equilibrio-parcial-y-competitivo/index.html" class="no-external">
-
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2021-07-19-04-equilibrio-parcial-y-competitivo/index.html" class="no-external">Editar</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2021-07-19-04-equilibrio-parcial-y-competitivo/index.html" class="no-external">
-<p>Descubre cómo crear tu propio sitio web estático con Blogdown, una herramienta poderosa que combina R Markdown y Hugo. Aprende a usar comandos sencillos para personalizar, construir y alojar tu sitio web de manera fácil y rápida. ¡Comienza tu proyecto web hoy mismo!</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2021-07-19-04-equilibrio-parcial-y-competitivo/index.html" class="no-external">
-<div class="listing-date">
-7/19/21
-</div>
-<div class="listing-author">
-Edison Achalma
-</div>
-<div class="listing-reading-time">1 min</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="12" data-categories="TWljcm9lY29ub21pYSUyQ0Jsb2dkb3duJTJDRGVzYXJyb2xsbyUyMFdlYiUyQ0hlcnJhbWllbnRhcyUyMHBhcmElMjBS" data-listing-date-sort="1626066000000" data-listing-file-modified-sort="1744921215734" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
-<div class="thumbnail"><a href="./posts/2021-07-12-03-decisiones-de-consumo-y-produccion-en-el-tiempo/index.html" class="no-external">
-
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2021-07-12-03-decisiones-de-consumo-y-produccion-en-el-tiempo/index.html" class="no-external">Editar</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2021-07-12-03-decisiones-de-consumo-y-produccion-en-el-tiempo/index.html" class="no-external">
-<p>Descubre cómo crear tu propio sitio web estático con Blogdown, una herramienta poderosa que combina R Markdown y Hugo. Aprende a usar comandos sencillos para personalizar, construir y alojar tu sitio web de manera fácil y rápida. ¡Comienza tu proyecto web hoy mismo!</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2021-07-12-03-decisiones-de-consumo-y-produccion-en-el-tiempo/index.html" class="no-external">
-<div class="listing-date">
-7/12/21
-</div>
-<div class="listing-author">
-Edison Achalma
-</div>
-<div class="listing-reading-time">1 min</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="13" data-categories="TWljcm9lY29ub21pYSUyQ0Jsb2dkb3duJTJDRGVzYXJyb2xsbyUyMFdlYiUyQ0hlcnJhbWllbnRhcyUyMHBhcmElMjBS" data-listing-date-sort="1625461200000" data-listing-file-modified-sort="1744921215734" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
-<div class="thumbnail"><a href="./posts/2021-07-05-02-teoria-del-productor/index.html" class="no-external">
-
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2021-07-05-02-teoria-del-productor/index.html" class="no-external">Editar</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2021-07-05-02-teoria-del-productor/index.html" class="no-external">
-<p>Descubre cómo crear tu propio sitio web estático con Blogdown, una herramienta poderosa que combina R Markdown y Hugo. Aprende a usar comandos sencillos para personalizar, construir y alojar tu sitio web de manera fácil y rápida. ¡Comienza tu proyecto web hoy mismo!</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2021-07-05-02-teoria-del-productor/index.html" class="no-external">
-<div class="listing-date">
-7/5/21
-</div>
-<div class="listing-author">
-Edison Achalma
-</div>
-<div class="listing-reading-time">1 min</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="14" data-categories="TWljcm9lY29ub21pYSUyQ0Jsb2dkb3duJTJDRGVzYXJyb2xsbyUyMFdlYiUyQ0hlcnJhbWllbnRhcyUyMHBhcmElMjBS" data-listing-date-sort="1624856400000" data-listing-file-modified-sort="1744921215734" data-listing-date-modified-sort="1753678800000" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
-<div class="thumbnail"><a href="./posts/2021-06-28-01-teoria-del-consumidor/index.html" class="no-external">
-
-<p class="card-img-top"><img src="sidebar.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2021-06-28-01-teoria-del-consumidor/index.html" class="no-external">Editar</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2021-06-28-01-teoria-del-consumidor/index.html" class="no-external">
-<p>Descubre cómo crear tu propio sitio web estático con Blogdown, una herramienta poderosa que combina R Markdown y Hugo. Aprende a usar comandos sencillos para personalizar, construir y alojar tu sitio web de manera fácil y rápida. ¡Comienza tu proyecto web hoy mismo!</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2021-06-28-01-teoria-del-consumidor/index.html" class="no-external">
-<div class="listing-date">
-6/28/21
-</div>
-<div class="listing-author">
-Edison Achalma
-</div>
-<div class="listing-reading-time">1 min</div>
-</a>
-</div>
-</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2WTSQ6M" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -677,13 +481,14 @@ Edison Achalma
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -698,7 +503,7 @@ Edison Achalma
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/achalmaedison\.netlify\.app\/");
+        var filterRegex = new RegExp("https:\/\/optimums\.netlify\.app\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -1032,7 +837,7 @@ Edison Achalma
 <p>© 2025 Edison Achalma ∙ Made with <a href="https://quarto.org">Quarto</a></p>
 </div>   
     <div class="nav-footer-center">
-<p><a class="link-dark me-1" href="./accessibility.html" title="Accessibility commitment" target="_blank" rel="noopener"><i class="fa-solid fa-universal-access" aria-label="universal-access"></i></a> <a class="link-dark me-1" href="https://fosstodon.org/@achalmaedison" title="mastodon" target="_blank" rel="noopener"><i class="fa-brands fa-mastodon" aria-label="mastodon"></i></a> <a class="link-dark me-1" href="https://github.com/achalmed" title="github" target="_blank" rel="noopener"><i class="fa-brands fa-github" aria-label="github"></i></a> <a class="link-dark me-1" href="https://orcid.org/0000-0001-6996-3364" title="orcid" target="_blank" rel="noopener"><i class="ai  ai-orcid" style="color:black"></i></a> <a class="link-dark me-1" href="https://scholar.google.com/citations?hl=en&amp;user=LvAkIvcAAAAJ" title="Google Scholar" target="_blank" rel="noopener"><i class="ai  ai-google-scholar" style="color:black"></i></a> <a class="link-dark me-1" href="https://linkedin.com/in/achalmaedison" title="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a></p>
+<p><a class="link-dark me-1" href="./accessibility.html" title="Accessibility commitment" target="_blank" rel="noopener"><i class="fa-solid fa-universal-access" aria-label="universal-access"></i></a> <a class="link-dark me-1" href="https://fosstodon.org/@achalmaedison" title="mastodon" target="_blank" rel="noopener"><i class="fa-brands fa-mastodon" aria-label="mastodon"></i></a> <a class="link-dark me-1" href="https://github.com/achalmed" title="github" target="_blank" rel="noopener"><i class="fa-brands fa-github" aria-label="github"></i></a> <a class="link-dark me-1" href="https://linkedin.com/in/achalmaedison" title="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a></p>
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">

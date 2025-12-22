@@ -269,15 +269,6 @@ Por otro lado, las condiciones básicas de demanda se centran en la perspectiva 
 
 # El modelo de análisis de la organización industrial - Paradigma
 
-```{mermaid}
-%%| echo: false
-flowchart TD
-    A[Organización industrial]
-    A --> D[Estructura]
-    A --> E[Conducta]
-    A --> F[Resultados]
-```
-
 ## Estructura
 
 Los elementos de la estructura en el análisis de la Organización Industrial comprenden aspectos estáticos y dinámicos que influyen en el funcionamiento de las empresas y el mercado. Algunos de estos elementos son:

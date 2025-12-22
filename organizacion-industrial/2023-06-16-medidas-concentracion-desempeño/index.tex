@@ -6,6 +6,7 @@
   nolmodern,
   notxfonts,
   notimes,
+  12pt,
   colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{apa7}
 
 \usepackage{amsmath}
@@ -17,8 +18,6 @@
 \babelprovide[main,import]{spanish}
 
 
-\babelfont{rm}[,RawFeature={fallback=mainfontfallback}]{Latin Modern
-Roman}
 % get rid of language-specific shorthands (see #6817):
 \let\LanguageShortHands\languageshorthands
 \def\languageshorthands#1{}
@@ -115,22 +114,19 @@ Roman}
 
 
 
-\usepackage{fontspec} 
+\usepackage{newtx}
 
 \defaultfontfeatures{Scale=MatchLowercase}
 \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 
-  \setmainfont[,RawFeature={fallback=mainfontfallback}]{Latin Modern
-Roman}
 
 
 
 
-\title{Medidas de concentracion: Explorando los pilares fundamentales
-para comprender el funcionamiento y éxito de la industria moderna}
+\title{Medidas de concentración y desempeño}
 
 
-\shorttitle{Editar}
+\shorttitle{Medidas de concentración y desempeño}
 
 
 \usepackage{etoolbox}
@@ -157,7 +153,8 @@ de Huamanga}}
 \date{2023-06-16}
 
 
-\abstract{Primer parrafo de abstrac }
+\abstract{Este abstract será actualizado una vez que se complete el
+contenido final del artículo. }
 
 \keywords{keyword1, keyword2}
 
@@ -225,14 +222,14 @@ Achalma, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@uns
   \newcommand\contentsname{Tabla de contenidos}
 \fi
 \ifdefined\listfigurename
-  \renewcommand*\listfigurename{List of Figures}
+  \renewcommand*\listfigurename{Lista de Figuras}
 \else
-  \newcommand\listfigurename{List of Figures}
+  \newcommand\listfigurename{Lista de Figuras}
 \fi
 \ifdefined\listtablename
-  \renewcommand*\listtablename{List of Tables}
+  \renewcommand*\listtablename{Lista de Tablas}
 \else
-  \newcommand\listtablename{List of Tables}
+  \newcommand\listtablename{Lista de Tablas}
 \fi
 \ifdefined\figurename
   \renewcommand*\figurename{Figura}
@@ -249,7 +246,7 @@ Achalma, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@uns
 \floatstyle{ruled}
 \@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
 \floatname{codelisting}{Listing}
-\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\newcommand*\listoflistings{\listof{codelisting}{Lista de Listings}}
 \makeatother
 \makeatletter
 \makeatother
@@ -295,14 +292,17 @@ Achalma, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@uns
 
 \maketitle
 
+
 \hypertarget{toc}{}
 \tableofcontents
 \newpage
-\section[Introduction]{Medidas de concentracion}
+\section[Introduction]{Medidas de concentración y desempeño}
 
-\setcounter{secnumdepth}{5}
+\setcounter{secnumdepth}{3}
 
 \setlength\LTleft{0pt}
+
+
 
 
 \textless!--\# MEDICION DE LA ESTRUCTURA Y DESEMPEÑO DE LA ORGANIZACIÓN
@@ -1414,32 +1414,32 @@ algunas sugerencias:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf}{\faIcon{file-pdf}}
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial}{Introducion
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf}{\faIcon{file-pdf}}
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial}{Introducion
   A Organizacion Industrial}
 \item
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf}{\faIcon{file-pdf}}
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-empresa-como-organizacion}{Empresa
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf}{\faIcon{file-pdf}}
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion}{Empresa
   Como Organizacion}
 \item
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf}{\faIcon{file-pdf}}
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-13-sistemas-economicos}{Sistemas
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf}{\faIcon{file-pdf}}
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos}{Sistemas
   Economicos}
 \item
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf}{\faIcon{file-pdf}}
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-15-mercado-relevante}{Mercado
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf}{\faIcon{file-pdf}}
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante}{Mercado
   Relevante}
 \item
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.pdf}{\faIcon{file-pdf}}
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño}{Medidas
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.pdf}{\faIcon{file-pdf}}
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño}{Medidas
   Concentracion Desempeño}
 \item
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf}{\faIcon{file-pdf}}
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-17-estructura-del-mercado}{Estructura
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf}{\faIcon{file-pdf}}
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado}{Estructura
   Del Mercado}
 \item
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-23-elasticidad/index.pdf}{\faIcon{file-pdf}}
-  \href{https://achalmaedison.netlify.app/microeconomia/organizacion-industrial/2023-06-23-elasticidad}{Elasticidad}
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf}{\faIcon{file-pdf}}
+  \href{https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad}{Elasticidad}
 \end{enumerate}
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y

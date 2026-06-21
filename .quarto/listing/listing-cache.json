@@ -1,8 +1,0 @@
-{
-  "listingMap": {
-    "index.qmd": [
-      "posts/*/index.qmd",
-      "organizacion-industrial/*/index.qmd"
-    ]
-  }
-}

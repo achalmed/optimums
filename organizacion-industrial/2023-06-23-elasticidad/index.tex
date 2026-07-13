@@ -82,6 +82,7 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
@@ -163,9 +164,14 @@ contenido final del artículo. }
 \par{   El autor no tiene conflictos de interés que revelar.    Los
 roles de autor se clasificaron utilizando la taxonomía de roles de
 colaborador (CRediT; https://credit.niso.org/) de la siguiente
-manera:  Edison Achalma:   conceptualización, redacción}
+manera:  Edison Achalma:   conceptualización, metodología, análisis
+formal, investigación, recursos, curación de
+datos, redacción, visualización, supervisión, administración del
+proyecto}
 \par{La correspondencia relativa a este artículo debe dirigirse a Edison
-Achalma, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@unsch.edu.pe}}
+Achalma, Escuela Profesional de Economía, Universidad Nacional de San
+Cristóbal de Huamanga, Portal Independencia N°
+57, Ayacucho, AYA 5001, Perú, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@unsch.edu.pe}}
 }
 
 \usepackage{pbalance}
@@ -213,6 +219,10 @@ Achalma, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@uns
 
 
 
+\hypersetup{
+  pdftitle={Elasticidad y poder de mercado},
+  pdfauthor={Autor}
+}
 \makeatletter
 \@ifpackageloaded{caption}{}{\usepackage{caption}}
 \AtBeginDocument{%
@@ -245,8 +255,8 @@ Achalma, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@uns
 \@ifpackageloaded{float}{}{\usepackage{float}}
 \floatstyle{ruled}
 \@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
-\floatname{codelisting}{Listing}
-\newcommand*\listoflistings{\listof{codelisting}{Lista de Listings}}
+\floatname{codelisting}{Listado}
+\newcommand*\listoflistings{\listof{codelisting}{Lista de Listados}}
 \makeatother
 \makeatletter
 \makeatother
@@ -418,7 +428,7 @@ precio.
 Las diferentes fórmulas de la elasticidad precio de la demanda son las
 siguientes:
 
-\begin{equation}\phantomsection\label{eq-1}{
+\begin{equation}\protect\phantomsection\label{eq-1}{
 Elasticidad precio de la demanda =\frac{\% cambio en la cantidad demandada}{\% cambio en el precio}
 }\end{equation}
 
@@ -434,7 +444,7 @@ entre el porcentaje de cambio en el precio.
 = \frac{\frac{\Delta X^d}{X_i^d}}{\frac{\Delta P_x^d}{P_i^d}}
 \]
 
-\begin{equation}\phantomsection\label{eq-2}{
+\begin{equation}\protect\phantomsection\label{eq-2}{
 = \frac{\Delta X^d P_i^d}{\Delta P_x^d X_i^d}
 }\end{equation}
 
@@ -445,7 +455,7 @@ cantidad inicial por la cantidad inicial, y hacemos lo mismo con la
 diferencia entre el precio final y el precio inicial, dividiéndola por
 el precio inicial.
 
-\begin{equation}\phantomsection\label{eq-3}{
+\begin{equation}\protect\phantomsection\label{eq-3}{
 \eta _{PX^d} = \frac{\partial X^d P_x}{\partial P_x X^d}
 }\end{equation}
 
@@ -453,21 +463,21 @@ La Ecuación~\ref{eq-3} se basa en el cálculo de derivadas parciales. Nos
 permite medir la elasticidad precio de la demanda considerando los
 cambios infinitesimales en la cantidad demandada y el precio.
 
-\begin{equation}\phantomsection\label{eq-4}{
+\begin{equation}\protect\phantomsection\label{eq-4}{
 \eta _{PX^d} = \frac{\partial \ln(\mathrm X)}{\partial  \ln(\mathrm P_x)}
 }\end{equation}
 
 La Ecuación~\ref{eq-4} utiliza logaritmos naturales para calcular la
 elasticidad. Tomamos las derivadas parciales de los logaritmos de la
 cantidad demandada y el precio para obtener la elasticidad.
-\begin{equation}\phantomsection\label{eq-5}{
+\begin{equation}\protect\phantomsection\label{eq-5}{
 \eta _{PX^d} = \frac{\Delta \% X^d}{\Delta \% P_x}
 }\end{equation}
 
 La Ecuación~\ref{eq-5} nos muestra cómo medir la elasticidad utilizando
 los cambios porcentuales en la cantidad demandada y el precio.
 
-\begin{equation}\phantomsection\label{eq-6}{
+\begin{equation}\protect\phantomsection\label{eq-6}{
 \eta_{PX^d} = m_{ip} \frac{P_i^d}{X^d}
 }\end{equation}
 

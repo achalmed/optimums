@@ -84,6 +84,7 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
@@ -165,9 +166,14 @@ contenido final del artículo. }
 \par{   El autor no tiene conflictos de interés que revelar.    Los
 roles de autor se clasificaron utilizando la taxonomía de roles de
 colaborador (CRediT; https://credit.niso.org/) de la siguiente
-manera:  Edison Achalma:   conceptualización, redacción}
+manera:  Edison Achalma:   conceptualización, metodología, análisis
+formal, investigación, recursos, curación de
+datos, redacción, visualización, supervisión, administración del
+proyecto}
 \par{La correspondencia relativa a este artículo debe dirigirse a Edison
-Achalma, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@unsch.edu.pe}}
+Achalma, Escuela Profesional de Economía, Universidad Nacional de San
+Cristóbal de Huamanga, Portal Independencia N°
+57, Ayacucho, AYA 5001, Perú, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@unsch.edu.pe}}
 }
 
 \makeatletter
@@ -182,6 +188,10 @@ Achalma, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@uns
 
 
 
+\hypersetup{
+  pdftitle={Definici\'{o}n de mercado relevante},
+  pdfauthor={Autor}
+}
 \makeatletter
 \@ifpackageloaded{caption}{}{\usepackage{caption}}
 \AtBeginDocument{%
@@ -214,8 +224,8 @@ Achalma, Email: \href{mailto:elmer.achalma.09@unsch.edu.pe}{elmer.achalma.09@uns
 \@ifpackageloaded{float}{}{\usepackage{float}}
 \floatstyle{ruled}
 \@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
-\floatname{codelisting}{Listing}
-\newcommand*\listoflistings{\listof{codelisting}{Lista de Listings}}
+\floatname{codelisting}{Listado}
+\newcommand*\listoflistings{\listof{codelisting}{Lista de Listados}}
 \makeatother
 \makeatletter
 \makeatother
@@ -324,6 +334,7 @@ actividad económica.
 \subsection{Las Diferencias entre Sistemas
 Económicos}\label{las-diferencias-entre-sistemas-econuxf3micos}
 
+{\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.2593}}
   >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3598}}
@@ -356,6 +367,7 @@ Especialización y Opciones de Empleo & Los individuos eligen su
 especialización y hay variedad de empleo. & El Estado determina la
 especialización y asignación de empleo. \\
 \end{longtable}
+}
 
 Esta tabla compara las características de la economía de mercado y la
 economía planificada. La economía de mercado se basa en la propiedad
@@ -578,11 +590,11 @@ demanda}\label{elasticida-cruzada-de-la-demanda}
 
 La elasticidad cruzada de la demanda se calcula mediante la fórmula:
 
-\begin{equation}\phantomsection\label{eq-1}{
+\begin{equation}\protect\phantomsection\label{eq-1}{
 \eta_{XP_{y}} = \frac{\partial X}{\partial P_{y}} \frac{P_{y}}{X}
 }\end{equation}
 
-\begin{equation}\phantomsection\label{eq-2}{
+\begin{equation}\protect\phantomsection\label{eq-2}{
 \eta_{XP_{y}} = \frac{\frac{\Delta X}{X}}{\frac{\Delta P_{y}}{P_{y}}}
 }\end{equation}
 
@@ -790,7 +802,7 @@ La demanda total del mercado \(D_T\) se puede expresar como la demanda
 del producto específico \(X_T^d\) multiplicada por el precio del
 producto \(P_x\). Esta relación se muestra en la Ecuación~\ref{eq-3}:
 
-\begin{equation}\phantomsection\label{eq-3}{
+\begin{equation}\protect\phantomsection\label{eq-3}{
 D_T = X_{T}^{d} = X_{T}^{d} P_{x}
 }\end{equation}
 
@@ -800,7 +812,7 @@ relacionados. Se puede expresar como la demanda del producto residual
 \(X_R^d\) multiplicada por el precio del producto \(P_x\). Esta relación
 se muestra en la Ecuación~\ref{eq-4}:
 
-\begin{equation}\phantomsection\label{eq-4}{
+\begin{equation}\protect\phantomsection\label{eq-4}{
 D_R = X_R^d = X_R^d P_x
 }\end{equation}
 
@@ -809,7 +821,7 @@ empresas en el mercado, que se puede expresar como la oferta del
 producto complementario \(X_C^S\) multiplicada por el precio del
 producto \(P_x\). Esta relación se muestra en la Ecuación~\ref{eq-5}:
 
-\begin{equation}\phantomsection\label{eq-5}{
+\begin{equation}\protect\phantomsection\label{eq-5}{
 S_C = X_C^S = X_C^S P_x
 }\end{equation}
 
@@ -817,7 +829,7 @@ La demanda total \(D_T\) es igual a la suma de la demanda residual
 \(D_R\) y la oferta de los competidores \(S_C\). Esta relación se
 muestra en la Ecuación~\ref{eq-6}:
 
-\begin{equation}\phantomsection\label{eq-6}{
+\begin{equation}\protect\phantomsection\label{eq-6}{
 D_T = D_R + S_C \equiv X_t^d = X_R^d + X_C^S \equiv X_t^d P_x = X_R^d P_x + X_C^S P_x
 }\end{equation}
 
@@ -836,13 +848,13 @@ Donde:
 A partir de la Ecuación~\ref{eq-6}, podemos despejar la demanda residual
 \(D_R\) y obtener el siguiente:
 
-\begin{equation}\phantomsection\label{eq-7}{
+\begin{equation}\protect\phantomsection\label{eq-7}{
 X_R^d P_x = X_T^d P_x - X_C^S P_x
 }\end{equation}
 
 Aplicando la Ecuación~\ref{eq-1} a la Ecuación~\ref{eq-7}, obtenemos:
 
-\begin{equation}\phantomsection\label{eq-8}{
+\begin{equation}\protect\phantomsection\label{eq-8}{
 \frac{\partial X_R^d P_x}{\partial P_x} \frac{P_x}{X_R^d} = \frac{\partial X_T^d P_x}{\partial P_x} \frac{P_x}{X_T^d} - \frac{\partial X_C^S P_x}{\partial P_x} \frac{P_x}{X_C^S}
 }\end{equation}
 
@@ -850,34 +862,34 @@ Multiplicando los elementos de la Ecuación~\ref{eq-8} por
 \(\frac{X_T^d}{X_R^d}\) y \(\frac{X_C^S}{X_R^d}\), hacia la derecha,
 obtenemos:
 
-\begin{equation}\phantomsection\label{eq-9}{
+\begin{equation}\protect\phantomsection\label{eq-9}{
 \frac{\partial X_R^d P_x}{\partial P_x} \frac{P_x}{X_R^d} = \frac{\partial X_T^d P_x}{\partial P_x} \frac{P_x}{X_T^d} \frac{X_T^d}{X_R^d} - \frac{\partial X_C^S P_x}{\partial P_x} \frac{P_x}{X_C^S} \frac{X_C^S}{X_R^d}
 }\end{equation}
 
 Dividiendo el primer elemento de la Ecuación~\ref{eq-9} tanto en el
 numerador como en el denominador por \(X_T^d\), obtenemos:
 
-\begin{equation}\phantomsection\label{eq-10}{
+\begin{equation}\protect\phantomsection\label{eq-10}{
 \frac{\partial X_R^d P_x}{\partial P_x} \frac{P_x}{X_R^d} = \frac{\partial X_T^d P_x}{\partial P_x} \frac{P_x}{X_T^d} \frac{\frac{X_T^d}{X_T^d}}{\frac{X_R^d}{X_T^d}} - \frac{\partial X_C^S P_x}{\partial P_x} \frac{P_x}{X_C^S} \frac{X_C^S}{X_R^d}
 }\end{equation}
 
 Considerando que \(X_C^S = X_T^d - X_R^d\), podemos reemplazarlo en la
 Ecuación~\ref{eq-10}, obteniendo :
 
-\begin{equation}\phantomsection\label{eq-11}{
+\begin{equation}\protect\phantomsection\label{eq-11}{
 \frac{\partial X_R^d P_x}{\partial P_x} \frac{P_x}{X_R^d} = \frac{\partial X_T^d P_x}{\partial P_x} \frac{P_x}{X_T^d} \frac{\frac{X_T^d}{X_T^d}}{\frac{X_R^d}{X_T^d}} - \frac{\partial X_C^S P_x}{\partial P_x} \frac{P_x}{X_C^S} \frac{X_T^d - X_R^d}{X_R^d}
 }\end{equation}
 
 En esta Ecuación~\ref{eq-11}, tienen la forma de la elasticidad precio
 de la demanda, por lo que podemos reescribir la ecuación como:
 
-\begin{equation}\phantomsection\label{eq-12}{
+\begin{equation}\protect\phantomsection\label{eq-12}{
 \eta_{P_{x}X_R^d}^d = \eta_{P_{x}X_T^d}^d \frac{1}{\frac{X_R^d}{X_T^d}} - \eta_{P_{x}X_C^S}^S \frac{X_T^d - X_R^d}{X_R^d}
 }\end{equation}
 
 Ordenando y considerando que \(\frac{X_R^d}{X_T^d} = S_R\), tenemos:
 
-\begin{equation}\phantomsection\label{eq-13}{
+\begin{equation}\protect\phantomsection\label{eq-13}{
 \eta_{P_{x}X_R^d}^d = \eta_{P_{x}X_T^d}^d \frac{1}{S_R} - \eta_{P_{x}X_C^S}^S (\frac{X_T^d}{X_R^d} - 1)
 }\end{equation}
 
@@ -885,14 +897,14 @@ Dividiendo el segundo elemento de la Ecuación~\ref{eq-13} dentro del
 paréntesis tanto en el numerador como en el denominador por \(X_T^d\),
 tenemos:
 
-\begin{equation}\phantomsection\label{eq-14}{
+\begin{equation}\protect\phantomsection\label{eq-14}{
 \eta_{P_{x}X_R^d}^d = \eta_{P_{x}X_T^d}^d \frac{1}{S_R} - \eta_{P_{x}X_C^S}^S (\frac{\frac{X_T^d}{X_T^d}}{\frac{X_R^d}{X_T^d}} - 1)
 }\end{equation}
 
 La Ecuación~\ref{eq-14} puede ser simplificada aún más considerando que
 \(\frac{X_R^d}{X_T^d} = S_R\), obtenemos:
 
-\begin{equation}\phantomsection\label{eq-15}{
+\begin{equation}\protect\phantomsection\label{eq-15}{
 \eta_{P_{x}X_R^d}^d = \eta_{P_{x}X_T^d}^d \frac{1}{S_R} - \eta_{P_{x}X_C^S}^S (\frac{1}{S_R} - 1)
 }\end{equation}
 
@@ -923,7 +935,7 @@ determinadas estrategias.s.
 
 Ordenamos la Ecuación~\ref{eq-15} obtenemos:
 
-\begin{equation}\phantomsection\label{eq-16}{
+\begin{equation}\protect\phantomsection\label{eq-16}{
 \eta_{P_{x}X_R^d}^d = \frac{\eta_{P_{x}X_T^d}^d - \eta_{P_{x}X_C^S}^{S} (1-S_R)}{S_R}
 }\end{equation}
 
@@ -1281,11 +1293,11 @@ cambios en su precio. Si la elasticidad precio de la oferta es alta,
 significa que la cantidad ofrecida cambia significativamente en
 respuesta a cambios en el precio.
 
-\begin{equation}\phantomsection\label{eq-17}{
+\begin{equation}\protect\phantomsection\label{eq-17}{
 \eta_{XP_{y}} = \frac{\partial X^s}{\partial P_{x}} \frac{P_{x}}{X}
 }\end{equation}
 
-\begin{equation}\phantomsection\label{eq-18}{
+\begin{equation}\protect\phantomsection\label{eq-18}{
 \eta_{XP_{y}} = \frac{\frac{\Delta X^s}{X}}{\frac{\Delta P_{x}}{P_{x}}}
 }\end{equation}
 

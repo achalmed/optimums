@@ -17,7 +17,7 @@ Incluye notas y tutoriales para mi futuro y espero que también para ti.&lt;br&g
 <title>Edison Achalma B.Sc. Econ.</title>
 <link>https://optimums.netlify.app/</link>
 </image>
-<generator>quarto-1.8.26</generator>
+<generator>quarto-1.9.38</generator>
 <lastBuildDate>Fri, 23 Jun 2023 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Elasticidad y poder de mercado</title>
@@ -25,63 +25,68 @@ Incluye notas y tutoriales para mi futuro y espero que también para ti.&lt;br&g
   <link>https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/</link>
   <description><![CDATA[ 
 
+
 <style>
-:root {
---primary-color: ;
-}
-#title-block-header {
-width: 100%;
-overflow: hidden;
-position: relative;
-}
-.title-block-content {
-position: relative;
-padding-top: 60px;
+  :root {
+    --primary-color: ;
+  }
 
-padding-bottom: 60px;
+  #title-block-header {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
 
-max-width: 752px;
-margin: 0 auto;
-z-index: 1;
-}
-#particles-js {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-z-index: 0;
-}
-.bg-image {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-object-fit: cover;
-z-index: 0;
-}
+  .title-block-content {
+    position: relative;
+    padding-top: 60px;
+    /* Reducido de 130px */
+    padding-bottom: 60px;
+    /* Reducido de 130px */
+    max-width: 752px;
+    margin: 0 auto;
+    z-index: 1;
+  }
+
+  #particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+  }
+
+  .bg-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+  }
 </style>
 
 
 
 
-<section id="introducción-a-la-elasticidad" class="level1">
-<h1>Introducción a la Elasticidad</h1>
-<section id="qué-es-la-elasticidad" class="level2">
-<h2 class="anchored" data-anchor-id="qué-es-la-elasticidad">¿Qué es la elasticidad?</h2>
+<section id="introducción-a-la-elasticidad" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Introducción a la Elasticidad</h1>
+<section id="qué-es-la-elasticidad" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="qué-es-la-elasticidad"><span class="header-section-number">1.1</span> ¿Qué es la elasticidad?</h2>
 <p>La elasticidad es un concepto fundamental en economía que nos ayuda a comprender cómo responden la demanda y la oferta ante cambios en los precios y otros factores. En pocas palabras, nos permite medir la sensibilidad de la cantidad demandada o ofrecida ante variaciones en determinadas variables.</p>
 <p>Imagina que el precio de un producto aumenta. ¿Qué sucederá con la cantidad que las personas están dispuestas a comprar? La elasticidad nos proporciona una medida para responder a esta pregunta. Si la demanda es elástica, significa que los consumidores son sensibles a los cambios en el precio y reducirán su consumo en gran medida. Por otro lado, si la demanda es inelástica, significa que los consumidores son menos sensibles y continuarán comprando a pesar del aumento de precio.</p>
 <p>La elasticidad es una herramienta poderosa que nos ayuda a entender cómo funciona el mercado y cómo los cambios en variables clave pueden afectar las decisiones de los consumidores y las empresas. En los siguientes fragmentos, exploraremos diferentes tipos de elasticidad y su aplicación práctica en el mundo empresarial. ¡Vamos a sumergirnos en el fascinante mundo de la elasticidad económica!</p>
 </section>
-<section id="importancia-de-la-elasticidad-en-la-economía" class="level2">
-<h2 class="anchored" data-anchor-id="importancia-de-la-elasticidad-en-la-economía">Importancia de la elasticidad en la economía</h2>
+<section id="importancia-de-la-elasticidad-en-la-economía" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="importancia-de-la-elasticidad-en-la-economía"><span class="header-section-number">1.2</span> Importancia de la elasticidad en la economía</h2>
 <p>La elasticidad es un concepto clave en la economía porque nos permite comprender cómo cambian las decisiones y el comportamiento de los consumidores y las empresas frente a los cambios en los precios y otros factores económicos.</p>
 <p>Imagina que eres propietario de un negocio y estás considerando aumentar el precio de tus productos. Antes de tomar esa decisión, es fundamental comprender cómo reaccionarán los consumidores. Aquí es donde entra en juego la elasticidad. Si la demanda es elástica, un aumento en el precio podría resultar en una disminución significativa de las ventas, lo que podría afectar negativamente tus ingresos. Por otro lado, si la demanda es inelástica, un aumento en el precio podría tener un impacto menor en las ventas, lo que te brinda una mayor flexibilidad para ajustar tus precios.</p>
 <p>Además, la elasticidad también nos ayuda a comprender los efectos de los impuestos, las políticas gubernamentales y otros factores en la economía. Por ejemplo, si se impone un impuesto a un producto, la elasticidad nos permite predecir cómo afectará la demanda y cuánto ingreso generará el impuesto.</p>
 </section>
-<section id="tipos-de-elasticidad" class="level2">
-<h2 class="anchored" data-anchor-id="tipos-de-elasticidad">Tipos de elasticidad</h2>
+<section id="tipos-de-elasticidad" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="tipos-de-elasticidad"><span class="header-section-number">1.3</span> Tipos de elasticidad</h2>
 <p>Existen varios tipos de elasticidad que nos ayudan a comprender diferentes aspectos del comportamiento de la demanda y la oferta. Cada tipo de elasticidad se centra en una variable específica y nos proporciona información única sobre cómo responden los agentes económicos a los cambios en esa variable.</p>
 <ol type="1">
 <li><p><strong>Elasticidad precio de la demanda:</strong> Esta medida nos indica cómo responde la cantidad demandada de un bien o servicio a cambios en su precio. Si la demanda es elástica, significa que los consumidores son sensibles a las variaciones de precio y una pequeña alteración en el precio puede tener un gran impacto en la cantidad demandada. Por otro lado, si la demanda es inelástica, significa que los consumidores son menos sensibles al cambio de precio.</p></li>
@@ -92,10 +97,10 @@ z-index: 0;
 <p>En los próximos fragmentos, exploraremos cada tipo de elasticidad en más detalle y veremos cómo se aplican en situaciones reales.</p>
 </section>
 </section>
-<section id="elasticidad-precio-de-la-demanda" class="level1">
-<h1>Elasticidad Precio de la Demanda</h1>
-<section id="concepto-y-fórmula-de-la-elasticidad-precio-de-la-demanda" class="level2">
-<h2 class="anchored" data-anchor-id="concepto-y-fórmula-de-la-elasticidad-precio-de-la-demanda">Concepto y fórmula de la elasticidad precio de la demanda</h2>
+<section id="elasticidad-precio-de-la-demanda" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Elasticidad Precio de la Demanda</h1>
+<section id="concepto-y-fórmula-de-la-elasticidad-precio-de-la-demanda" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="concepto-y-fórmula-de-la-elasticidad-precio-de-la-demanda"><span class="header-section-number">2.1</span> Concepto y fórmula de la elasticidad precio de la demanda</h2>
 <p>La elasticidad precio de la demanda es una medida importante en economía que nos permite entender cómo cambia la cantidad demandada de un bien o servicio ante variaciones en su precio. Esta medida nos ayuda a comprender la sensibilidad de los consumidores frente a los cambios de precio.</p>
 <p>Las diferentes fórmulas de la elasticidad precio de la demanda son las siguientes:</p>
 <p><span id="eq-1"><img src="https://latex.codecogs.com/png.latex?%0AElasticidad%20precio%20de%20la%20demanda%20=%5Cfrac%7B%5C%25%20cambio%20en%20la%20cantidad%20demandada%7D%7B%5C%25%20cambio%20en%20el%20precio%7D%0A%5Ctag%7B1%7D"></span></p>
@@ -113,8 +118,8 @@ z-index: 0;
 <p>La Ecuación&nbsp;6 introduce el concepto de pendiente de la curva de demanda. Multiplicamos la pendiente de la curva por el precio inicial dividido por la cantidad demandada para obtener la elasticidad.</p>
 <p>Estas fórmulas nos brindan diferentes enfoques para calcular la elasticidad precio de la demanda, y cada una tiene su utilidad en diferentes contextos. Es importante comprender cómo aplicarlas y qué información nos brindan para tomar decisiones estratégicas en el ámbito económico.</p>
 </section>
-<section id="interpretación-de-la-elasticidad-precio-de-la-demanda" class="level2">
-<h2 class="anchored" data-anchor-id="interpretación-de-la-elasticidad-precio-de-la-demanda">Interpretación de la elasticidad precio de la demanda</h2>
+<section id="interpretación-de-la-elasticidad-precio-de-la-demanda" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="interpretación-de-la-elasticidad-precio-de-la-demanda"><span class="header-section-number">2.2</span> Interpretación de la elasticidad precio de la demanda</h2>
 <p>Una vez que comprendemos qué es la elasticidad precio de la demanda y cómo se calcula, es importante poder interpretar los resultados obtenidos. La elasticidad nos brinda información valiosa sobre la sensibilidad de los consumidores ante cambios en el precio de un producto. Veamos cómo interpretar los distintos valores de la elasticidad:</p>
 <ul>
 <li><p>Elasticidad mayor a 1: Si la elasticidad es mayor a 1, se dice que la demanda es elástica. Esto significa que los consumidores son muy sensibles al cambio de precio. Un pequeño aumento en el precio puede resultar en una disminución significativa en la cantidad demandada, y viceversa. En este caso, es crucial para las empresas considerar cuidadosamente los ajustes de precios, ya que podrían tener un impacto considerable en la demanda.</p></li>
@@ -133,72 +138,72 @@ z-index: 0;
 <p>interpretación</p>
 <p>Si el <img src="https://latex.codecogs.com/png.latex?P_x"> aumenta en 1% entonces <img src="https://latex.codecogs.com/png.latex?X%5Ed"> disminuye en 1%.</p>
 </section>
-<section id="factores-que-influyen-en-la-elasticidad-precio-de-la-demanda" class="level2">
-<h2 class="anchored" data-anchor-id="factores-que-influyen-en-la-elasticidad-precio-de-la-demanda">Factores que influyen en la elasticidad precio de la demanda</h2>
+<section id="factores-que-influyen-en-la-elasticidad-precio-de-la-demanda" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="factores-que-influyen-en-la-elasticidad-precio-de-la-demanda"><span class="header-section-number">2.3</span> Factores que influyen en la elasticidad precio de la demanda</h2>
 </section>
 </section>
-<section id="elasticidad-precio-de-la-oferta" class="level1">
-<h1>Elasticidad Precio de la Oferta</h1>
-<section id="significado-y-cálculo-de-la-elasticidad-precio-de-la-oferta" class="level2">
-<h2 class="anchored" data-anchor-id="significado-y-cálculo-de-la-elasticidad-precio-de-la-oferta">Significado y cálculo de la elasticidad precio de la oferta</h2>
+<section id="elasticidad-precio-de-la-oferta" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Elasticidad Precio de la Oferta</h1>
+<section id="significado-y-cálculo-de-la-elasticidad-precio-de-la-oferta" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="significado-y-cálculo-de-la-elasticidad-precio-de-la-oferta"><span class="header-section-number">3.1</span> Significado y cálculo de la elasticidad precio de la oferta</h2>
 </section>
-<section id="análisis-de-la-elasticidad-precio-de-la-oferta-en-diferentes-industrias" class="level2">
-<h2 class="anchored" data-anchor-id="análisis-de-la-elasticidad-precio-de-la-oferta-en-diferentes-industrias">Análisis de la elasticidad precio de la oferta en diferentes industrias</h2>
+<section id="análisis-de-la-elasticidad-precio-de-la-oferta-en-diferentes-industrias" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="análisis-de-la-elasticidad-precio-de-la-oferta-en-diferentes-industrias"><span class="header-section-number">3.2</span> Análisis de la elasticidad precio de la oferta en diferentes industrias</h2>
 </section>
-<section id="determinantes-de-la-elasticidad-precio-de-la-oferta" class="level2">
-<h2 class="anchored" data-anchor-id="determinantes-de-la-elasticidad-precio-de-la-oferta">Determinantes de la elasticidad precio de la oferta</h2>
-</section>
-</section>
-<section id="elasticidad-cruzada" class="level1">
-<h1>Elasticidad Cruzada</h1>
-<section id="definición-y-fórmula-de-la-elasticidad-cruzada" class="level2">
-<h2 class="anchored" data-anchor-id="definición-y-fórmula-de-la-elasticidad-cruzada">Definición y fórmula de la elasticidad cruzada</h2>
-</section>
-<section id="interpretación-de-la-elasticidad-cruzada" class="level2">
-<h2 class="anchored" data-anchor-id="interpretación-de-la-elasticidad-cruzada">Interpretación de la elasticidad cruzada</h2>
-</section>
-<section id="aplicaciones-prácticas-de-la-elasticidad-cruzada" class="level2">
-<h2 class="anchored" data-anchor-id="aplicaciones-prácticas-de-la-elasticidad-cruzada">Aplicaciones prácticas de la elasticidad cruzada</h2>
+<section id="determinantes-de-la-elasticidad-precio-de-la-oferta" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="determinantes-de-la-elasticidad-precio-de-la-oferta"><span class="header-section-number">3.3</span> Determinantes de la elasticidad precio de la oferta</h2>
 </section>
 </section>
-<section id="elasticidad-ingreso-de-la-demanda" class="level1">
-<h1>Elasticidad Ingreso de la Demanda</h1>
-<section id="explicación-y-cálculo-de-la-elasticidad-ingreso-de-la-demanda" class="level2">
-<h2 class="anchored" data-anchor-id="explicación-y-cálculo-de-la-elasticidad-ingreso-de-la-demanda">Explicación y cálculo de la elasticidad ingreso de la demanda</h2>
+<section id="elasticidad-cruzada" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Elasticidad Cruzada</h1>
+<section id="definición-y-fórmula-de-la-elasticidad-cruzada" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="definición-y-fórmula-de-la-elasticidad-cruzada"><span class="header-section-number">4.1</span> Definición y fórmula de la elasticidad cruzada</h2>
 </section>
-<section id="impacto-de-la-elasticidad-ingreso-en-los-patrones-de-consumo" class="level2">
-<h2 class="anchored" data-anchor-id="impacto-de-la-elasticidad-ingreso-en-los-patrones-de-consumo">Impacto de la elasticidad ingreso en los patrones de consumo</h2>
+<section id="interpretación-de-la-elasticidad-cruzada" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="interpretación-de-la-elasticidad-cruzada"><span class="header-section-number">4.2</span> Interpretación de la elasticidad cruzada</h2>
 </section>
-<section id="factores-que-afectan-la-elasticidad-ingreso-de-la-demanda" class="level2">
-<h2 class="anchored" data-anchor-id="factores-que-afectan-la-elasticidad-ingreso-de-la-demanda">Factores que afectan la elasticidad ingreso de la demanda</h2>
-</section>
-</section>
-<section id="aplicaciones-de-la-elasticidad-en-la-toma-de-decisiones-empresariales" class="level1">
-<h1>Aplicaciones de la Elasticidad en la Toma de Decisiones Empresariales</h1>
-<section id="uso-de-la-elasticidad-en-la-fijación-de-precios" class="level2">
-<h2 class="anchored" data-anchor-id="uso-de-la-elasticidad-en-la-fijación-de-precios">Uso de la elasticidad en la fijación de precios</h2>
-</section>
-<section id="estrategias-de-marketing-basadas-en-la-elasticidad" class="level2">
-<h2 class="anchored" data-anchor-id="estrategias-de-marketing-basadas-en-la-elasticidad">Estrategias de marketing basadas en la elasticidad</h2>
-</section>
-<section id="estudio-de-casos-ejemplos-reales-de-la-aplicación-de-la-elasticidad-en-empresas" class="level2">
-<h2 class="anchored" data-anchor-id="estudio-de-casos-ejemplos-reales-de-la-aplicación-de-la-elasticidad-en-empresas">Estudio de casos: Ejemplos reales de la aplicación de la elasticidad en empresas</h2>
+<section id="aplicaciones-prácticas-de-la-elasticidad-cruzada" class="level2" data-number="4.3">
+<h2 data-number="4.3" class="anchored" data-anchor-id="aplicaciones-prácticas-de-la-elasticidad-cruzada"><span class="header-section-number">4.3</span> Aplicaciones prácticas de la elasticidad cruzada</h2>
 </section>
 </section>
-<section id="conclusiones-y-reflexiones-finales" class="level1">
-<h1>Conclusiones y Reflexiones Finales</h1>
-<section id="recapitulación-de-los-conceptos-clave" class="level2">
-<h2 class="anchored" data-anchor-id="recapitulación-de-los-conceptos-clave">Recapitulación de los conceptos clave</h2>
+<section id="elasticidad-ingreso-de-la-demanda" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Elasticidad Ingreso de la Demanda</h1>
+<section id="explicación-y-cálculo-de-la-elasticidad-ingreso-de-la-demanda" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="explicación-y-cálculo-de-la-elasticidad-ingreso-de-la-demanda"><span class="header-section-number">5.1</span> Explicación y cálculo de la elasticidad ingreso de la demanda</h2>
 </section>
-<section id="importancia-de-comprender-la-elasticidad-para-la-toma-de-decisiones" class="level2">
-<h2 class="anchored" data-anchor-id="importancia-de-comprender-la-elasticidad-para-la-toma-de-decisiones">Importancia de comprender la elasticidad para la toma de decisiones</h2>
+<section id="impacto-de-la-elasticidad-ingreso-en-los-patrones-de-consumo" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="impacto-de-la-elasticidad-ingreso-en-los-patrones-de-consumo"><span class="header-section-number">5.2</span> Impacto de la elasticidad ingreso en los patrones de consumo</h2>
 </section>
-<section id="reflexiones-sobre-la-aplicabilidad-y-relevancia-de-la-elasticidad-en-el-mundo-actual" class="level2">
-<h2 class="anchored" data-anchor-id="reflexiones-sobre-la-aplicabilidad-y-relevancia-de-la-elasticidad-en-el-mundo-actual">Reflexiones sobre la aplicabilidad y relevancia de la elasticidad en el mundo actual</h2>
+<section id="factores-que-afectan-la-elasticidad-ingreso-de-la-demanda" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="factores-que-afectan-la-elasticidad-ingreso-de-la-demanda"><span class="header-section-number">5.3</span> Factores que afectan la elasticidad ingreso de la demanda</h2>
 </section>
 </section>
-<section id="publicaciones-similares" class="level1">
-<h1>Publicaciones Similares</h1>
+<section id="aplicaciones-de-la-elasticidad-en-la-toma-de-decisiones-empresariales" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Aplicaciones de la Elasticidad en la Toma de Decisiones Empresariales</h1>
+<section id="uso-de-la-elasticidad-en-la-fijación-de-precios" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="uso-de-la-elasticidad-en-la-fijación-de-precios"><span class="header-section-number">6.1</span> Uso de la elasticidad en la fijación de precios</h2>
+</section>
+<section id="estrategias-de-marketing-basadas-en-la-elasticidad" class="level2" data-number="6.2">
+<h2 data-number="6.2" class="anchored" data-anchor-id="estrategias-de-marketing-basadas-en-la-elasticidad"><span class="header-section-number">6.2</span> Estrategias de marketing basadas en la elasticidad</h2>
+</section>
+<section id="estudio-de-casos-ejemplos-reales-de-la-aplicación-de-la-elasticidad-en-empresas" class="level2" data-number="6.3">
+<h2 data-number="6.3" class="anchored" data-anchor-id="estudio-de-casos-ejemplos-reales-de-la-aplicación-de-la-elasticidad-en-empresas"><span class="header-section-number">6.3</span> Estudio de casos: Ejemplos reales de la aplicación de la elasticidad en empresas</h2>
+</section>
+</section>
+<section id="conclusiones-y-reflexiones-finales" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> Conclusiones y Reflexiones Finales</h1>
+<section id="recapitulación-de-los-conceptos-clave" class="level2" data-number="7.1">
+<h2 data-number="7.1" class="anchored" data-anchor-id="recapitulación-de-los-conceptos-clave"><span class="header-section-number">7.1</span> Recapitulación de los conceptos clave</h2>
+</section>
+<section id="importancia-de-comprender-la-elasticidad-para-la-toma-de-decisiones" class="level2" data-number="7.2">
+<h2 data-number="7.2" class="anchored" data-anchor-id="importancia-de-comprender-la-elasticidad-para-la-toma-de-decisiones"><span class="header-section-number">7.2</span> Importancia de comprender la elasticidad para la toma de decisiones</h2>
+</section>
+<section id="reflexiones-sobre-la-aplicabilidad-y-relevancia-de-la-elasticidad-en-el-mundo-actual" class="level2" data-number="7.3">
+<h2 data-number="7.3" class="anchored" data-anchor-id="reflexiones-sobre-la-aplicabilidad-y-relevancia-de-la-elasticidad-en-el-mundo-actual"><span class="header-section-number">7.3</span> Reflexiones sobre la aplicabilidad y relevancia de la elasticidad en el mundo actual</h2>
+</section>
+</section>
+<section id="publicaciones-similares" class="level1" data-number="8">
+<h1 data-number="8"><span class="header-section-number">8</span> Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
 <ol type="1">
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
@@ -215,12 +220,32 @@ z-index: 0;
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2023" class="csl-entry quarto-appendix-citeas">
-Achalma, Edison. 2023. <span>“Elasticidad y poder de mercado,”</span>
-June. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/">https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/</a>.
+Achalma, Edison. 2023. <em>Elasticidad y poder de mercado</em>.
+accepted, June 23. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/">https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/</a>.
 </div></div></section></div> ]]></description>
   <category>Organizacion Industrial</category>
   <guid>https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/</guid>
   <pubDate>Fri, 23 Jun 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/organizacion-industrial/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Organizacion Industrial</category>
+  <guid>https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/</guid>
+  <pubDate>Sat, 17 Jun 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/organizacion-industrial/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Organizacion Industrial</category>
+  <guid>https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/</guid>
+  <pubDate>Fri, 16 Jun 2023 05:00:00 GMT</pubDate>
   <media:content url="https://optimums.netlify.app/organizacion-industrial/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -229,63 +254,68 @@ June. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-e
   <link>https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/</link>
   <description><![CDATA[ 
 
+
 <style>
-:root {
---primary-color: ;
-}
-#title-block-header {
-width: 100%;
-overflow: hidden;
-position: relative;
-}
-.title-block-content {
-position: relative;
-padding-top: 60px;
+  :root {
+    --primary-color: ;
+  }
 
-padding-bottom: 60px;
+  #title-block-header {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
 
-max-width: 752px;
-margin: 0 auto;
-z-index: 1;
-}
-#particles-js {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-z-index: 0;
-}
-.bg-image {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-object-fit: cover;
-z-index: 0;
-}
+  .title-block-content {
+    position: relative;
+    padding-top: 60px;
+    /* Reducido de 130px */
+    padding-bottom: 60px;
+    /* Reducido de 130px */
+    max-width: 752px;
+    margin: 0 auto;
+    z-index: 1;
+  }
+
+  #particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+  }
+
+  .bg-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+  }
 </style>
 
 
 
 
-<section id="sistema-económio-y-mercado" class="level1">
-<h1>Sistema económio y mercado</h1>
-<section id="sistema-económico" class="level2">
-<h2 class="anchored" data-anchor-id="sistema-económico">Sistema económico</h2>
+<section id="sistema-económio-y-mercado" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Sistema económio y mercado</h1>
+<section id="sistema-económico" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="sistema-económico"><span class="header-section-number">1.1</span> Sistema económico</h2>
 <p>El sistema económico se refiere a la forma en que se organiza y dirige la actividad económica de un país, abarcando aspectos sociales, políticos, económicos y jurídicos. Define cómo se producirán y distribuirán los bienes y servicios, así como la asignación de los recursos escasos para su producción. Además, incluye la organización política, la regulación e intervención del estado, y el marco jurídico que rige las transacciones económicas.</p>
 </section>
-<section id="sistema-económico-imperante-en-la-economía" class="level2">
-<h2 class="anchored" data-anchor-id="sistema-económico-imperante-en-la-economía">Sistema económico imperante en la economía</h2>
+<section id="sistema-económico-imperante-en-la-economía" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="sistema-económico-imperante-en-la-economía"><span class="header-section-number">1.2</span> Sistema económico imperante en la economía</h2>
 <p>El sistema económico imperante en la economía mundial puede manifestarse en diferentes formas, y una de ellas es la economía de mercado.</p>
 <p>En una economía de mercado, se establece un lugar, ya sea físico o virtual, donde se crean las condiciones necesarias para que los individuos y las empresas puedan intercambiar bienes y servicios. Este lugar puede ser un mercado físico tradicional, como una plaza o una feria, o un mercado virtual, como una plataforma de comercio electrónico.</p>
 <p>El mercado no solo es un espacio físico o virtual, sino también una organización o entidad que facilita el vínculo entre los oferentes (vendedores) y los demandantes (compradores). En este sentido, el mercado proporciona el marco para que se realicen transacciones comerciales, acuerdos e intercambios. Permite que los compradores encuentren los bienes y servicios que desean adquirir y que los vendedores encuentren potenciales compradores para sus productos.</p>
 <p>En un sistema económico de mercado, los precios se determinan a través de la oferta y la demanda, y los participantes toman decisiones basadas en sus propios intereses individuales. Este sistema fomenta la competencia entre los diferentes actores económicos, lo que a su vez puede llevar a la eficiencia en la asignación de recursos y a una mayor variedad de productos y servicios disponibles para los consumidores.</p>
 <p>Es importante destacar que existen diversos tipos de sistemas económicos, y la economía de mercado es solo uno de ellos. Otros sistemas económicos, como el socialismo o el capitalismo de Estado, presentan diferentes características y formas de organización de la actividad económica.</p>
 </section>
-<section id="las-diferencias-entre-sistemas-económicos" class="level2">
-<h2 class="anchored" data-anchor-id="las-diferencias-entre-sistemas-económicos">Las Diferencias entre Sistemas Económicos</h2>
+<section id="las-diferencias-entre-sistemas-económicos" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="las-diferencias-entre-sistemas-económicos"><span class="header-section-number">1.3</span> Las Diferencias entre Sistemas Económicos</h2>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 25%">
@@ -330,26 +360,26 @@ z-index: 0;
 <p>Esta tabla compara las características de la economía de mercado y la economía planificada. La economía de mercado se basa en la propiedad privada de los medios de producción y empresas, la libertad de elección de bienes y materiales, la competencia en el mercado, la determinación del precio por oferta y demanda, y la especialización y opciones de empleo determinadas por los individuos. En contraste, en una economía planificada, los medios de producción y empresas son propiedad del Estado, el Estado impone las elecciones de bienes y materiales, no hay competencia, el Estado controla la producción y distribución, y la especialización y empleo son determinados por el Estado.</p>
 </section>
 </section>
-<section id="mercados-y-precios" class="level1">
-<h1>Mercados y Precios</h1>
-<section id="mercado-estructura-y-determinación" class="level2">
-<h2 class="anchored" data-anchor-id="mercado-estructura-y-determinación">Mercado: Estructura y Determinación</h2>
+<section id="mercados-y-precios" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Mercados y Precios</h1>
+<section id="mercado-estructura-y-determinación" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="mercado-estructura-y-determinación"><span class="header-section-number">2.1</span> Mercado: Estructura y Determinación</h2>
 <p>El mercado es el espacio donde se llevan a cabo las transacciones comerciales de bienes y servicios. Su estructura puede variar según la competencia presente en el mercado. En el caso de un mercado perfectamente competitivo, existen numerosos compradores y vendedores, y ninguno de ellos tiene el poder de influir en los precios. En cambio, en un mercado imperfecto, la estructura puede ser monopolística, oligopólica o de otro tipo, lo que implica que algunos participantes tienen cierto grado de poder para influir en los precios.</p>
 </section>
-<section id="precios-el-lenguaje-de-los-mercados" class="level2">
-<h2 class="anchored" data-anchor-id="precios-el-lenguaje-de-los-mercados">Precios: El Lenguaje de los Mercados</h2>
+<section id="precios-el-lenguaje-de-los-mercados" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="precios-el-lenguaje-de-los-mercados"><span class="header-section-number">2.2</span> Precios: El Lenguaje de los Mercados</h2>
 <p>Los precios desempeñan un papel crucial en los mercados, ya que actúan como un lenguaje que comunica información sobre la oferta y la demanda de bienes y servicios. Son determinados por la interacción de los compradores y vendedores en el mercado, teniendo en cuenta factores como la oferta, la demanda, los costos de producción y la competencia. En un mercado perfectamente competitivo, los precios se establecen en equilibrio, donde la oferta y la demanda se igualan. Por otro lado, en un mercado imperfecto, como un monopolio, el precio lo determina el productor o la empresa dominante.</p>
 </section>
 </section>
-<section id="competencia-motor-del-sistema-económico-de-mercado" class="level1">
-<h1>Competencia: Motor del Sistema Económico de Mercado</h1>
+<section id="competencia-motor-del-sistema-económico-de-mercado" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Competencia: Motor del Sistema Económico de Mercado</h1>
 <p>La competencia desempeña un papel fundamental en el buen funcionamiento del sistema económico de mercado. Cuando existe competencia, los productores se ven obligados a mejorar la calidad de sus productos, reducir los precios y buscar la eficiencia en la producción. Esto beneficia a los consumidores, ya que tienen acceso a una mayor variedad de bienes y servicios a precios competitivos. Además, la competencia estimula la innovación y el progreso económico en general.</p>
-<section id="derecho-de-la-competencia" class="level2">
-<h2 class="anchored" data-anchor-id="derecho-de-la-competencia">Derecho de la Competencia</h2>
+<section id="derecho-de-la-competencia" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="derecho-de-la-competencia"><span class="header-section-number">3.1</span> Derecho de la Competencia</h2>
 <p>El Derecho de la Competencia es un conjunto de normas jurídicas que tiene como objetivo regular el poder actual o potencial de las empresas en un mercado específico, en beneficio del interés público. Su propósito es prevenir prácticas restrictivas de la competencia y regular la adquisición de posiciones de dominio en el mercado.</p>
 </section>
-<section id="objetivos-del-derecho-de-competencia" class="level2">
-<h2 class="anchored" data-anchor-id="objetivos-del-derecho-de-competencia">Objetivos del Derecho de Competencia</h2>
+<section id="objetivos-del-derecho-de-competencia" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="objetivos-del-derecho-de-competencia"><span class="header-section-number">3.2</span> Objetivos del Derecho de Competencia</h2>
 <p>El Derecho de la Competencia persigue varios objetivos para promover la competencia y proteger la eficiencia económica. Estos incluyen:</p>
 <ol type="1">
 <li>Proteger y reforzar el proceso de competencia en los mercados donde sea parcial.</li>
@@ -359,8 +389,8 @@ z-index: 0;
 </ol>
 <p>La Ley Federal de Competencia Económica en EE.UU., en su artículo 2, establece el objetivo de promover, proteger y garantizar la libre concurrencia y la competencia económica, así como prevenir y eliminar prácticas monopólicas, concentraciones ilícitas y restricciones al funcionamiento eficiente de los mercados.</p>
 </section>
-<section id="beneficios-de-la-competencia" class="level2">
-<h2 class="anchored" data-anchor-id="beneficios-de-la-competencia">Beneficios de la Competencia</h2>
+<section id="beneficios-de-la-competencia" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="beneficios-de-la-competencia"><span class="header-section-number">3.3</span> Beneficios de la Competencia</h2>
 <p>La competencia tiene múltiples beneficios para la sociedad y la economía:</p>
 <ol type="1">
 <li>Mejora de las condiciones de precio y calidad de los productos y servicios, ya que los competidores buscan atraer a los consumidores ofreciendo mejores ofertas.</li>
@@ -370,14 +400,14 @@ z-index: 0;
 </ol>
 </section>
 </section>
-<section id="definición-y-características-del-mercado-relevante" class="level1">
-<h1>Definición y Características del Mercado Relevante</h1>
-<section id="mercado-relevante" class="level2">
-<h2 class="anchored" data-anchor-id="mercado-relevante">Mercado Relevante</h2>
+<section id="definición-y-características-del-mercado-relevante" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Definición y Características del Mercado Relevante</h1>
+<section id="mercado-relevante" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="mercado-relevante"><span class="header-section-number">4.1</span> Mercado Relevante</h2>
 <p>El mercado relevante se refiere a aquel mercado en el cual los bienes y servicios, considerando su estructura de mercado, son sustitutos o razonablemente intercambiables en función de los fines para los cuales fueron creados. Tanto desde la perspectiva del consumidor como del productor, se considera que estos bienes y servicios son intercambiables. Es decir, los consumidores los ven como productos sustitutos y los productores los consideran intercambiables.</p>
 </section>
-<section id="características-del-mercado-relevante" class="level2">
-<h2 class="anchored" data-anchor-id="características-del-mercado-relevante">Características del Mercado Relevante</h2>
+<section id="características-del-mercado-relevante" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="características-del-mercado-relevante"><span class="header-section-number">4.2</span> Características del Mercado Relevante</h2>
 <ol type="1">
 <li><p><strong>Áreas geográficas de interacción:</strong> El mercado relevante se define por las áreas geográficas en las que los oferentes y demandantes interactúan para intercambiar bienes y servicios.</p></li>
 <li><p><strong>Sustitutos:</strong> Los productos y servicios dentro del mercado relevante son sustitutos entre sí, lo que significa que pueden satisfacer las mismas necesidades del consumidor.</p></li>
@@ -386,8 +416,8 @@ z-index: 0;
 <li><p><strong>Elasticidad de ingreso mayor a cero:</strong> La elasticidad de ingreso de la demanda en el mercado relevante generalmente es mayor a cero y menor a 1. Esto significa que un aumento en los ingresos de los consumidores resulta en un aumento proporcionalmente menor en la demanda de los bienes y servicios del mercado relevante. <img src="https://latex.codecogs.com/png.latex?0%20%3C%20%5Ceta_%7Bp_%7BX%7D%7D%20X%5Ed%20%5Cleq%201"></p></li>
 </ol>
 </section>
-<section id="pasos-para-definir-un-mercado-relevante" class="level2">
-<h2 class="anchored" data-anchor-id="pasos-para-definir-un-mercado-relevante">Pasos para Definir un Mercado Relevante</h2>
+<section id="pasos-para-definir-un-mercado-relevante" class="level2" data-number="4.3">
+<h2 data-number="4.3" class="anchored" data-anchor-id="pasos-para-definir-un-mercado-relevante"><span class="header-section-number">4.3</span> Pasos para Definir un Mercado Relevante</h2>
 <ol type="1">
 <li><p><strong>Descripción de la estructura de los mercados:</strong> Se analiza la organización y dinámica de los mercados en términos de competencia y poder de mercado.</p></li>
 <li><p><strong>Sustituibilidad o intercambiabilidad de los bienes:</strong> Se evalúa si los bienes y servicios pueden satisfacer la misma necesidad del consumidor en las mismas circunstancias y en el mismo período de tiempo.</p></li>
@@ -397,22 +427,22 @@ z-index: 0;
 </ol>
 </section>
 </section>
-<section id="mercado-de-producto-y-mercado-geográfico-relevante" class="level1">
-<h1>Mercado de Producto y Mercado Geográfico Relevante</h1>
-<section id="mercado-de-producto-relevante" class="level2">
-<h2 class="anchored" data-anchor-id="mercado-de-producto-relevante">Mercado de Producto Relevante</h2>
+<section id="mercado-de-producto-y-mercado-geográfico-relevante" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Mercado de Producto y Mercado Geográfico Relevante</h1>
+<section id="mercado-de-producto-relevante" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="mercado-de-producto-relevante"><span class="header-section-number">5.1</span> Mercado de Producto Relevante</h2>
 <p>El mercado de producto relevante incluye todos aquellos bienes y servicios que son sustitutos cercanos tanto desde la perspectiva de la demanda como de la oferta. La sustituibilidad de la demanda se refiere a la capacidad de los consumidores para cambiar de un producto a otro en respuesta a cambios en el precio. Si un incremento en el precio de un producto A provoca que los consumidores opten por comprar el producto B en su lugar, se considera que A y B son sustitutos.</p>
 <p>Por otro lado, la sustituibilidad de la oferta se refiere a la capacidad de las empresas para ajustar su producción de un producto a otro en respuesta a cambios en el precio. Si las empresas que producen el producto B pueden fácilmente cambiar su producción hacia el producto A cuando el precio de A aumenta, se considera que B es un sustituto de A desde la perspectiva de la oferta.</p>
 <p>En ambos casos, la presencia de un bien sustituto en el mercado restringe la capacidad de la empresa que ofrece el bien original para aumentar los precios, ya que los consumidores y las empresas tienen opciones alternativas disponibles.</p>
 </section>
-<section id="elasticidades" class="level2">
-<h2 class="anchored" data-anchor-id="elasticidades">Elasticidades</h2>
-<section id="elasticidad-precio-de-la-demanda" class="level3">
-<h3 class="anchored" data-anchor-id="elasticidad-precio-de-la-demanda">Elasticidad Precio de la Demanda</h3>
+<section id="elasticidades" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="elasticidades"><span class="header-section-number">5.2</span> Elasticidades</h2>
+<section id="elasticidad-precio-de-la-demanda" class="level3" data-number="5.2.1">
+<h3 data-number="5.2.1" class="anchored" data-anchor-id="elasticidad-precio-de-la-demanda"><span class="header-section-number">5.2.1</span> Elasticidad Precio de la Demanda</h3>
 <p>Para concocer un mercado relevante</p>
 </section>
-<section id="elasticida-cruzada-de-la-demanda" class="level3">
-<h3 class="anchored" data-anchor-id="elasticida-cruzada-de-la-demanda">Elasticida cruzada de la demanda</h3>
+<section id="elasticida-cruzada-de-la-demanda" class="level3" data-number="5.2.2">
+<h3 data-number="5.2.2" class="anchored" data-anchor-id="elasticida-cruzada-de-la-demanda"><span class="header-section-number">5.2.2</span> Elasticida cruzada de la demanda</h3>
 <p>La elasticidad cruzada de la demanda se calcula mediante la fórmula:</p>
 <p><span id="eq-1"><img src="https://latex.codecogs.com/png.latex?%0A%5Ceta_%7BXP_%7By%7D%7D%20=%20%5Cfrac%7B%5Cpartial%20X%7D%7B%5Cpartial%20P_%7By%7D%7D%20%5Cfrac%7BP_%7By%7D%7D%7BX%7D%0A%5Ctag%7B1%7D"></span></p>
 <p><span id="eq-2"><img src="https://latex.codecogs.com/png.latex?%0A%5Ceta_%7BXP_%7By%7D%7D%20=%20%5Cfrac%7B%5Cfrac%7B%5CDelta%20X%7D%7BX%7D%7D%7B%5Cfrac%7B%5CDelta%20P_%7By%7D%7D%7BP_%7By%7D%7D%7D%0A%5Ctag%7B2%7D"></span></p>
@@ -423,12 +453,12 @@ z-index: 0;
 <p>La elasticidad precio de la demanda nos ayuda a comprender cómo los consumidores reaccionan a los cambios en los precios y cómo se relacionan los diferentes bienes en el mercado. Esto es crucial para identificar sustitutos cercanos y definir un mercado relevante.</p>
 </section>
 </section>
-<section id="posición-de-poder-de-un-monopolista-en-el-mercado" class="level2">
-<h2 class="anchored" data-anchor-id="posición-de-poder-de-un-monopolista-en-el-mercado">Posición de Poder de un Monopolista en el Mercado</h2>
+<section id="posición-de-poder-de-un-monopolista-en-el-mercado" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="posición-de-poder-de-un-monopolista-en-el-mercado"><span class="header-section-number">5.3</span> Posición de Poder de un Monopolista en el Mercado</h2>
 <p>Para determinar la posición de poder de un monopolista en el mercado, es necesario evaluar la respuesta de los consumidores frente a un aumento en el precio del bien. Se busca determinar si la empresa puede seguir operando de manera rentable en el mercado a pesar del aumento de precio. Esto implica analizar si la empresa continúa siendo viable en un conjunto de bienes sustitutos cuando incrementa el precio de su producto respectivo.</p>
 <p>El análisis de la posición de poder de un monopolista es fundamental para evaluar la competencia y el funcionamiento eficiente del mercado. Los lineamientos de fusiones (Merger Guidelines) se utilizan para evaluar fusiones y adquisiciones empresariales, asegurándose de que no se genere una concentración excesiva de poder en el mercado y que no se perjudique la competencia y el bienestar del consumidor.</p>
-<section id="cómo-determinar-la-posición-de-poder-de-un-monopolista-en-el-mercado" class="level3">
-<h3 class="anchored" data-anchor-id="cómo-determinar-la-posición-de-poder-de-un-monopolista-en-el-mercado">Cómo determinar la posición de poder de un monopolista en el mercado</h3>
+<section id="cómo-determinar-la-posición-de-poder-de-un-monopolista-en-el-mercado" class="level3" data-number="5.3.1">
+<h3 data-number="5.3.1" class="anchored" data-anchor-id="cómo-determinar-la-posición-de-poder-de-un-monopolista-en-el-mercado"><span class="header-section-number">5.3.1</span> Cómo determinar la posición de poder de un monopolista en el mercado</h3>
 <p>Para evaluar la posición de poder de un monopolista en el mercado, se siguen los siguientes pasos de razonamiento.</p>
 <p><strong>Primer Paso: Evaluación del Bien A</strong></p>
 <p>Se plantea la siguiente pregunta: ¿Puede una empresa monopolista incrementar el precio del bien A en un rango del 5% al 10% de manera rentable?</p>
@@ -445,8 +475,8 @@ z-index: 0;
 <p><strong>Tercer Paso: Repetición del Proceso</strong></p>
 <p>El proceso se repite hasta que no existan productos sustitutos adicionales. Se evalúa cada vez si el monopolista puede incrementar el precio de los bienes de manera rentable y se determina si pertenecen al mismo mercado relevante.</p>
 </section>
-<section id="esquema-de-pivot-para-conocer-el-poder-de-un-mercado-monopolista" class="level3">
-<h3 class="anchored" data-anchor-id="esquema-de-pivot-para-conocer-el-poder-de-un-mercado-monopolista">Esquema de pivot para conocer el poder de un mercado monopolista</h3>
+<section id="esquema-de-pivot-para-conocer-el-poder-de-un-mercado-monopolista" class="level3" data-number="5.3.2">
+<h3 data-number="5.3.2" class="anchored" data-anchor-id="esquema-de-pivot-para-conocer-el-poder-de-un-mercado-monopolista"><span class="header-section-number">5.3.2</span> Esquema de pivot para conocer el poder de un mercado monopolista</h3>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
@@ -465,8 +495,8 @@ z-index: 0;
 </ol>
 <p>Se repite el proceso hasta conocer que ya no hay productos sustitutos.</p>
 </section>
-<section id="ejemplo-de-determinación-del-mercado-relevante-para-un-monopolista" class="level3">
-<h3 class="anchored" data-anchor-id="ejemplo-de-determinación-del-mercado-relevante-para-un-monopolista">Ejemplo de determinación del mercado relevante para un monopolista</h3>
+<section id="ejemplo-de-determinación-del-mercado-relevante-para-un-monopolista" class="level3" data-number="5.3.3">
+<h3 data-number="5.3.3" class="anchored" data-anchor-id="ejemplo-de-determinación-del-mercado-relevante-para-un-monopolista"><span class="header-section-number">5.3.3</span> Ejemplo de determinación del mercado relevante para un monopolista</h3>
 <p>En este ejemplo, analizaremos la situación de una empresa monopolista, llamada A, y evaluaremos si el mercado en el que opera es relevante. Utilizaremos datos específicos para ilustrar el proceso.</p>
 <p><strong>Datos de la empresa A</strong></p>
 <p>Supongamos que la empresa A produce el bien A, con un precio inicial de <img src="https://latex.codecogs.com/png.latex?P_A%20=%2010">, una cantidad producida de <img src="https://latex.codecogs.com/png.latex?Q_A%20=%201000">, un costo marginal de producción de <img src="https://latex.codecogs.com/png.latex?CMeT_A%20=%205"> y una ganancia bruta de <img src="https://latex.codecogs.com/png.latex?B_A%20=%205000">.</p>
@@ -505,8 +535,8 @@ z-index: 0;
 </div>
 </section>
 </section>
-<section id="elasticidad-precio-de-la-demanda-residual-de-una-empresa-con-demanda-relevante" class="level2">
-<h2 class="anchored" data-anchor-id="elasticidad-precio-de-la-demanda-residual-de-una-empresa-con-demanda-relevante">Elasticidad Precio de la Demanda Residual de una Empresa con Demanda Relevante</h2>
+<section id="elasticidad-precio-de-la-demanda-residual-de-una-empresa-con-demanda-relevante" class="level2" data-number="5.4">
+<h2 data-number="5.4" class="anchored" data-anchor-id="elasticidad-precio-de-la-demanda-residual-de-una-empresa-con-demanda-relevante"><span class="header-section-number">5.4</span> Elasticidad Precio de la Demanda Residual de una Empresa con Demanda Relevante</h2>
 <p>La elasticidad precio de la demanda residual es un concepto importante en el análisis económico que permite medir la sensibilidad de la demanda de un producto específico de una empresa ante cambios en su precio, teniendo en cuenta los efectos de la demanda de otros productos relacionados.</p>
 <p>Para comprender este concepto, consideremos las siguientes ecuaciones:</p>
 <p>La demanda total del mercado <img src="https://latex.codecogs.com/png.latex?D_T"> se puede expresar como la demanda del producto específico <img src="https://latex.codecogs.com/png.latex?X_T%5Ed"> multiplicada por el precio del producto <img src="https://latex.codecogs.com/png.latex?P_x">. Esta relación se muestra en la Ecuación&nbsp;3:</p>
@@ -557,27 +587,27 @@ z-index: 0;
 <li><p><img src="https://latex.codecogs.com/png.latex?S_R"> es la participación de ventas de la empresa con mercado relevante.</p></li>
 </ul>
 </section>
-<section id="implicaciones-de-la-elasticidad-precio-de-la-demanda-residual" class="level2">
-<h2 class="anchored" data-anchor-id="implicaciones-de-la-elasticidad-precio-de-la-demanda-residual">Implicaciones de la Elasticidad Precio de la Demanda Residual</h2>
-<section id="relación-entre-la-elasticidad-de-la-demanda-de-mercado-y-la-elasticidad-de-la-demanda-residual" class="level3">
-<h3 class="anchored" data-anchor-id="relación-entre-la-elasticidad-de-la-demanda-de-mercado-y-la-elasticidad-de-la-demanda-residual">1. Relación entre la Elasticidad de la Demanda de Mercado y la Elasticidad de la Demanda Residual</h3>
+<section id="implicaciones-de-la-elasticidad-precio-de-la-demanda-residual" class="level2" data-number="5.5">
+<h2 data-number="5.5" class="anchored" data-anchor-id="implicaciones-de-la-elasticidad-precio-de-la-demanda-residual"><span class="header-section-number">5.5</span> Implicaciones de la Elasticidad Precio de la Demanda Residual</h2>
+<section id="relación-entre-la-elasticidad-de-la-demanda-de-mercado-y-la-elasticidad-de-la-demanda-residual" class="level3" data-number="5.5.1">
+<h3 data-number="5.5.1" class="anchored" data-anchor-id="relación-entre-la-elasticidad-de-la-demanda-de-mercado-y-la-elasticidad-de-la-demanda-residual"><span class="header-section-number">5.5.1</span> 1. Relación entre la Elasticidad de la Demanda de Mercado y la Elasticidad de la Demanda Residual</h3>
 <p>La relación entre la elasticidad precio de la demanda de mercado y la elasticidad precio de la demanda residual puede variar. Es posible que una demanda de mercado sea inelástica <img src="https://latex.codecogs.com/png.latex?%5Ceta_%7BP_%7Bx%7DX_T%5Ed%7D%5Ed"> (baja elasticidad precio de la demanda de mercado) pero que la demanda residual sea elástica <img src="https://latex.codecogs.com/png.latex?%5Ceta_%7BP_%7Bx%7DX_R%5Ed%7D%5Ed"> (alta elasticidad precio de la demanda residual), siempre y cuando exista una elasticidad precio de la oferta de las otras empresas competidoras en el mercado.</p>
 <p>En otras palabras, incluso si la demanda de mercado en su conjunto es relativamente insensible a los cambios de precio, la demanda específica de la empresa puede ser más sensible. Esto se debe a que la empresa puede enfrentar una mayor competencia por parte de otras empresas que ofrecen productos similares, lo que aumenta la elasticidad precio de la demanda residual de la empresa.</p>
 </section>
-<section id="determinación-de-la-elasticidad-de-la-demanda-residual-en-una-empresa-monopólica" class="level3">
-<h3 class="anchored" data-anchor-id="determinación-de-la-elasticidad-de-la-demanda-residual-en-una-empresa-monopólica">2. Determinación de la Elasticidad de la Demanda Residual en una Empresa Monopólica</h3>
+<section id="determinación-de-la-elasticidad-de-la-demanda-residual-en-una-empresa-monopólica" class="level3" data-number="5.5.2">
+<h3 data-number="5.5.2" class="anchored" data-anchor-id="determinación-de-la-elasticidad-de-la-demanda-residual-en-una-empresa-monopólica"><span class="header-section-number">5.5.2</span> 2. Determinación de la Elasticidad de la Demanda Residual en una Empresa Monopólica</h3>
 <p>En el caso de una empresa monopólica que opera con demanda residual, la elasticidad de la demanda residual (<img src="https://latex.codecogs.com/png.latex?%5Ceta_%7BP_%7Bx%7DX_R%5Ed%7D%5Ed">) tiene implicaciones importantes. Si la empresa no puede aumentar el precio de su producto en un rango del 5% al 10% sin experimentar una disminución significativa y sostenida en sus ventas, entonces se enfrenta a una función de demanda residual elástica (alta <img src="https://latex.codecogs.com/png.latex?%5Ceta_%7BP_%7Bx%7DX_R%5Ed%7D%5Ed">).</p>
 <p>Por otro lado, si la demanda total o de mercado es inelástica (baja <img src="https://latex.codecogs.com/png.latex?%5Ceta_%7BP_%7Bx%7DX_T%5Ed%7D%5Ed">), esto implica que la oferta de las otras empresas competidoras es elástica (alta <img src="https://latex.codecogs.com/png.latex?%5Ceta_%7BP_%7Bx%7DX_C%5ES%7D%5ES">). En este caso, las acciones y decisiones de las otras empresas determinan el mercado relevante en términos de oferta y competencia.</p>
 </section>
 </section>
-<section id="ejemplo-de-un-mercado-relevante" class="level2">
-<h2 class="anchored" data-anchor-id="ejemplo-de-un-mercado-relevante">Ejemplo de un Mercado Relevante</h2>
+<section id="ejemplo-de-un-mercado-relevante" class="level2" data-number="5.6">
+<h2 data-number="5.6" class="anchored" data-anchor-id="ejemplo-de-un-mercado-relevante"><span class="header-section-number">5.6</span> Ejemplo de un Mercado Relevante</h2>
 <p>En este ejemplo, analizaremos un mercado relevante que involucra a tres productos: Ron Cartavio, Pisco y Cerveza. Utilizaremos datos ficticios para ilustrar el cálculo de los beneficios de cada producto y examinaremos cómo se ven afectados cuando las empresas de Piscos aumentan el precio en un 10%.</p>
 <blockquote class="blockquote">
 <p>En quechua el idioma de los incas. la palabra Pisko significa ave o pájaro. El licor Pisco es el aguardiente obtenido por destilación de mostos frescos de uvas pisqueras.</p>
 </blockquote>
-<section id="ron-cartavio" class="level3">
-<h3 class="anchored" data-anchor-id="ron-cartavio">Ron Cartavio</h3>
+<section id="ron-cartavio" class="level3" data-number="5.6.1">
+<h3 data-number="5.6.1" class="anchored" data-anchor-id="ron-cartavio"><span class="header-section-number">5.6.1</span> Ron Cartavio</h3>
 <ul>
 <li>Precio: <img src="https://latex.codecogs.com/png.latex?P_r%20=%2028"></li>
 <li>Cantidad: <img src="https://latex.codecogs.com/png.latex?Q_r%20=%2025,000"></li>
@@ -598,8 +628,8 @@ z-index: 0;
 <p><img src="https://latex.codecogs.com/png.latex?B_r%20=%20(31.8%20-%2011)%20%5Ctimes%2021,250"></p>
 <p><img src="https://latex.codecogs.com/png.latex?B_r%20=%20420,750"></p>
 </section>
-<section id="pisco" class="level3">
-<h3 class="anchored" data-anchor-id="pisco">Pisco</h3>
+<section id="pisco" class="level3" data-number="5.6.2">
+<h3 data-number="5.6.2" class="anchored" data-anchor-id="pisco"><span class="header-section-number">5.6.2</span> Pisco</h3>
 <ul>
 <li>Precio: <img src="https://latex.codecogs.com/png.latex?P_%7Bco%7D%20=%2035"></li>
 <li>Cantidad: <img src="https://latex.codecogs.com/png.latex?Q_%7Bco%7D%20=%2020,000"></li>
@@ -620,8 +650,8 @@ z-index: 0;
 <p><img src="https://latex.codecogs.com/png.latex?B_%7Bco%7D%20=%20(38.5%20-%2015)%20%5Ctimes%2020,000"></p>
 <p><img src="https://latex.codecogs.com/png.latex?B_%7Bco%7D%20=%20423,000"></p>
 </section>
-<section id="cerveza" class="level3">
-<h3 class="anchored" data-anchor-id="cerveza">Cerveza</h3>
+<section id="cerveza" class="level3" data-number="5.6.3">
+<h3 data-number="5.6.3" class="anchored" data-anchor-id="cerveza"><span class="header-section-number">5.6.3</span> Cerveza</h3>
 <ul>
 <li>Precio: <img src="https://latex.codecogs.com/png.latex?P_c%20=%205"></li>
 <li>Cantidad: <img src="https://latex.codecogs.com/png.latex?Q_c%20=%2070,000"></li>
@@ -649,40 +679,40 @@ z-index: 0;
 </ul>
 </section>
 </section>
-<section id="la-falacia-del-celofán-o-picón" class="level2">
-<h2 class="anchored" data-anchor-id="la-falacia-del-celofán-o-picón">La Falacia del Celofán o Picón</h2>
+<section id="la-falacia-del-celofán-o-picón" class="level2" data-number="5.7">
+<h2 data-number="5.7" class="anchored" data-anchor-id="la-falacia-del-celofán-o-picón"><span class="header-section-number">5.7</span> La Falacia del Celofán o Picón</h2>
 <p>La falacia del celofán, también conocida como falacia del picón, es un tipo de razonamiento incorrecto que se presenta en los mercados relevantes. Se refiere a la situación en la cual una empresa que vende un producto con pocos sustitutos percibe erróneamente que su producto es único en el mercado, lo que la lleva a aumentar repetidamente el precio del producto en un 5%, 10% u otro porcentaje. Sin embargo, a medida que aumenta el precio, se produce una disminución en las ventas. Esto ocurre porque, con el aumento de los precios, otras empresas ingresan al mercado ofreciendo bienes similares o sustitutos, lo que reduce la demanda del producto.</p>
-<section id="explicación-de-la-falacia-del-celofán" class="level3">
-<h3 class="anchored" data-anchor-id="explicación-de-la-falacia-del-celofán">Explicación de la falacia del celofán</h3>
+<section id="explicación-de-la-falacia-del-celofán" class="level3" data-number="5.7.1">
+<h3 data-number="5.7.1" class="anchored" data-anchor-id="explicación-de-la-falacia-del-celofán"><span class="header-section-number">5.7.1</span> Explicación de la falacia del celofán</h3>
 <p>La falacia del celofán se basa en una suposición incorrecta de que un producto no tiene sustitutos directos en el mercado. Esta suposición lleva a la empresa a creer que puede aumentar continuamente el precio sin perder clientes. Sin embargo, a medida que el precio se eleva, los consumidores comienzan a buscar alternativas similares y sustitutas, lo que reduce la demanda del producto original.</p>
 <p>Además, la elasticidad cruzada de la demanda de los bienes sustitutos juega un papel importante en esta falacia. Si la elasticidad cruzada de la demanda es baja, significa que los consumidores tienen dificultades para encontrar y adoptar sustitutos cuando el precio de un producto aumenta. Esto permite que la empresa incremente los precios sin enfrentar una disminución significativa en la demanda. Sin embargo, en algún punto, cuando los precios alcanzan un nivel crítico, los consumidores comienzan a buscar alternativas y la demanda del producto original se reduce.</p>
 </section>
-<section id="consideraciones-para-los-monopolistas" class="level3">
-<h3 class="anchored" data-anchor-id="consideraciones-para-los-monopolistas">Consideraciones para los monopolistas</h3>
+<section id="consideraciones-para-los-monopolistas" class="level3" data-number="5.7.2">
+<h3 data-number="5.7.2" class="anchored" data-anchor-id="consideraciones-para-los-monopolistas"><span class="header-section-number">5.7.2</span> Consideraciones para los monopolistas</h3>
 <p>Para los monopolistas, una de las preocupaciones principales es evitar que sus productos sean sustituidos por otros similares en el mercado. Por lo tanto, la sustituibilidad de sus productos debe ser cuidadosamente evaluada, asumiendo un precio competitivo para el bien analizado. Es fundamental conocer y analizar detalladamente la curva de demanda, especialmente a través de las elasticidades.</p>
 <p>Por ejemplo, si se opera en la parte elástica de una curva de demanda inicialmente inelástica, a medida que se incrementa el precio del producto, la demanda se vuelve más elástica y, en consecuencia, la cantidad demandada disminuye. En este sentido, la estrategia de aumentar los precios para ampliar la demanda, siguiendo la estrategia de un monopolista, no es una política efectiva para lograr dicho objetivo.</p>
 </section>
 </section>
-<section id="otras-formas-de-competir-y-permanecer-en-el-mercado-relevante" class="level2">
-<h2 class="anchored" data-anchor-id="otras-formas-de-competir-y-permanecer-en-el-mercado-relevante">Otras Formas de Competir y Permanecer en el Mercado Relevante</h2>
+<section id="otras-formas-de-competir-y-permanecer-en-el-mercado-relevante" class="level2" data-number="5.8">
+<h2 data-number="5.8" class="anchored" data-anchor-id="otras-formas-de-competir-y-permanecer-en-el-mercado-relevante"><span class="header-section-number">5.8</span> Otras Formas de Competir y Permanecer en el Mercado Relevante</h2>
 <p>Existe diversas estrategias que las empresas pueden emplear para competir y mantenerse en el mercado relevante. Estas estrategias van más allá de la simple fijación de precios y se centran en aspectos clave como el diseño de productos, la comprensión de las preferencias de los consumidores, el análisis de productos sustitutos y la optimización de costos, tecnología, inversión e investigación.</p>
-<section id="diseño-y-comparación-de-productos" class="level3">
-<h3 class="anchored" data-anchor-id="diseño-y-comparación-de-productos">Diseño y Comparación de Productos</h3>
+<section id="diseño-y-comparación-de-productos" class="level3" data-number="5.8.1">
+<h3 data-number="5.8.1" class="anchored" data-anchor-id="diseño-y-comparación-de-productos"><span class="header-section-number">5.8.1</span> Diseño y Comparación de Productos</h3>
 <p>Una forma efectiva de competir en el mercado relevante es a través del diseño y la comparación de productos. Esto implica desarrollar productos con características únicas y atractivas que los diferencien de los competidores. Además, es importante realizar un análisis comparativo con los productos existentes en el mercado para identificar fortalezas y debilidades y destacar las ventajas competitivas.</p>
 <p>El diseño de productos innovadores y la capacidad de comunicar claramente sus beneficios pueden generar una demanda adicional y atraer a los consumidores que valoran las características distintivas. Es fundamental entender las necesidades y deseos de los clientes para adaptar el diseño y ofrecer un producto que satisfaga sus expectativas.</p>
 </section>
-<section id="identificación-de-gustos-preferencias-y-patrones-de-consumo" class="level3">
-<h3 class="anchored" data-anchor-id="identificación-de-gustos-preferencias-y-patrones-de-consumo">Identificación de Gustos, Preferencias y Patrones de Consumo</h3>
+<section id="identificación-de-gustos-preferencias-y-patrones-de-consumo" class="level3" data-number="5.8.2">
+<h3 data-number="5.8.2" class="anchored" data-anchor-id="identificación-de-gustos-preferencias-y-patrones-de-consumo"><span class="header-section-number">5.8.2</span> Identificación de Gustos, Preferencias y Patrones de Consumo</h3>
 <p>Otra estrategia es la identificación de los gustos, preferencias y patrones de consumo de los consumidores. Esto se logra a través de investigaciones de mercado, análisis de datos y seguimiento de tendencias. Al comprender a fondo a los clientes, las empresas pueden ajustar sus estrategias de marketing y adaptar sus productos para satisfacer sus necesidades específicas.</p>
 <p>La recopilación de información demográfica, comportamiento de compra, preferencias de marca y opiniones del consumidor permite segmentar el mercado y personalizar las ofertas. Esto facilita la creación de campañas publicitarias más efectivas, la mejora de la experiencia del cliente y la construcción de relaciones duraderas con los consumidores.</p>
 </section>
-<section id="prácticas-de-regresión-y-correlación-entre-productos-sustitutos" class="level3">
-<h3 class="anchored" data-anchor-id="prácticas-de-regresión-y-correlación-entre-productos-sustitutos">Prácticas de Regresión y Correlación entre Productos Sustitutos</h3>
+<section id="prácticas-de-regresión-y-correlación-entre-productos-sustitutos" class="level3" data-number="5.8.3">
+<h3 data-number="5.8.3" class="anchored" data-anchor-id="prácticas-de-regresión-y-correlación-entre-productos-sustitutos"><span class="header-section-number">5.8.3</span> Prácticas de Regresión y Correlación entre Productos Sustitutos</h3>
 <p>La aplicación de técnicas estadísticas como la regresión y la correlación puede proporcionar información valiosa sobre los productos sustitutos en el mercado. Estas prácticas permiten identificar la relación entre variables y determinar qué factores pueden influir en la demanda de un producto en particular.</p>
 <p>Al analizar las interacciones entre productos sustitutos, las empresas pueden comprender mejor cómo los cambios en el precio, la calidad o las promociones de un producto afectan la demanda de otros productos similares. Esto proporciona información estratégica para ajustar la oferta, establecer precios competitivos y anticipar las respuestas de los consumidores ante cambios en el mercado.</p>
 </section>
-<section id="competencia-minimizando-costos-tecnología-inversión-e-investigación" class="level3">
-<h3 class="anchored" data-anchor-id="competencia-minimizando-costos-tecnología-inversión-e-investigación">Competencia Minimizando Costos, Tecnología, Inversión e Investigación</h3>
+<section id="competencia-minimizando-costos-tecnología-inversión-e-investigación" class="level3" data-number="5.8.4">
+<h3 data-number="5.8.4" class="anchored" data-anchor-id="competencia-minimizando-costos-tecnología-inversión-e-investigación"><span class="header-section-number">5.8.4</span> Competencia Minimizando Costos, Tecnología, Inversión e Investigación</h3>
 <p>Para mantenerse en el mercado relevante, las empresas también deben competir eficientemente minimizando costos, aprovechando la tecnología, realizando inversiones inteligentes e impulsando la investigación y el desarrollo. Estas prácticas permiten mejorar la productividad, la calidad y la innovación, lo que puede brindar una ventaja competitiva sostenible.</p>
 <p>La optimización de los costos operativos, la implementación de tecnologías avanzadas, las inversiones estratégicas en recursos clave y el fomento de la investigación y el desarrollo son fundamentales para garantizar la eficiencia y la adaptabilidad en un entorno empresarial dinámico. Estas prácticas pueden ayudar a las empresas a ofrecer productos de alta calidad a precios competitivos, mejorar la satisfacción del cliente y mantener una posición sólida en el mercado relevante.</p>
 <blockquote class="blockquote">
@@ -691,21 +721,21 @@ z-index: 0;
 </section>
 </section>
 </section>
-<section id="mercado-del-producto-relevante-por-el-lado-de-la-oferta" class="level1">
-<h1>Mercado del Producto Relevante por el Lado de la Oferta</h1>
-<section id="elasticidad-precio-de-la-oferta" class="level2">
-<h2 class="anchored" data-anchor-id="elasticidad-precio-de-la-oferta">Elasticidad Precio de la Oferta</h2>
+<section id="mercado-del-producto-relevante-por-el-lado-de-la-oferta" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Mercado del Producto Relevante por el Lado de la Oferta</h1>
+<section id="elasticidad-precio-de-la-oferta" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="elasticidad-precio-de-la-oferta"><span class="header-section-number">6.1</span> Elasticidad Precio de la Oferta</h2>
 <p>Un mercado de producto es considerado relevante por el lado de la oferta si la elasticidad precio de la oferta es alta, lo que implica que la oferta es elástica. La elasticidad precio de la oferta se define como la medida de la sensibilidad de la cantidad ofrecida de un bien ante cambios en su precio. Si la elasticidad precio de la oferta es alta, significa que la cantidad ofrecida cambia significativamente en respuesta a cambios en el precio.</p>
 <p><span id="eq-17"><img src="https://latex.codecogs.com/png.latex?%0A%5Ceta_%7BXP_%7By%7D%7D%20=%20%5Cfrac%7B%5Cpartial%20X%5Es%7D%7B%5Cpartial%20P_%7Bx%7D%7D%20%5Cfrac%7BP_%7Bx%7D%7D%7BX%7D%0A%5Ctag%7B17%7D"></span></p>
 <p><span id="eq-18"><img src="https://latex.codecogs.com/png.latex?%0A%5Ceta_%7BXP_%7By%7D%7D%20=%20%5Cfrac%7B%5Cfrac%7B%5CDelta%20X%5Es%7D%7BX%7D%7D%7B%5Cfrac%7B%5CDelta%20P_%7Bx%7D%7D%7BP_%7Bx%7D%7D%7D%0A%5Ctag%7B18%7D"></span></p>
 <p>Las ecuaciones presentadas nos permiten calcular la elasticidad precio de la oferta. La Ecuación&nbsp;17 muestra la fórmula general, donde <img src="https://latex.codecogs.com/png.latex?X%5Es"> representa la cantidad ofrecida del bien, <img src="https://latex.codecogs.com/png.latex?P_x"> es el precio del bien y <img src="https://latex.codecogs.com/png.latex?X"> es la cantidad total del bien. La Ecuación&nbsp;18 muestra una forma simplificada de calcular la elasticidad precio de la oferta utilizando cambios porcentuales.</p>
 </section>
-<section id="ampliación-del-mercado-relevante" class="level2">
-<h2 class="anchored" data-anchor-id="ampliación-del-mercado-relevante">Ampliación del Mercado Relevante</h2>
+<section id="ampliación-del-mercado-relevante" class="level2" data-number="6.2">
+<h2 data-number="6.2" class="anchored" data-anchor-id="ampliación-del-mercado-relevante"><span class="header-section-number">6.2</span> Ampliación del Mercado Relevante</h2>
 <p>En el largo plazo, es posible que se permita la entrada de nuevas empresas que producen bienes sustitutos a bajos costos. Esto implica la ampliación del mercado relevante, ya que se incluiría a este nuevo grupo de empresas en el mercado futuro. La entrada de nuevas empresas con bienes sustitutos puede tener un impacto significativo en la competencia y en la dinámica del mercado, ya que proporciona a los consumidores más opciones y puede influir en los precios y la calidad de los productos.</p>
 </section>
-<section id="factores-que-limitan-el-mercado-geográfico-relevante" class="level2">
-<h2 class="anchored" data-anchor-id="factores-que-limitan-el-mercado-geográfico-relevante">Factores que Limitan el Mercado Geográfico Relevante</h2>
+<section id="factores-que-limitan-el-mercado-geográfico-relevante" class="level2" data-number="6.3">
+<h2 data-number="6.3" class="anchored" data-anchor-id="factores-que-limitan-el-mercado-geográfico-relevante"><span class="header-section-number">6.3</span> Factores que Limitan el Mercado Geográfico Relevante</h2>
 <p>Existen varios factores que limitan el alcance geográfico del mercado relevante y que deben tenerse en cuenta al evaluar las posibilidades de aprovisionamiento de bienes sustitutos. Algunos de estos factores son:</p>
 <ol type="1">
 <li><p>Disponibilidad de Proveedores Alternativos: Es importante evaluar si existen proveedores alternativos que puedan atender a los clientes en el mercado relevante. Esto implica analizar la capacidad y disposición de estos proveedores para satisfacer la demanda.</p></li>
@@ -715,25 +745,25 @@ z-index: 0;
 <p>Es fundamental considerar estos factores al determinar el mercado geográfico relevante y evaluar las opciones disponibles para los consumidores en términos de precios, calidad y disponibilidad de productos sustitutos.</p>
 </section>
 </section>
-<section id="definición-de-mercado-geográfico-relevante-en-el-perú" class="level1">
-<h1>Definición de Mercado Geográfico Relevante en el Perú</h1>
-<section id="definición-según-la-resolución-n-0078-1999dtc-indecopi" class="level2">
-<h2 class="anchored" data-anchor-id="definición-según-la-resolución-n-0078-1999dtc-indecopi">Definición según la Resolución N 0078-1999/DTC – INDECOPI</h2>
+<section id="definición-de-mercado-geográfico-relevante-en-el-perú" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> Definición de Mercado Geográfico Relevante en el Perú</h1>
+<section id="definición-según-la-resolución-n-0078-1999dtc-indecopi" class="level2" data-number="7.1">
+<h2 data-number="7.1" class="anchored" data-anchor-id="definición-según-la-resolución-n-0078-1999dtc-indecopi"><span class="header-section-number">7.1</span> Definición según la Resolución N 0078-1999/DTC – INDECOPI</h2>
 <p>La Resolución N 0078-1999/DTC – INDECOPI, emitida el 5 de marzo de 1999, establece que el mercado geográfico relevante se refiere a las fuentes alternativas de aprovisionamiento a las que puede acudir el consumidor o usuario en el corto plazo si el precio del producto o servicio se incrementa de manera significativa. Esta definición enfatiza la importancia de identificar las opciones disponibles para los consumidores en caso de un aumento de precio considerable.</p>
 </section>
-<section id="definición-según-la-resolución-n-117-97-tdc" class="level2">
-<h2 class="anchored" data-anchor-id="definición-según-la-resolución-n-117-97-tdc">Definición según la Resolución N 117-97-TDC</h2>
+<section id="definición-según-la-resolución-n-117-97-tdc" class="level2" data-number="7.2">
+<h2 data-number="7.2" class="anchored" data-anchor-id="definición-según-la-resolución-n-117-97-tdc"><span class="header-section-number">7.2</span> Definición según la Resolución N 117-97-TDC</h2>
 <p>La Resolución N 117-97-TDC, emitida el 5 de mayo de 1997, proporciona una perspectiva adicional sobre la determinación del mercado relevante. Según esta resolución, para determinar el mercado relevante se deben examinar las fuentes de aprovisionamiento a las que un comprador puede acudir. Es importante considerar las alternativas reales disponibles en función del nivel de sustitución entre productos, así como los costos asociados con esas alternativas para el proveedor.</p>
 </section>
-<section id="explicación-de-los-conceptos" class="level2">
-<h2 class="anchored" data-anchor-id="explicación-de-los-conceptos">Explicación de los Conceptos</h2>
+<section id="explicación-de-los-conceptos" class="level2" data-number="7.3">
+<h2 data-number="7.3" class="anchored" data-anchor-id="explicación-de-los-conceptos"><span class="header-section-number">7.3</span> Explicación de los Conceptos</h2>
 <p>La definición de mercado geográfico relevante se centra en identificar las fuentes alternativas de aprovisionamiento a las que pueden recurrir los consumidores en caso de un aumento significativo en el precio de un producto o servicio. Es decir, se busca determinar qué otras opciones tienen los consumidores en el corto plazo si el precio de un producto o servicio se vuelve menos atractivo.</p>
 <p>La noción de sustitución entre productos es crucial para comprender el mercado relevante. Se refiere a la capacidad de los consumidores para satisfacer una misma necesidad o deseo utilizando diferentes productos o servicios. Cuanto mayor sea el nivel de sustitución entre productos, es decir, cuanto más similares y competitivos sean los productos entre sí, mayor será el alcance del mercado relevante.</p>
 <p>Además, al determinar el mercado relevante, es fundamental considerar los costos asociados con las alternativas disponibles para los proveedores. Esto implica evaluar los costos de producción, distribución y otros factores que puedan influir en la viabilidad de las fuentes alternativas de aprovisionamiento.</p>
 </section>
 </section>
-<section id="recapitulación-de-los-conceptos-clave" class="level1">
-<h1>Recapitulación de los conceptos clave</h1>
+<section id="recapitulación-de-los-conceptos-clave" class="level1" data-number="8">
+<h1 data-number="8"><span class="header-section-number">8</span> Recapitulación de los conceptos clave</h1>
 <p><strong>Mercado de Producto o Servicio Relevante</strong></p>
 <p>Desde la perspectiva del consumidor, el mercado de producto o servicio relevante se refiere al conjunto de bienes y servicios que son sustitutos entre sí en términos de características, precios y usos. Estos bienes y servicios satisfacen las mismas necesidades del consumidor en condiciones similares. En otras palabras, son productos o servicios que pueden cumplir la misma función o propósito para el consumidor.</p>
 <p>La determinación del mercado de producto o servicio relevante es esencial para comprender la competencia y la dinámica del mercado. Al identificar los sustitutos cercanos, tanto los consumidores como las empresas pueden tomar decisiones estratégicas en relación con la oferta y la demanda de esos productos o servicios.</p>
@@ -743,8 +773,8 @@ z-index: 0;
 <p><strong>Mercado Relevante</strong></p>
 <p>El concepto de mercado relevante también puede abarcar la dimensión temporal. En este caso, se refiere a las combinaciones de los mercados de producto y geográfico en un determinado período de tiempo. Esta perspectiva temporal es relevante para comprender la evolución de la competencia y las estrategias de mercado a lo largo del tiempo.</p>
 </section>
-<section id="publicaciones-similares" class="level1">
-<h1>Publicaciones Similares</h1>
+<section id="publicaciones-similares" class="level1" data-number="9">
+<h1 data-number="9"><span class="header-section-number">9</span> Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
 <ol type="1">
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
@@ -761,8 +791,8 @@ z-index: 0;
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2023" class="csl-entry quarto-appendix-citeas">
-Achalma, Edison. 2023. <span>“Definición de mercado relevante,”</span>
-June. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/">https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/</a>.
+Achalma, Edison. 2023. <em>Definición de mercado relevante</em>.
+accepted, June 15. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/">https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/</a>.
 </div></div></section></div> ]]></description>
   <category>Organizacion Industrial</category>
   <guid>https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/</guid>
@@ -775,49 +805,54 @@ June. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-15-m
   <link>https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/</link>
   <description><![CDATA[ 
 
+
 <style>
-:root {
---primary-color: ;
-}
-#title-block-header {
-width: 100%;
-overflow: hidden;
-position: relative;
-}
-.title-block-content {
-position: relative;
-padding-top: 60px;
+  :root {
+    --primary-color: ;
+  }
 
-padding-bottom: 60px;
+  #title-block-header {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
 
-max-width: 752px;
-margin: 0 auto;
-z-index: 1;
-}
-#particles-js {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-z-index: 0;
-}
-.bg-image {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-object-fit: cover;
-z-index: 0;
-}
+  .title-block-content {
+    position: relative;
+    padding-top: 60px;
+    /* Reducido de 130px */
+    padding-bottom: 60px;
+    /* Reducido de 130px */
+    max-width: 752px;
+    margin: 0 auto;
+    z-index: 1;
+  }
+
+  #particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+  }
+
+  .bg-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+  }
 </style>
 
 
 
 
-<section id="introducción-a-los-sistemas-económicos-cómo-se-distribuyen-los-recursos-se-producen-y-se-distribuyen-los-bienes-y-servicios" class="level1">
-<h1>Introducción a los Sistemas Económicos: Cómo se distribuyen los recursos, se producen y se distribuyen los bienes y servicios</h1>
+<section id="introducción-a-los-sistemas-económicos-cómo-se-distribuyen-los-recursos-se-producen-y-se-distribuyen-los-bienes-y-servicios" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Introducción a los Sistemas Económicos: Cómo se distribuyen los recursos, se producen y se distribuyen los bienes y servicios</h1>
 <p>Los sistemas económicos desempeñan un papel crucial en la organización de una sociedad. Determinan cómo se distribuyen los recursos, cómo se producen los bienes y servicios, quién se encarga de hacerlo y cómo se distribuyen esos bienes y servicios a los consumidores. En este artículo, exploraremos los conceptos clave relacionados con los sistemas económicos y analizaremos detalladamente cada uno de ellos.</p>
 <ol type="1">
 <li>Distribución de recursos para la producción de bienes y servicios: El sistema económico de una sociedad se refiere a la forma en que se distribuyen los recursos para la producción de bienes y servicios. Los recursos pueden incluir capital, tierra, trabajo y tecnología. Hay diferentes enfoques en la distribución de estos recursos:</li>
@@ -849,26 +884,26 @@ z-index: 0;
 <li><p>Planificación centralizada: En una economía planificada, el gobierno controla la distribución de bienes y servicios y los asigna a los consumidores según el plan económico establecido.</p></li>
 </ul>
 </section>
-<section id="tipos-de-sistemas-capitalismo-socialismo-y-comunismo" class="level1">
-<h1>Tipos de Sistemas: Capitalismo, Socialismo y Comunismo</h1>
-<section id="comunismo" class="level2">
-<h2 class="anchored" data-anchor-id="comunismo">Comunismo</h2>
+<section id="tipos-de-sistemas-capitalismo-socialismo-y-comunismo" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Tipos de Sistemas: Capitalismo, Socialismo y Comunismo</h1>
+<section id="comunismo" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="comunismo"><span class="header-section-number">2.1</span> Comunismo</h2>
 <p>El comunismo es una sociedad en la que las personas son propietarias de todos los recursos de una nación, independientemente de su clase social. Sin embargo, es importante destacar que el comunismo tal como lo describiste no se ha logrado implementar en su forma pura en la práctica.</p>
 <p>Sistema económico-político ideal, donde todos contribuyen según su capacidad y reciben según su necesidad, es una afirmación que proviene de la teoría marxista y busca la igualdad en la distribución de recursos. Sin embargo, es importante mencionar que el comunismo como se ha intentado aplicar en países como China, Corea del Norte y Cuba ha presentado desafíos y no ha alcanzado completamente los objetivos propuestos.</p>
 </section>
-<section id="socialismo" class="level2">
-<h2 class="anchored" data-anchor-id="socialismo">Socialismo</h2>
+<section id="socialismo" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="socialismo"><span class="header-section-number">2.2</span> Socialismo</h2>
 <p>El socialismo se caracteriza por la propiedad y operación estatal de las industrias básicas, como los servicios públicos, la industria postal, el transporte, la salud y algunos sectores manufactureros. A diferencia del comunismo, en el socialismo existe cierto grado de propiedad privada de las empresas por parte de los individuos.</p>
 <p>En este sistema, los ciudadanos dependen del gobierno para obtener muchos bienes y servicios. Sin embargo, es importante destacar que existen diferentes enfoques dentro del socialismo. Algunos países socialistas democráticos, como Suecia, India, Francia e Israel, reconocen las libertades individuales básicas y sus ciudadanos participan en el proceso de elección de representantes políticos.</p>
 </section>
-<section id="capitalismo-o-sistema-de-libre-empresa" class="level2">
-<h2 class="anchored" data-anchor-id="capitalismo-o-sistema-de-libre-empresa">Capitalismo o Sistema de Libre Empresa</h2>
+<section id="capitalismo-o-sistema-de-libre-empresa" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="capitalismo-o-sistema-de-libre-empresa"><span class="header-section-number">2.3</span> Capitalismo o Sistema de Libre Empresa</h2>
 <p>El capitalismo es un sistema en el que las personas son propietarias y operadoras de la mayoría de las empresas que proporcionan bienes y servicios. En este sistema, la competencia, la oferta y la demanda son los factores determinantes para qué bienes y servicios se producen, cómo se producen y cómo se distribuyen.</p>
 <p>Algunos ejemplos de países que adoptan el sistema capitalista son Estados Unidos, Canadá, Japón y Australia. Sin embargo, es importante destacar que existen diferentes modelos de capitalismo en todo el mundo, algunos con mayores regulaciones gubernamentales y otros con un enfoque más liberal.</p>
 </section>
 </section>
-<section id="diferencias-entre-sistemas-económicos" class="level1">
-<h1>Diferencias entre sistemas económicos</h1>
+<section id="diferencias-entre-sistemas-económicos" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Diferencias entre sistemas económicos</h1>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 7%">
@@ -918,51 +953,51 @@ z-index: 0;
 </tbody>
 </table>
 </section>
-<section id="capitalismo" class="level1">
-<h1>Capitalismo</h1>
+<section id="capitalismo" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Capitalismo</h1>
 <p>El capitalismo es un sistema económico caracterizado por la propiedad privada de los medios de producción y la libertad de mercado.</p>
-<section id="capitalismo-puro" class="level2">
-<h2 class="anchored" data-anchor-id="capitalismo-puro">Capitalismo puro</h2>
+<section id="capitalismo-puro" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="capitalismo-puro"><span class="header-section-number">4.1</span> Capitalismo puro</h2>
 <p>El capitalismo puro, también conocido como sistema libre de mercado, se refiere a un modelo en el cual las decisiones económicas se toman sin intervención gubernamental directa en los asuntos económicos. En este sistema, los recursos y la producción están en manos de individuos y empresas privadas, quienes determinan qué bienes y servicios producir y cómo distribuirlos en el mercado. A menudo se le atribuye a Adam Smith, autor de la obra “La riqueza de las naciones” publicada en 1776, el ser considerado el padre del capitalismo debido a su análisis y defensa de los principios fundamentales de este sistema económico.</p>
 <p>La “mano invisible de la competencia” es un concepto introducido por Adam Smith en su obra. Se refiere a la idea de que, en un sistema de libre competencia, las interacciones entre los compradores y vendedores, guiadas por sus propios intereses egoístas, conducen a una asignación eficiente de los recursos en la economía. Según esta teoría, la competencia en el mercado actúa como un regulador natural, ajustando los precios y las cantidades producidas en función de la oferta y la demanda, sin necesidad de intervención gubernamental directa.</p>
 </section>
-<section id="capitalismo-modificado" class="level2">
-<h2 class="anchored" data-anchor-id="capitalismo-modificado">Capitalismo modificado</h2>
+<section id="capitalismo-modificado" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="capitalismo-modificado"><span class="header-section-number">4.2</span> Capitalismo modificado</h2>
 <p>En contraste con el capitalismo puro, el capitalismo modificado implica la intervención y regulación gubernamental en cierta medida. En este caso, el gobierno desempeña un papel más activo en la economía y establece regulaciones para salvaguardar el interés público, promover la equidad y prevenir abusos. Estas regulaciones pueden abarcar diversos aspectos, como la protección del medio ambiente, la seguridad laboral, la competencia justa y el etiquetado de sustancias peligrosas, entre otros.</p>
 <p>Es importante destacar que cada país puede tener su propio conjunto de leyes y regulaciones que se aplican al funcionamiento de las empresas y los mercados. Tomemos como ejemplo a Estados Unidos y Canadá, donde existen leyes que regulan aspectos como el etiquetado de sustancias peligrosas. Sin embargo, es importante reconocer que estas regulaciones específicas pueden variar y evolucionar con el tiempo, ya que los gobiernos buscan equilibrar los intereses económicos y sociales en el contexto de sus respectivas sociedades.</p>
 </section>
 </section>
-<section id="economías-mixtas" class="level1">
-<h1>Economías mixtas</h1>
-<section id="economías-mixtas-una-combinación-de-sistemas-económicos" class="level2">
-<h2 class="anchored" data-anchor-id="economías-mixtas-una-combinación-de-sistemas-económicos">Economías mixtas: una combinación de sistemas económicos</h2>
+<section id="economías-mixtas" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Economías mixtas</h1>
+<section id="economías-mixtas-una-combinación-de-sistemas-económicos" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="economías-mixtas-una-combinación-de-sistemas-económicos"><span class="header-section-number">5.1</span> Economías mixtas: una combinación de sistemas económicos</h2>
 <p>En la realidad, ningún país practica una forma pura de comunismo, socialismo o capitalismo. En cambio, muchas naciones adoptan un enfoque de economía mixta, que combina elementos de dos o más sistemas económicos para abordar las necesidades y los desafíos específicos de su sociedad.</p>
 </section>
-<section id="suecia-y-su-modelo-económico" class="level2">
-<h2 class="anchored" data-anchor-id="suecia-y-su-modelo-económico">Suecia y su modelo económico</h2>
+<section id="suecia-y-su-modelo-económico" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="suecia-y-su-modelo-económico"><span class="header-section-number">5.2</span> Suecia y su modelo económico</h2>
 <p>Si bien se ha descrito a Suecia como un país socialista en algunos contextos, es más preciso considerar su sistema económico como una economía mixta con una fuerte intervención del Estado en algunos sectores clave. En Suecia, las personas pueden ser propietarias y operadoras de muchas empresas, lo que implica la existencia de una iniciativa privada y empresarial. Sin embargo, el gobierno sueco también desempeña un papel activo en la provisión de servicios públicos y la regulación de ciertos sectores de la economía.</p>
 </section>
-<section id="estados-unidos-y-su-enfoque-capitalista" class="level2">
-<h2 class="anchored" data-anchor-id="estados-unidos-y-su-enfoque-capitalista">Estados Unidos y su enfoque capitalista</h2>
+<section id="estados-unidos-y-su-enfoque-capitalista" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="estados-unidos-y-su-enfoque-capitalista"><span class="header-section-number">5.3</span> Estados Unidos y su enfoque capitalista</h2>
 <p>Estados Unidos se caracteriza por ser una economía capitalista, donde la propiedad privada y la libertad de mercado son fundamentales. Sin embargo, también existen casos en los que el gobierno federal tiene la propiedad y opera ciertos servicios públicos, como el servicio postal y eléctrico. Estos ejemplos de propiedad estatal en un sistema mayormente capitalista son excepciones a la norma y no representan la totalidad de la economía del país.</p>
 </section>
-<section id="reino-unido-méxico-y-la-privatización" class="level2">
-<h2 class="anchored" data-anchor-id="reino-unido-méxico-y-la-privatización">Reino Unido, México y la privatización</h2>
+<section id="reino-unido-méxico-y-la-privatización" class="level2" data-number="5.4">
+<h2 data-number="5.4" class="anchored" data-anchor-id="reino-unido-méxico-y-la-privatización"><span class="header-section-number">5.4</span> Reino Unido, México y la privatización</h2>
 <p>Tanto el Reino Unido como México han llevado a cabo procesos de privatización, que implican la venta de empresas estatales a empresas privadas. Este enfoque busca transferir la propiedad y la operación de ciertas industrias del sector público al sector privado. Sin embargo, es importante tener en cuenta que la privatización no significa necesariamente un cambio hacia un sistema económico completamente capitalista, ya que estos países aún mantienen una regulación gubernamental en diversos aspectos económicos.</p>
 </section>
-<section id="transición-en-naciones-antiguamente-comunistas" class="level2">
-<h2 class="anchored" data-anchor-id="transición-en-naciones-antiguamente-comunistas">Transición en naciones antiguamente comunistas</h2>
+<section id="transición-en-naciones-antiguamente-comunistas" class="level2" data-number="5.5">
+<h2 data-number="5.5" class="anchored" data-anchor-id="transición-en-naciones-antiguamente-comunistas"><span class="header-section-number">5.5</span> Transición en naciones antiguamente comunistas</h2>
 <p>Tras la caída del comunismo, naciones como Rusia, Hungría, Polonia y otras han experimentado una transición hacia una economía más orientada al capitalismo. Esto ha implicado la adopción de la propiedad privada y la apertura de mercados, en contraste con el enfoque anterior de propiedad estatal y planificación centralizada. Sin embargo, es importante destacar que estas economías aún tienen elementos de una economía mixta, ya que el gobierno mantiene un cierto grado de intervención y regulación en la economía.</p>
 </section>
 </section>
-<section id="sistema-de-libre-empresa" class="level1">
-<h1>Sistema de libre empresa</h1>
-<section id="el-sistema-de-libre-empresa-una-oportunidad-para-el-éxito-y-el-fracaso-empresarial" class="level2">
-<h2 class="anchored" data-anchor-id="el-sistema-de-libre-empresa-una-oportunidad-para-el-éxito-y-el-fracaso-empresarial">El sistema de libre empresa: una oportunidad para el éxito y el fracaso empresarial</h2>
+<section id="sistema-de-libre-empresa" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Sistema de libre empresa</h1>
+<section id="el-sistema-de-libre-empresa-una-oportunidad-para-el-éxito-y-el-fracaso-empresarial" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="el-sistema-de-libre-empresa-una-oportunidad-para-el-éxito-y-el-fracaso-empresarial"><span class="header-section-number">6.1</span> El sistema de libre empresa: una oportunidad para el éxito y el fracaso empresarial</h2>
 <p>El sistema de libre empresa, también conocido como economía de mercado o capitalismo, brinda a las empresas la oportunidad de tener éxito o fracaso en función de la demanda y las decisiones empresariales. En este sistema, el mercado y la competencia son los principales impulsores de la actividad económica.</p>
 </section>
-<section id="derechos-individuales-y-empresariales-en-la-libre-empresa" class="level2">
-<h2 class="anchored" data-anchor-id="derechos-individuales-y-empresariales-en-la-libre-empresa">Derechos individuales y empresariales en la libre empresa</h2>
+<section id="derechos-individuales-y-empresariales-en-la-libre-empresa" class="level2" data-number="6.2">
+<h2 data-number="6.2" class="anchored" data-anchor-id="derechos-individuales-y-empresariales-en-la-libre-empresa"><span class="header-section-number">6.2</span> Derechos individuales y empresariales en la libre empresa</h2>
 <p>Para que funcione el sistema de libre empresa, es necesario garantizar varios derechos individuales y empresariales fundamentales. Estos derechos incluyen:</p>
 <ol type="1">
 <li><p>Derecho a la propiedad privada y transferencia intergeneracional: Los individuos deben tener el derecho a poseer propiedades privadas y transferirlas a sus herederos. Esto implica que las personas pueden ser propietarias de activos, como tierras, viviendas y empresas.</p></li>
@@ -975,20 +1010,20 @@ z-index: 0;
 </blockquote>
 </section>
 </section>
-<section id="fuerza-de-la-oferta-y-la-demanda" class="level1">
-<h1>Fuerza de la oferta y la demanda</h1>
-<section id="entendiendo-la-demanda-el-papel-de-los-consumidores" class="level2">
-<h2 class="anchored" data-anchor-id="entendiendo-la-demanda-el-papel-de-los-consumidores">Entendiendo la demanda: el papel de los consumidores</h2>
+<section id="fuerza-de-la-oferta-y-la-demanda" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> Fuerza de la oferta y la demanda</h1>
+<section id="entendiendo-la-demanda-el-papel-de-los-consumidores" class="level2" data-number="7.1">
+<h2 data-number="7.1" class="anchored" data-anchor-id="entendiendo-la-demanda-el-papel-de-los-consumidores"><span class="header-section-number">7.1</span> Entendiendo la demanda: el papel de los consumidores</h2>
 <p>La demanda se refiere al número de bienes o servicios que los consumidores están dispuestos a comprar a diferentes precios y en un momento específico. La demanda está determinada por varios factores, como el precio del producto, el nivel de ingresos de los consumidores, las preferencias individuales y los factores externos que puedan influir en la demanda, como las tendencias de mercado o las políticas gubernamentales.</p>
 <p>Cuando el precio de un producto disminuye, la cantidad demandada tiende a aumentar, ya que los consumidores encuentran el producto más asequible. Por el contrario, cuando el precio de un producto aumenta, la cantidad demandada tiende a disminuir, ya que los consumidores pueden optar por buscar alternativas más económicas o reducir su consumo.</p>
 </section>
-<section id="explorando-la-oferta-el-papel-de-las-empresas" class="level2">
-<h2 class="anchored" data-anchor-id="explorando-la-oferta-el-papel-de-las-empresas">Explorando la oferta: el papel de las empresas</h2>
+<section id="explorando-la-oferta-el-papel-de-las-empresas" class="level2" data-number="7.2">
+<h2 data-number="7.2" class="anchored" data-anchor-id="explorando-la-oferta-el-papel-de-las-empresas"><span class="header-section-number">7.2</span> Explorando la oferta: el papel de las empresas</h2>
 <p>La oferta se refiere al número de productos (bienes o servicios) que las empresas están dispuestas a vender a diferentes precios y en un momento específico. La oferta está influenciada por diversos factores, como el costo de producción, la disponibilidad de recursos, la tecnología utilizada, la competencia en el mercado y las expectativas empresariales.</p>
 <p>Cuando el precio de un producto aumenta, las empresas tienen un incentivo para ofrecer más productos en el mercado, ya que pueden obtener mayores ganancias. Por el contrario, cuando el precio de un producto disminuye, las empresas pueden reducir su oferta, ya que la rentabilidad puede verse afectada. La relación entre el precio y la cantidad ofrecida se conoce como la ley de la oferta, que establece que, en general, a medida que el precio aumenta, la cantidad ofrecida también tiende a aumentar.</p>
 </section>
-<section id="precio-de-equilibrio-cuando-la-oferta-y-la-demanda-se-encuentran" class="level2">
-<h2 class="anchored" data-anchor-id="precio-de-equilibrio-cuando-la-oferta-y-la-demanda-se-encuentran">Precio de equilibrio: cuando la oferta y la demanda se encuentran</h2>
+<section id="precio-de-equilibrio-cuando-la-oferta-y-la-demanda-se-encuentran" class="level2" data-number="7.3">
+<h2 data-number="7.3" class="anchored" data-anchor-id="precio-de-equilibrio-cuando-la-oferta-y-la-demanda-se-encuentran"><span class="header-section-number">7.3</span> Precio de equilibrio: cuando la oferta y la demanda se encuentran</h2>
 <p>El precio de equilibrio es aquel en el cual el número de productos que las empresas están dispuestas a vender es igual a la cantidad de productos que los consumidores están dispuestos a comprar, en un momento específico. En este punto, la oferta y la demanda se equilibran, lo que significa que no hay exceso de oferta o demanda insatisfecha en el mercado.</p>
 <p>El precio de equilibrio se determina mediante la interacción de la oferta y la demanda en el mercado. Si el precio actual es más alto que el precio de equilibrio, es probable que la cantidad demandada sea menor que la cantidad ofrecida, lo que puede generar un exceso de oferta. En cambio, si el precio actual es más bajo que el precio de equilibrio, es probable que la cantidad demandada sea mayor que la cantidad ofrecida, lo que puede generar una escasez de producto.</p>
 <blockquote class="blockquote">
@@ -996,31 +1031,31 @@ z-index: 0;
 </blockquote>
 </section>
 </section>
-<section id="naturaleza-de-la-competencia" class="level1">
-<h1>Naturaleza de la competencia</h1>
-<section id="comprendiendo-la-competencia-rivalidad-entre-empresas" class="level2">
-<h2 class="anchored" data-anchor-id="comprendiendo-la-competencia-rivalidad-entre-empresas">Comprendiendo la competencia: rivalidad entre empresas</h2>
+<section id="naturaleza-de-la-competencia" class="level1" data-number="8">
+<h1 data-number="8"><span class="header-section-number">8</span> Naturaleza de la competencia</h1>
+<section id="comprendiendo-la-competencia-rivalidad-entre-empresas" class="level2" data-number="8.1">
+<h2 data-number="8.1" class="anchored" data-anchor-id="comprendiendo-la-competencia-rivalidad-entre-empresas"><span class="header-section-number">8.1</span> Comprendiendo la competencia: rivalidad entre empresas</h2>
 <p>La competencia se refiere a la rivalidad existente entre las empresas por la venta de productos o servicios a los consumidores. Es un componente fundamental de los mercados y juega un papel crucial en la determinación de los precios, la calidad de los productos y la innovación.</p>
 </section>
-<section id="competencia-perfecta-muchas-empresas-y-productos-estandarizados" class="level2">
-<h2 class="anchored" data-anchor-id="competencia-perfecta-muchas-empresas-y-productos-estandarizados">Competencia perfecta: muchas empresas y productos estandarizados</h2>
+<section id="competencia-perfecta-muchas-empresas-y-productos-estandarizados" class="level2" data-number="8.2">
+<h2 data-number="8.2" class="anchored" data-anchor-id="competencia-perfecta-muchas-empresas-y-productos-estandarizados"><span class="header-section-number">8.2</span> Competencia perfecta: muchas empresas y productos estandarizados</h2>
 <p>La competencia perfecta es una estructura de mercado en la que existen numerosas empresas pequeñas que venden un producto estandarizado. En este tipo de competencia, no hay una empresa dominante y todas las empresas tienen acceso a la misma información y tecnología. Los consumidores tienen plena libertad para elegir entre diferentes opciones y no hay barreras significativas para la entrada de nuevas empresas al mercado.</p>
 </section>
-<section id="competencia-monopolista-variedad-y-diferenciación-de-productos" class="level2">
-<h2 class="anchored" data-anchor-id="competencia-monopolista-variedad-y-diferenciación-de-productos">Competencia monopolista: variedad y diferenciación de productos</h2>
+<section id="competencia-monopolista-variedad-y-diferenciación-de-productos" class="level2" data-number="8.3">
+<h2 data-number="8.3" class="anchored" data-anchor-id="competencia-monopolista-variedad-y-diferenciación-de-productos"><span class="header-section-number">8.3</span> Competencia monopolista: variedad y diferenciación de productos</h2>
 <p>La competencia monopolista es una estructura de mercado en la que hay menos empresas que en la competencia perfecta y existe cierta diferenciación entre los productos. En este caso, cada empresa busca diferenciarse de las demás a través de características únicas de sus productos, como marca, diseño, calidad o servicios adicionales. Ejemplos comunes de competencia monopolista son la industria de los refrescos o la venta de aspirinas, donde diferentes marcas compiten por atraer a los consumidores ofreciendo pequeñas diferencias en los productos.</p>
 </section>
-<section id="oligopolio-pocas-empresas-y-control-de-precios" class="level2">
-<h2 class="anchored" data-anchor-id="oligopolio-pocas-empresas-y-control-de-precios">Oligopolio: pocas empresas y control de precios</h2>
+<section id="oligopolio-pocas-empresas-y-control-de-precios" class="level2" data-number="8.4">
+<h2 data-number="8.4" class="anchored" data-anchor-id="oligopolio-pocas-empresas-y-control-de-precios"><span class="header-section-number">8.4</span> Oligopolio: pocas empresas y control de precios</h2>
 <p>El oligopolio es una estructura de mercado en la que solo unas pocas empresas dominan la venta de un producto o servicio. En esta situación, las empresas tienden a tener un alto grado de interdependencia y sus acciones estratégicas pueden afectar significativamente a las demás. Esto puede llevar a una competencia basada en factores distintos al precio, como la publicidad, la calidad del producto o la diferenciación. Las empresas en un oligopolio también pueden colaborar para fijar precios o limitar la competencia, lo que puede resultar en precios relativamente estables y similares entre las empresas del sector.</p>
 </section>
-<section id="monopolio-una-empresa-en-control" class="level2">
-<h2 class="anchored" data-anchor-id="monopolio-una-empresa-en-control">Monopolio: una empresa en control</h2>
+<section id="monopolio-una-empresa-en-control" class="level2" data-number="8.5">
+<h2 data-number="8.5" class="anchored" data-anchor-id="monopolio-una-empresa-en-control"><span class="header-section-number">8.5</span> Monopolio: una empresa en control</h2>
 <p>El monopolio ocurre cuando una sola empresa tiene el control exclusivo sobre la oferta de un producto o servicio en un mercado determinado. En esta situación, la empresa puede establecer los precios y las condiciones de venta sin enfrentar competencia directa. Los monopolios pueden surgir debido a barreras legales, tecnológicas o económicas que dificultan o impiden la entrada de nuevas empresas al mercado. Para evitar abusos de poder, los monopolios suelen estar sujetos a regulaciones gubernamentales.</p>
 </section>
 </section>
-<section id="publicaciones-similares" class="level1">
-<h1>Publicaciones Similares</h1>
+<section id="publicaciones-similares" class="level1" data-number="9">
+<h1 data-number="9"><span class="header-section-number">9</span> Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
 <ol type="1">
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
@@ -1045,8 +1080,8 @@ z-index: 0;
 <li id="fn3"><p>El empleo en el comunismo se basa en principios de cooperación, igualdad y satisfacción de las necesidades de la comunidad. En un estado comunista ideal, el objetivo es eliminar la explotación y las desigualdades laborales presentes en otros sistemas económicos. En el comunismo, se espera que todas las personas contribuyan a la sociedad según sus capacidades y habilidades. El trabajo se concibe como una actividad que beneficia a toda la comunidad, en lugar de ser una forma de generar beneficios individuales o acumulación de riqueza. En términos de elección de carrera, aunque no hay una definición específica en el marco teórico del comunismo, se espera que la planificación centralizada y la organización colectiva de la economía permitan satisfacer las necesidades de la sociedad en general. En teoría, se busca la asignación de recursos y empleo en función de las necesidades sociales y la capacidad de cada individuo, en lugar de las fuerzas del mercado o los intereses individuales.↩︎</p></li>
 </ol>
 </section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2023" class="csl-entry quarto-appendix-citeas">
-Achalma, Edison. 2023. <span>“Sistemas económicos comparados,”</span>
-June. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/">https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/</a>.
+Achalma, Edison. 2023. <em>Sistemas económicos comparados</em>.
+accepted, June 13. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/">https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/</a>.
 </div></div></section></div> ]]></description>
   <category>Organizacion Industrial</category>
   <guid>https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/</guid>
@@ -1059,49 +1094,54 @@ June. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-s
   <link>https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/</link>
   <description><![CDATA[ 
 
+
 <style>
-:root {
---primary-color: ;
-}
-#title-block-header {
-width: 100%;
-overflow: hidden;
-position: relative;
-}
-.title-block-content {
-position: relative;
-padding-top: 60px;
+  :root {
+    --primary-color: ;
+  }
 
-padding-bottom: 60px;
+  #title-block-header {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
 
-max-width: 752px;
-margin: 0 auto;
-z-index: 1;
-}
-#particles-js {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-z-index: 0;
-}
-.bg-image {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-object-fit: cover;
-z-index: 0;
-}
+  .title-block-content {
+    position: relative;
+    padding-top: 60px;
+    /* Reducido de 130px */
+    padding-bottom: 60px;
+    /* Reducido de 130px */
+    max-width: 752px;
+    margin: 0 auto;
+    z-index: 1;
+  }
+
+  #particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+  }
+
+  .bg-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+  }
 </style>
 
 
 
 
-<section id="la-empresa-como-organización-un-enfoque-cooperativo-humano-y-social" class="level1">
-<h1>La Empresa como Organización: Un Enfoque Cooperativo, Humano y Social</h1>
+<section id="la-empresa-como-organización-un-enfoque-cooperativo-humano-y-social" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> La Empresa como Organización: Un Enfoque Cooperativo, Humano y Social</h1>
 <p>La empresa es un tipo específico de organización que se caracteriza por su estructura social, su enfoque cooperativo y su impacto en la sociedad. Destacan los valores cooperativos, humanos y sociales que la empresa promueve en su funcionamiento.</p>
 <p>Según varios teóricos, como Etzioni, Hall y Barnard, las organizaciones son unidades sociales creadas con el propósito de alcanzar metas específicas. En el caso de la empresa, esta se compone de diversos factores que interactúan bajo la dirección y supervisión del empresario, con el objetivo principal de lograr fines económicos a través de la producción de bienes y servicios.</p>
 <p>Las características distintivas de la empresa incluyen:</p>
@@ -1113,8 +1153,8 @@ z-index: 0;
 <li><p><strong>Interacción con el ambiente externo:</strong> La empresa se relaciona y se adapta al entorno externo en el que opera, teniendo en cuenta factores económicos, legales, sociales y tecnológicos.</p></li>
 </ol>
 </section>
-<section id="la-empresa-como-sistema-coordinación-y-complejidad" class="level1">
-<h1>La Empresa como Sistema: Coordinación y Complejidad</h1>
+<section id="la-empresa-como-sistema-coordinación-y-complejidad" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> La Empresa como Sistema: Coordinación y Complejidad</h1>
 <p>Un sistema se define como un conjunto de elementos que están discretos e interrelacionados entre sí, y que trabajan de manera coordinada para alcanzar un objetivo común.</p>
 <p>La empresa se puede entender como un sistema, que se compone de elementos interrelacionados y coordinados, con el objetivo común de lograr resultados específicos. Esta perspectiva sistémica resalta la importancia de una coordinación consciente en el funcionamiento de la empresa.</p>
 <ol type="1">
@@ -1127,8 +1167,8 @@ z-index: 0;
 <p>Bajo esta perspectiva sistémica, se reconoce que la empresa es un sistema complejo que requiere una coordinación consciente para alcanzar sus objetivos. Esto implica establecer una estructura organizativa eficiente, fomentar una comunicación efectiva, gestionar adecuadamente los recursos y adaptarse a los cambios del entorno.</p>
 <p>Al comprender a la empresa como un sistema, se puede tener una visión holística de su funcionamiento y tomar decisiones estratégicas más informadas. Además, se enfatiza la importancia de la coordinación y la interacción entre los elementos del sistema para lograr resultados exitosos y sostenibles en el tiempo.</p>
 </section>
-<section id="evolución-histórica-de-la-empresa-del-feudalismo-al-capitalismo-informacional" class="level1">
-<h1>Evolución Histórica de la Empresa: Del Feudalismo al Capitalismo Informacional</h1>
+<section id="evolución-histórica-de-la-empresa-del-feudalismo-al-capitalismo-informacional" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Evolución Histórica de la Empresa: Del Feudalismo al Capitalismo Informacional</h1>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 20%">
@@ -1178,28 +1218,28 @@ z-index: 0;
 <li><p><strong>Capitalismo de la Información - Empresa de Organización del Conocimiento</strong>: En la era del capitalismo de la información, se destacan las empresas de organización del conocimiento. Estas empresas se centran en el manejo y utilización de la información como recurso estratégico, tomando decisiones basadas en el conocimiento y la tecnología. Son unidades complejas evolucionadas, organizadas en forma multisocietaria y global, con un enfoque en la creación, gestión y utilización del conocimiento para obtener ventajas competitivas.</p></li>
 </ol>
 </section>
-<section id="elementos-constitutivos-de-la-empresa" class="level1">
-<h1>Elementos constitutivos de la empresa</h1>
+<section id="elementos-constitutivos-de-la-empresa" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Elementos constitutivos de la empresa</h1>
 <p>La empresa está compuesta por diversos elementos que desempeñan un papel fundamental en su funcionamiento y desarrollo. A continuación, se detallan los elementos constitutivos de la empresa:</p>
-<section id="elementos-activos" class="level2">
-<h2 class="anchored" data-anchor-id="elementos-activos">Elementos activos</h2>
-<section id="empresario" class="level3">
-<h3 class="anchored" data-anchor-id="empresario">Empresario</h3>
+<section id="elementos-activos" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="elementos-activos"><span class="header-section-number">4.1</span> Elementos activos</h2>
+<section id="empresario" class="level3" data-number="4.1.1">
+<h3 data-number="4.1.1" class="anchored" data-anchor-id="empresario"><span class="header-section-number">4.1.1</span> Empresario</h3>
 <p>El empresario es aquel que asume el riesgo y la responsabilidad de la empresa. Puede ser el propietario o un directivo que toma decisiones estratégicas y dirige las operaciones de la empresa.</p>
 </section>
-<section id="empleados" class="level3">
-<h3 class="anchored" data-anchor-id="empleados">Empleados</h3>
+<section id="empleados" class="level3" data-number="4.1.2">
+<h3 data-number="4.1.2" class="anchored" data-anchor-id="empleados"><span class="header-section-number">4.1.2</span> Empleados</h3>
 <p>Los empleados son el recurso humano que trabaja en la empresa. Estos desempeñan diferentes roles y funciones dentro de la organización, contribuyendo al logro de los objetivos empresariales.</p>
 </section>
 </section>
-<section id="elementos-pasivos" class="level2">
-<h2 class="anchored" data-anchor-id="elementos-pasivos">Elementos pasivos</h2>
-<section id="elementos-tangibles" class="level3">
-<h3 class="anchored" data-anchor-id="elementos-tangibles">Elementos Tangibles</h3>
+<section id="elementos-pasivos" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="elementos-pasivos"><span class="header-section-number">4.2</span> Elementos pasivos</h2>
+<section id="elementos-tangibles" class="level3" data-number="4.2.1">
+<h3 data-number="4.2.1" class="anchored" data-anchor-id="elementos-tangibles"><span class="header-section-number">4.2.1</span> Elementos Tangibles</h3>
 <p>Los elementos tangibles se refieren a los activos físicos de la empresa. Estos pueden ser no duraderos, como materias primas o productos en proceso, o duraderos, como maquinaria, equipos y edificios.</p>
 </section>
-<section id="elementos-intangibles" class="level3">
-<h3 class="anchored" data-anchor-id="elementos-intangibles">Elementos Intangibles</h3>
+<section id="elementos-intangibles" class="level3" data-number="4.2.2">
+<h3 data-number="4.2.2" class="anchored" data-anchor-id="elementos-intangibles"><span class="header-section-number">4.2.2</span> Elementos Intangibles</h3>
 <p>Los elementos intangibles se refieren a los activos no físicos de la empresa, que no se pueden tocar ni ver. como el:</p>
 <p>Capital Intelectual: Representa el conocimiento y los recursos intelectuales de la empresa.</p>
 <ol type="a">
@@ -1210,57 +1250,57 @@ z-index: 0;
 </section>
 </section>
 </section>
-<section id="función-de-la-empresa-en-la-economía" class="level1">
-<h1>Función de la empresa en la economía</h1>
+<section id="función-de-la-empresa-en-la-economía" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Función de la empresa en la economía</h1>
 <p>La empresa desempeña un papel fundamental en la economía al generar bienes y servicios de forma eficiente. A continuación, se detallan las funciones principales de la empresa en la economía:</p>
-<section id="generar-bienes-y-servicios-de-forma-eficiente" class="level2">
-<h2 class="anchored" data-anchor-id="generar-bienes-y-servicios-de-forma-eficiente">Generar bienes y servicios de forma eficiente</h2>
+<section id="generar-bienes-y-servicios-de-forma-eficiente" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="generar-bienes-y-servicios-de-forma-eficiente"><span class="header-section-number">5.1</span> Generar bienes y servicios de forma eficiente</h2>
 <p>La empresa tiene como objetivo principal producir bienes y servicios de manera eficiente, utilizando los recursos disponibles de manera óptima. Esto implica minimizar los costos de producción y maximizar la calidad y la productividad.</p>
 </section>
-<section id="asumir-y-reducir-costos-de-mercado-y-de-información" class="level2">
-<h2 class="anchored" data-anchor-id="asumir-y-reducir-costos-de-mercado-y-de-información">Asumir y reducir costos de mercado y de información</h2>
+<section id="asumir-y-reducir-costos-de-mercado-y-de-información" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="asumir-y-reducir-costos-de-mercado-y-de-información"><span class="header-section-number">5.2</span> Asumir y reducir costos de mercado y de información</h2>
 <p>La empresa asume y reduce los costos de mercado al organizar la producción de bienes y servicios de manera interna, en lugar de adquirirlos a través del mercado. Al hacerlo, la empresa puede aprovechar economías de escala, especialización y eficiencia en la producción.</p>
 <p>Además, la empresa también asume y reduce los costos de información al tener acceso a información privilegiada y especializada sobre el mercado, los consumidores y los proveedores. Esto le permite tomar decisiones informadas y estratégicas para mejorar su desempeño y competitividad.</p>
 </section>
-<section id="anticipar-el-producto-obtenido" class="level2">
-<h2 class="anchored" data-anchor-id="anticipar-el-producto-obtenido">Anticipar el producto obtenido</h2>
+<section id="anticipar-el-producto-obtenido" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="anticipar-el-producto-obtenido"><span class="header-section-number">5.3</span> Anticipar el producto obtenido</h2>
 <p>La empresa tiene la capacidad de anticipar el producto obtenido al identificar y satisfacer las necesidades y demandas de los consumidores. A través de la investigación de mercado y el análisis de las tendencias, la empresa puede desarrollar productos y servicios que se ajusten a las preferencias del público objetivo, anticipándose así a sus deseos y expectativas.</p>
 </section>
-<section id="asumir-el-riesgo-de-la-actividad-económica" class="level2">
-<h2 class="anchored" data-anchor-id="asumir-el-riesgo-de-la-actividad-económica">Asumir el riesgo de la actividad económica</h2>
+<section id="asumir-el-riesgo-de-la-actividad-económica" class="level2" data-number="5.4">
+<h2 data-number="5.4" class="anchored" data-anchor-id="asumir-el-riesgo-de-la-actividad-económica"><span class="header-section-number">5.4</span> Asumir el riesgo de la actividad económica</h2>
 <p>La empresa asume el riesgo de la actividad económica al invertir recursos financieros, humanos y tecnológicos en la producción de bienes y servicios. Esto implica enfrentar la incertidumbre del mercado, los cambios en la demanda, la competencia y otros factores externos que pueden afectar su desempeño. La empresa asume este riesgo con el objetivo de obtener beneficios y lograr su supervivencia en el mercado.</p>
 </section>
-<section id="desarrollar-el-sistema-económico" class="level2">
-<h2 class="anchored" data-anchor-id="desarrollar-el-sistema-económico">Desarrollar el sistema económico</h2>
+<section id="desarrollar-el-sistema-económico" class="level2" data-number="5.5">
+<h2 data-number="5.5" class="anchored" data-anchor-id="desarrollar-el-sistema-económico"><span class="header-section-number">5.5</span> Desarrollar el sistema económico</h2>
 <p>La empresa juega un papel crucial en el desarrollo del sistema económico al generar empleo, contribuir al crecimiento económico, fomentar la innovación y la investigación, y promover el intercambio comercial. La actividad empresarial impulsa el desarrollo económico de una sociedad al generar riqueza, crear oportunidades y estimular la competencia.</p>
 </section>
-<section id="coordinar-el-proceso-productivo" class="level2">
-<h2 class="anchored" data-anchor-id="coordinar-el-proceso-productivo">Coordinar el proceso productivo</h2>
+<section id="coordinar-el-proceso-productivo" class="level2" data-number="5.6">
+<h2 data-number="5.6" class="anchored" data-anchor-id="coordinar-el-proceso-productivo"><span class="header-section-number">5.6</span> Coordinar el proceso productivo</h2>
 <p>La empresa desempeña un papel de coordinación en el proceso productivo al organizar y supervisar las diferentes etapas de producción. Esto implica la planificación, la asignación de recursos, la gestión de inventarios, la coordinación de equipos de trabajo y el control de la calidad, entre otras actividades. La empresa busca garantizar la eficiencia y la coherencia en el proceso productivo para lograr la satisfacción de los clientes y la obtención de resultados óptimos.</p>
 </section>
 </section>
-<section id="fundamentos-económicos-de-las-empresas" class="level1">
-<h1>Fundamentos económicos de las empresas</h1>
+<section id="fundamentos-económicos-de-las-empresas" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Fundamentos económicos de las empresas</h1>
 <p>Según Gregory Mankiw, la economía se ocupa del estudio de cómo la sociedad administra sus recursos. En el contexto de las empresas, existen diferentes tipos de recursos que son fundamentales para su funcionamiento. A continuación, se detallan estos recursos y su relación con la producción de bienes y servicios:</p>
-<section id="recursos-naturales" class="level2">
-<h2 class="anchored" data-anchor-id="recursos-naturales">Recursos Naturales</h2>
+<section id="recursos-naturales" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="recursos-naturales"><span class="header-section-number">6.1</span> Recursos Naturales</h2>
 <p>Los recursos naturales son elementos que no son producidos por el ser humano y que se encuentran disponibles en la naturaleza. Ejemplos de recursos naturales incluyen terrenos, bosques, agua, minerales, petróleo, entre otros. Estos recursos son utilizados por las empresas en sus procesos de producción para extraer, transformar o utilizar como insumos en la elaboración de bienes y servicios.</p>
 </section>
-<section id="recursos-humanos-o-mano-de-obra" class="level2">
-<h2 class="anchored" data-anchor-id="recursos-humanos-o-mano-de-obra">Recursos Humanos o Mano de obra</h2>
+<section id="recursos-humanos-o-mano-de-obra" class="level2" data-number="6.2">
+<h2 data-number="6.2" class="anchored" data-anchor-id="recursos-humanos-o-mano-de-obra"><span class="header-section-number">6.2</span> Recursos Humanos o Mano de obra</h2>
 <p>Los recursos humanos se refieren a las capacidades físicas y mentales que las personas aplican en la producción de bienes y servicios. Esto incluye tanto el trabajo manual como el trabajo intelectual realizado por los empleados de una empresa. Los recursos humanos son esenciales para llevar a cabo las diferentes tareas y funciones necesarias en la producción y operación de la empresa.</p>
 </section>
-<section id="recursos-financieros-o-capital" class="level2">
-<h2 class="anchored" data-anchor-id="recursos-financieros-o-capital">Recursos Financieros o Capital</h2>
+<section id="recursos-financieros-o-capital" class="level2" data-number="6.3">
+<h2 data-number="6.3" class="anchored" data-anchor-id="recursos-financieros-o-capital"><span class="header-section-number">6.3</span> Recursos Financieros o Capital</h2>
 <p>Los recursos financieros, también conocidos como capital, se refieren a los fondos con los que se adquieren los recursos naturales y humanos necesarios para la elaboración de productos. El capital puede provenir de diversas fuentes, como inversionistas, préstamos bancarios, capital propio de los empresarios, entre otros. Estos recursos financieros se utilizan para financiar la adquisición de activos, como maquinaria, equipos, tecnología, así como para cubrir los costos operativos y de producción de la empresa.</p>
 </section>
-<section id="producción-de-bienes-y-servicios" class="level2">
-<h2 class="anchored" data-anchor-id="producción-de-bienes-y-servicios">Producción de bienes y servicios</h2>
+<section id="producción-de-bienes-y-servicios" class="level2" data-number="6.4">
+<h2 data-number="6.4" class="anchored" data-anchor-id="producción-de-bienes-y-servicios"><span class="header-section-number">6.4</span> Producción de bienes y servicios</h2>
 <p>La producción de bienes y servicios es el resultado de combinar los recursos naturales, recursos humanos y recursos financieros. En este proceso, los recursos naturales se utilizan como insumos, los recursos humanos aportan su trabajo y conocimiento, y los recursos financieros permiten adquirir y utilizar eficientemente los otros recursos. La producción de bienes y servicios es el objetivo principal de las empresas, donde se busca transformar los insumos en productos finales que satisfagan las necesidades y demandas de los consumidores.</p>
 </section>
 </section>
-<section id="publicaciones-similares" class="level1">
-<h1>Publicaciones Similares</h1>
+<section id="publicaciones-similares" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
 <ol type="1">
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
@@ -1277,8 +1317,8 @@ z-index: 0;
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2023" class="csl-entry quarto-appendix-citeas">
-Achalma, Edison. 2023. <span>“La empresa como organización
-económica,”</span> June. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/">https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/</a>.
+Achalma, Edison. 2023. <em>La empresa como organización económica</em>.
+accepted, June 13. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/">https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/</a>.
 </div></div></section></div> ]]></description>
   <category>Organizacion Industrial</category>
   <guid>https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/</guid>
@@ -1291,49 +1331,54 @@ económica,”</span> June. <a href="https://optimums.netlify.app/organizacion-i
   <link>https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/</link>
   <description><![CDATA[ 
 
+
 <style>
-:root {
---primary-color: ;
-}
-#title-block-header {
-width: 100%;
-overflow: hidden;
-position: relative;
-}
-.title-block-content {
-position: relative;
-padding-top: 60px;
+  :root {
+    --primary-color: ;
+  }
 
-padding-bottom: 60px;
+  #title-block-header {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
 
-max-width: 752px;
-margin: 0 auto;
-z-index: 1;
-}
-#particles-js {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-z-index: 0;
-}
-.bg-image {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-object-fit: cover;
-z-index: 0;
-}
+  .title-block-content {
+    position: relative;
+    padding-top: 60px;
+    /* Reducido de 130px */
+    padding-bottom: 60px;
+    /* Reducido de 130px */
+    max-width: 752px;
+    margin: 0 auto;
+    z-index: 1;
+  }
+
+  #particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+  }
+
+  .bg-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+  }
 </style>
 
 
 
 
-<section id="qué-estudiaremos-en-organización-industrial" class="level1">
-<h1>¿Qué estudiaremos en organización industrial?</h1>
+<section id="qué-estudiaremos-en-organización-industrial" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> ¿Qué estudiaremos en organización industrial?</h1>
 <p>Exploraremos una serie de temas fundamentales que nos ayudarán a comprender la dinámica empresarial y los mercados en los que operan. A través de un análisis detallado, profundizaremos en los siguientes aspectos:</p>
 <ol type="1">
 <li><p><strong>Concentración, poder y competencia económica:</strong> Estudiaremos cómo se concentra el poder económico en ciertas empresas y cómo esto afecta la competencia en el mercado. Analizaremos casos de monopolios y oligopolios, así como las estrategias que utilizan estas empresas para mantener su posición dominante.</p></li>
@@ -1344,51 +1389,51 @@ z-index: 0;
 <li><p><strong>Estructura de mercado en países emergentes:</strong> Nos adentraremos en el análisis de la estructura de mercado en países con economías en desarrollo, examinando las particularidades y los desafíos que enfrentan. Estudiaremos cómo se desarrollan los mercados en estas naciones y qué factores influyen en su evolución.</p></li>
 </ol>
 </section>
-<section id="definición-de-organización-industrial" class="level1">
-<h1>Definición de Organización Industrial</h1>
+<section id="definición-de-organización-industrial" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Definición de Organización Industrial</h1>
 <p>La Organización Industrial se centra en el estudio de cómo las empresas se organizan dentro de los mercados, con el objetivo de analizar y comprender aspectos como la determinación de precios, cantidades producidas, costos, poder de mercado y concentración. Es importante tener en cuenta que estas decisiones y comportamientos empresariales están condicionados por las políticas públicas y las regulaciones establecidas, las cuales pueden limitar ciertas acciones y establecer un marco de actuación para las empresas.</p>
 </section>
-<section id="conceptos-generales" class="level1">
-<h1>Conceptos Generales</h1>
-<section id="políticas-públicas-y-regulación" class="level2">
-<h2 class="anchored" data-anchor-id="políticas-públicas-y-regulación">Políticas Públicas y regulación</h2>
+<section id="conceptos-generales" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Conceptos Generales</h1>
+<section id="políticas-públicas-y-regulación" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="políticas-públicas-y-regulación"><span class="header-section-number">3.1</span> Políticas Públicas y regulación</h2>
 <p>Las políticas públicas y la regulación desempeñan un papel crucial en la Organización Industrial. Estas intervenciones gubernamentales buscan corregir fallas de mercado, promover la competencia y proteger los intereses de los consumidores. Se analizarán los diferentes instrumentos y mecanismos utilizados para regular y controlar el comportamiento de las empresas en beneficio de la sociedad.</p>
 </section>
-<section id="recursos-humanos" class="level2">
-<h2 class="anchored" data-anchor-id="recursos-humanos">Recursos humanos</h2>
+<section id="recursos-humanos" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="recursos-humanos"><span class="header-section-number">3.2</span> Recursos humanos</h2>
 <p>El factor humano es un elemento central en la Organización Industrial. El estudio de los recursos humanos en las empresas se enfoca en entender cómo se gestionan y aprovechan los talentos y habilidades de los empleados, así como en analizar las relaciones laborales y las políticas de remuneración que impactan en la productividad y competitividad de las organizaciones.</p>
 </section>
-<section id="factores-de-producción" class="level2">
-<h2 class="anchored" data-anchor-id="factores-de-producción">Factores de producción</h2>
+<section id="factores-de-producción" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="factores-de-producción"><span class="header-section-number">3.3</span> Factores de producción</h2>
 <p>La Organización Industrial también aborda el análisis de los factores de producción, que son los insumos necesarios para la producción de bienes y servicios. Se examinan aspectos como la oferta y demanda de los factores productivos, la tecnología empleada y la asignación eficiente de los recursos en el proceso productivo.</p>
 </section>
-<section id="el-mercado" class="level2">
-<h2 class="anchored" data-anchor-id="el-mercado">El mercado</h2>
+<section id="el-mercado" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="el-mercado"><span class="header-section-number">3.4</span> El mercado</h2>
 <p>El mercado es el escenario donde se desenvuelven las empresas y se lleva a cabo el intercambio de bienes y servicios. En la Organización Industrial se analizan las interacciones entre los diferentes agentes económicos presentes en el mercado, como empresas, consumidores y proveedores, y se estudia cómo estas interacciones determinan los precios, la cantidad producida y otros aspectos relevantes para el funcionamiento de la economía.</p>
 </section>
-<section id="la-economía" class="level2">
-<h2 class="anchored" data-anchor-id="la-economía">La economía</h2>
+<section id="la-economía" class="level2" data-number="3.5">
+<h2 data-number="3.5" class="anchored" data-anchor-id="la-economía"><span class="header-section-number">3.5</span> La economía</h2>
 <p>La economía es una disciplina que estudia cómo se asignan los recursos escasos para satisfacer las necesidades y deseos humanos. Analiza cómo las personas, las empresas y los gobiernos toman decisiones para producir, distribuir y consumir bienes y servicios en un entorno de escasez.</p>
 </section>
-<section id="la-empresa" class="level2">
-<h2 class="anchored" data-anchor-id="la-empresa">La empresa</h2>
+<section id="la-empresa" class="level2" data-number="3.6">
+<h2 data-number="3.6" class="anchored" data-anchor-id="la-empresa"><span class="header-section-number">3.6</span> La empresa</h2>
 <p>Una empresa es una organización o entidad que se dedica a la producción y venta de bienes o servicios con el objetivo de obtener beneficios. Las empresas pueden ser de distintos tamaños y operar en diferentes sectores de la economía. Son el motor principal de la actividad económica y generan empleo y riqueza en las comunidades.</p>
 </section>
-<section id="microeconomía" class="level2">
-<h2 class="anchored" data-anchor-id="microeconomía">Microeconomía</h2>
+<section id="microeconomía" class="level2" data-number="3.7">
+<h2 data-number="3.7" class="anchored" data-anchor-id="microeconomía"><span class="header-section-number">3.7</span> Microeconomía</h2>
 <p>La microeconomía es una rama de la economía que se centra en el estudio del comportamiento individual de agentes económicos, como consumidores, empresas y trabajadores, y cómo interactúan en los mercados. Examina cómo se determinan los precios, la oferta y la demanda, y cómo las decisiones individuales afectan la asignación de recursos.</p>
 </section>
-<section id="industria" class="level2">
-<h2 class="anchored" data-anchor-id="industria">Industria</h2>
+<section id="industria" class="level2" data-number="3.8">
+<h2 data-number="3.8" class="anchored" data-anchor-id="industria"><span class="header-section-number">3.8</span> Industria</h2>
 <p>La industria se refiere a un conjunto de empresas que producen bienes o servicios similares. Puede ser un sector específico de la economía, como la industria automotriz o la industria alimentaria. El análisis de la industria ayuda a comprender la competencia, la concentración de mercado y otros factores que influyen en el desempeño de las empresas.</p>
 </section>
-<section id="organización-industrial" class="level2">
-<h2 class="anchored" data-anchor-id="organización-industrial">Organización Industrial</h2>
+<section id="organización-industrial" class="level2" data-number="3.9">
+<h2 data-number="3.9" class="anchored" data-anchor-id="organización-industrial"><span class="header-section-number">3.9</span> Organización Industrial</h2>
 <p>La Organización Industrial es una disciplina que se enfoca en el estudio de cómo se organizan las empresas en los mercados y cómo esto afecta la estructura de la industria, el comportamiento de las empresas y los resultados económicos. Examina la relación entre la estructura del mercado (número de competidores, barreras de entrada, concentración), la conducta de las empresas (estrategias de precios, publicidad, diferenciación) y los resultados económicos (eficiencia, poder de mercado).</p>
 </section>
 </section>
-<section id="definiciones-sobre-la-organización-industrial" class="level1">
-<h1>Definiciones sobre la organización industrial</h1>
+<section id="definiciones-sobre-la-organización-industrial" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Definiciones sobre la organización industrial</h1>
 <p>La Organización Industrial, como disciplina, ha sido objeto de estudio y reflexión por parte de destacados expertos en economía. A continuación, presentaremos tres definiciones clave que nos ayudarán a comprender su alcance y relevancia:</p>
 <p>Según Stigler (1968), la Organización Industrial implica la aplicación de la teoría microeconómica para analizar el funcionamiento de empresas, mercados e industrias. En otras palabras, se enfoca en cómo interactúan y operan estos agentes económicos, considerando aspectos como la competencia, los precios y los resultados obtenidos.</p>
 <p>Tirole (1988), define la economía industrial como el estudio de cómo las fuerzas del mercado afectan el comportamiento de los actores involucrados y los resultados que obtienen. Aquí se pone énfasis en comprender cómo se desarrollan las interacciones en el mercado, cómo influyen las decisiones de los agentes económicos y qué consecuencias se derivan de ellas.</p>
@@ -1401,14 +1446,14 @@ z-index: 0;
 <p><strong>Conducta:</strong> Hace referencia a las acciones y estrategias que las empresas llevan a cabo en el mercado. Esto implica decisiones relacionadas con la fijación de precios, la inversión en investigación y desarrollo, la publicidad y promoción, la diferenciación de productos, la búsqueda de economías de escala, entre otros factores.</p>
 <p><strong>Resultado:</strong> Se refiere a los efectos o consecuencias que se derivan de la estructura y conducta de las empresas en el mercado. Esto puede incluir el nivel de competencia, los precios de los productos, la eficiencia económica, la innovación, la calidad de los productos, la distribución equitativa de recursos, el bienestar del consumidor y la rentabilidad de las empresas.</p>
 </section>
-<section id="relación-entre-economía-y-organización-industrial" class="level1">
-<h1>Relación entre economía y organización industrial</h1>
+<section id="relación-entre-economía-y-organización-industrial" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Relación entre economía y organización industrial</h1>
 <p>En el ámbito de la economía y la organización industrial, existe una estrecha relación que ha evolucionado a lo largo del tiempo. La economía, como disciplina académica, se ha adaptado a los cambios en las estructuras de mercado tanto en el sector privado como en el público. Ha analizado y determinado la forma en que las empresas, las industrias y los consumidores se comportan en el mercado, así como también ha cuantificado los niveles de eficiencia y eficacia en sus actividades.</p>
 <p>Es importante destacar que la economía no solo se limita a describir y analizar el funcionamiento de los mercados, sino que también se ha involucrado en la implementación de políticas y regulaciones que buscan alinear los intereses públicos y privados. Los reguladores, en este caso, desempeñan un papel fundamental al intervenir en el mercado para garantizar que las empresas y los agentes económicos actúen de manera responsable y en beneficio de la sociedad en su conjunto.</p>
 <p>La organización industrial, por su parte, se enmarca dentro de este contexto económico. Su objetivo es comprender cómo se estructuran las empresas en los mercados, cómo interactúan y cómo influyen en la competencia y en los resultados económicos. A través de un análisis detallado de la estructura de mercado, la conducta de las empresas y los resultados obtenidos, la organización industrial proporciona herramientas y conocimientos para entender cómo se organizan y operan las industrias en un entorno económico determinado.</p>
 </section>
-<section id="estrategías-y-decisiones-estratégicas" class="level1">
-<h1>Estrategías y decisiones estratégicas</h1>
+<section id="estrategías-y-decisiones-estratégicas" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Estrategías y decisiones estratégicas</h1>
 <p><strong>La importancia de la estrategia:</strong> En el ámbito empresarial, la estrategia es un documento que establece las acciones y reacciones necesarias para enfrentar diferentes contingencias y optimizar los recursos disponibles. Es un plan detallado que guía el rumbo de la empresa y define cómo interactúa con sus competidores.</p>
 <p><strong>Decisiones estratégicas y su impacto:</strong> Una decisión se considera estratégica cuando la acción elegida por un actor económico genera una reacción en otros actores como empresas, proveedores, compradores y reguladores. Estas decisiones tienen un impacto significativo en el entorno empresarial y en la forma en que se desarrollan las relaciones comerciales.</p>
 <p><strong>Tipos de decisiones estratégicas:</strong> Las decisiones estratégicas pueden dividirse en dos categorías:</p>
@@ -1416,69 +1461,69 @@ z-index: 0;
 <li><p>Decisiones tácticas: Estas decisiones se centran en acciones a corto plazo y están relacionadas con la implementación de la estrategia general de la empresa. Implican la asignación de recursos y la ejecución de planes para alcanzar objetivos específicos.</p></li>
 <li><p>Decisiones con compromisos: Estas decisiones involucran acuerdos y compromisos a largo plazo con otros actores económicos. Pueden incluir alianzas estratégicas, contratos a largo plazo con proveedores o clientes, o incluso decisiones de inversión en nuevas tecnologías o mercados.</p></li>
 </ul>
-<section id="decisiones-con-compromiso-en-la-organización-industrial" class="level2">
-<h2 class="anchored" data-anchor-id="decisiones-con-compromiso-en-la-organización-industrial">Decisiones con Compromiso en la Organización Industrial</h2>
+<section id="decisiones-con-compromiso-en-la-organización-industrial" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="decisiones-con-compromiso-en-la-organización-industrial"><span class="header-section-number">6.1</span> Decisiones con Compromiso en la Organización Industrial</h2>
 <p>En la dinámica de la organización industrial, existen decisiones que van más allá de las simples acciones tácticas y tienen un alcance estratégico a largo plazo. Estas decisiones con compromiso juegan un papel fundamental en la configuración de la empresa y su relación con el entorno económico. A continuación, exploraremos algunas de estas decisiones clave y su impacto en el ámbito empresarial.</p>
-<section id="fusiones-y-adquisiciones-expandiendo-el-horizonte" class="level3">
-<h3 class="anchored" data-anchor-id="fusiones-y-adquisiciones-expandiendo-el-horizonte">Fusiones y Adquisiciones: Expandiendo el horizonte</h3>
+<section id="fusiones-y-adquisiciones-expandiendo-el-horizonte" class="level3" data-number="6.1.1">
+<h3 data-number="6.1.1" class="anchored" data-anchor-id="fusiones-y-adquisiciones-expandiendo-el-horizonte"><span class="header-section-number">6.1.1</span> Fusiones y Adquisiciones: Expandiendo el horizonte</h3>
 <p>Las fusiones y adquisiciones son decisiones estratégicas que tienen como objetivo unir fuerzas con otras empresas para lograr sinergias y aprovechar nuevas oportunidades de mercado. Mediante la integración de recursos y capacidades, las empresas pueden aumentar su competitividad, acceder a nuevos segmentos de clientes y ampliar su presencia geográfica. Estas decisiones con compromiso pueden generar cambios significativos en la estructura de la industria y desencadenar reacciones en competidores y reguladores.</p>
 </section>
-<section id="entradas-de-nuevas-empresas-rompiendo-barreras" class="level3">
-<h3 class="anchored" data-anchor-id="entradas-de-nuevas-empresas-rompiendo-barreras">Entradas de Nuevas Empresas: Rompiendo barreras</h3>
+<section id="entradas-de-nuevas-empresas-rompiendo-barreras" class="level3" data-number="6.1.2">
+<h3 data-number="6.1.2" class="anchored" data-anchor-id="entradas-de-nuevas-empresas-rompiendo-barreras"><span class="header-section-number">6.1.2</span> Entradas de Nuevas Empresas: Rompiendo barreras</h3>
 <p>Cuando una nueva empresa decide ingresar a un mercado existente, está tomando una decisión con compromiso que desafía el statu quo. Estas decisiones estratégicas implican superar barreras de entrada, como altos costos iniciales, necesidad de establecer una reputación y competir con empresas ya establecidas. Sin embargo, las entradas de nuevas empresas también pueden fomentar la competencia, estimular la innovación y brindar opciones adicionales a los consumidores.</p>
 </section>
-<section id="publicidad-y-marca-creando-diferenciación" class="level3">
-<h3 class="anchored" data-anchor-id="publicidad-y-marca-creando-diferenciación">Publicidad y Marca: Creando diferenciación</h3>
+<section id="publicidad-y-marca-creando-diferenciación" class="level3" data-number="6.1.3">
+<h3 data-number="6.1.3" class="anchored" data-anchor-id="publicidad-y-marca-creando-diferenciación"><span class="header-section-number">6.1.3</span> Publicidad y Marca: Creando diferenciación</h3>
 <p>Las decisiones relacionadas con la publicidad y la construcción de una marca sólida son fundamentales para diferenciar a una empresa en un mercado competitivo. La publicidad estratégica busca influir en las percepciones y preferencias de los consumidores, comunicando los beneficios y atributos distintivos de los productos o servicios ofrecidos. Al construir una marca reconocida y valorada, las empresas pueden generar lealtad y establecer una ventaja competitiva sostenible.</p>
 </section>
-<section id="calidad-y-mejora-continua-excelencia-como-meta" class="level3">
-<h3 class="anchored" data-anchor-id="calidad-y-mejora-continua-excelencia-como-meta">Calidad y Mejora Continua: Excelencia como meta</h3>
+<section id="calidad-y-mejora-continua-excelencia-como-meta" class="level3" data-number="6.1.4">
+<h3 data-number="6.1.4" class="anchored" data-anchor-id="calidad-y-mejora-continua-excelencia-como-meta"><span class="header-section-number">6.1.4</span> Calidad y Mejora Continua: Excelencia como meta</h3>
 <p>La decisión de enfocarse en la calidad y la mejora continua es esencial para mantener la competitividad en la organización industrial. La calidad de los productos o servicios ofrecidos puede marcar la diferencia en la percepción de los consumidores y su disposición a pagar un precio más alto. Además, la búsqueda constante de la excelencia operativa y la innovación en los procesos productivos permiten reducir costos, aumentar la eficiencia y adaptarse a las cambiantes demandas del mercado.</p>
 </section>
 </section>
 </section>
-<section id="aportes-históricos-a-la-organización-industrial-perspectivas-que-moldearon-la-disciplina" class="level1">
-<h1>Aportes Históricos a la Organización Industrial: Perspectivas que Moldearon la Disciplina</h1>
+<section id="aportes-históricos-a-la-organización-industrial-perspectivas-que-moldearon-la-disciplina" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> Aportes Históricos a la Organización Industrial: Perspectivas que Moldearon la Disciplina</h1>
 <p>La Organización Industrial como campo de estudio ha sido influenciada por diversos pensadores y teorías a lo largo de la historia. Tenemos los aportes históricos de destacados economistas que sentaron las bases de la disciplina y contribuyeron al entendimiento de la estructura y comportamiento de las empresas en el mercado.</p>
-<section id="agustín-cournot-pionero-en-el-análisis-de-la-monopolística-y-el-oligopolio" class="level2">
-<h2 class="anchored" data-anchor-id="agustín-cournot-pionero-en-el-análisis-de-la-monopolística-y-el-oligopolio">Agustín Cournot: Pionero en el Análisis de la Monopolística y el Oligopolio</h2>
+<section id="agustín-cournot-pionero-en-el-análisis-de-la-monopolística-y-el-oligopolio" class="level2" data-number="7.1">
+<h2 data-number="7.1" class="anchored" data-anchor-id="agustín-cournot-pionero-en-el-análisis-de-la-monopolística-y-el-oligopolio"><span class="header-section-number">7.1</span> Agustín Cournot: Pionero en el Análisis de la Monopolística y el Oligopolio</h2>
 <p>Agustín Cournot, economista francés del siglo XIX, es reconocido por su trabajo en el análisis de la competencia imperfecta. Su enfoque se centró en el estudio de la monopolística y el oligopolio, desafiando la idea de la competencia perfecta. Sus ideas influyeron en otros destacados economistas como Jevons, Walras y Marshall, sentando las bases para el desarrollo posterior de la teoría de juegos.</p>
 </section>
-<section id="joseph-louis.f.bertrand-precios-y-competencia-estratégica" class="level2">
-<h2 class="anchored" data-anchor-id="joseph-louis.f.bertrand-precios-y-competencia-estratégica">Joseph Louis.F.Bertrand: Precios y Competencia Estratégica</h2>
+<section id="joseph-louis.f.bertrand-precios-y-competencia-estratégica" class="level2" data-number="7.2">
+<h2 data-number="7.2" class="anchored" data-anchor-id="joseph-louis.f.bertrand-precios-y-competencia-estratégica"><span class="header-section-number">7.2</span> Joseph Louis.F.Bertrand: Precios y Competencia Estratégica</h2>
 <p>Otro economista francés, Joseph Louis.F.Bertrand, realizó contribuciones significativas en el ámbito de la competencia a través de los precios. Su modelo de competencia monopolística y oligopolística basada en la estrategia de fijación de precios tuvo un impacto duradero en la comprensión de los mercados. Además, se le atribuye la formulación del concepto de equilibrio de Nash, que es fundamental en la teoría de juegos.</p>
 </section>
-<section id="heinrich-von-stakelberg-innovación-y-liderazgo-empresarial" class="level2">
-<h2 class="anchored" data-anchor-id="heinrich-von-stakelberg-innovación-y-liderazgo-empresarial">Heinrich Von Stakelberg: Innovación y Liderazgo Empresarial</h2>
+<section id="heinrich-von-stakelberg-innovación-y-liderazgo-empresarial" class="level2" data-number="7.3">
+<h2 data-number="7.3" class="anchored" data-anchor-id="heinrich-von-stakelberg-innovación-y-liderazgo-empresarial"><span class="header-section-number">7.3</span> Heinrich Von Stakelberg: Innovación y Liderazgo Empresarial</h2>
 <p>Heinrich Von Stakelberg, economista ruso del siglo XX, se enfocó en el análisis de la competencia en situaciones de duopolio y monopolio. Sus investigaciones destacaron la importancia de la innovación y el liderazgo empresarial en la configuración de la estructura de mercado. Su enfoque se centró en la interacción entre empresas líderes y seguidoras, y cómo esto afecta la dinámica competitiva.</p>
 </section>
-<section id="harold-hotelling-diferenciación-de-productos-y-modelo-de-ciudad-lineal" class="level2">
-<h2 class="anchored" data-anchor-id="harold-hotelling-diferenciación-de-productos-y-modelo-de-ciudad-lineal">Harold Hotelling: Diferenciación de Productos y Modelo de Ciudad Lineal</h2>
+<section id="harold-hotelling-diferenciación-de-productos-y-modelo-de-ciudad-lineal" class="level2" data-number="7.4">
+<h2 data-number="7.4" class="anchored" data-anchor-id="harold-hotelling-diferenciación-de-productos-y-modelo-de-ciudad-lineal"><span class="header-section-number">7.4</span> Harold Hotelling: Diferenciación de Productos y Modelo de Ciudad Lineal</h2>
 <p>Harold Hotelling, economista estadounidense, realizó importantes aportes en el estudio de monopolios y oligopolios. Su contribución más destacada fue la teoría de la diferenciación de productos, representada por su famoso “modelo de ciudad lineal”. Esta teoría explica cómo las empresas pueden diferenciar sus productos para captar diferentes segmentos del mercado y competir de manera más efectiva.</p>
 </section>
-<section id="edward-h.-chamberlin-competencia-monopolística-y-diferenciación-de-productos" class="level2">
-<h2 class="anchored" data-anchor-id="edward-h.-chamberlin-competencia-monopolística-y-diferenciación-de-productos">Edward H. Chamberlin: Competencia Monopolística y Diferenciación de Productos</h2>
+<section id="edward-h.-chamberlin-competencia-monopolística-y-diferenciación-de-productos" class="level2" data-number="7.5">
+<h2 data-number="7.5" class="anchored" data-anchor-id="edward-h.-chamberlin-competencia-monopolística-y-diferenciación-de-productos"><span class="header-section-number">7.5</span> Edward H. Chamberlin: Competencia Monopolística y Diferenciación de Productos</h2>
 <p>Edward H. Chamberlin, economista estadounidense, fue uno de los principales exponentes del estudio de la competencia monopolística. Su trabajo en la década de 1930 reveló cómo la competencia puede existir incluso en mercados con productos diferenciados. Chamberlin desarrolló la teoría de la competencia monopolística, que se basa en la idea de que las empresas pueden tener cierto grado de poder de mercado debido a la diferenciación de productos.</p>
 </section>
-<section id="paul-sweezy-oligopolios-y-competencia-a-través-de-precios-constantes" class="level2">
-<h2 class="anchored" data-anchor-id="paul-sweezy-oligopolios-y-competencia-a-través-de-precios-constantes">Paul Sweezy: Oligopolios y Competencia a Través de Precios Constantes</h2>
+<section id="paul-sweezy-oligopolios-y-competencia-a-través-de-precios-constantes" class="level2" data-number="7.6">
+<h2 data-number="7.6" class="anchored" data-anchor-id="paul-sweezy-oligopolios-y-competencia-a-través-de-precios-constantes"><span class="header-section-number">7.6</span> Paul Sweezy: Oligopolios y Competencia a Través de Precios Constantes</h2>
 <p>Paul Sweezy, economista estadounidense, realizó investigaciones importantes en el ámbito de los oligopolios. Su trabajo se centró en el análisis de la competencia oligopolística y la curva de demanda quebrada. Sweezy argumentó que en los oligopolios, las empresas pueden mantener precios constantes y competir en términos de minimización de costos en lugar de ajustes de precios.</p>
 </section>
 </section>
-<section id="aportes-recientes-a-la-organización-industrial" class="level1">
-<h1>Aportes Recientes a la Organización Industrial</h1>
-<section id="harvard-joe-staten-bain-1956" class="level2">
-<h2 class="anchored" data-anchor-id="harvard-joe-staten-bain-1956">Harvard: Joe Staten Bain (1956)</h2>
+<section id="aportes-recientes-a-la-organización-industrial" class="level1" data-number="8">
+<h1 data-number="8"><span class="header-section-number">8</span> Aportes Recientes a la Organización Industrial</h1>
+<section id="harvard-joe-staten-bain-1956" class="level2" data-number="8.1">
+<h2 data-number="8.1" class="anchored" data-anchor-id="harvard-joe-staten-bain-1956"><span class="header-section-number">8.1</span> Harvard: Joe Staten Bain (1956)</h2>
 <p>Joe S. Bain Jr.&nbsp;fue un economista estadounidense conocido por sus contribuciones a la teoría de la organización industrial. Bain desarrolló el paradigma de la estructura, conducta y resultado (Structure-Conduct-Performance, en inglés) en su libro “Barriers to New Competition” publicado en 1956. Este paradigma propone que la estructura de mercado, es decir, la concentración de empresas en un sector determinado, influye en la conducta de las empresas y, a su vez, en los resultados económicos. Bain sostuvo que las estructuras de mercado con altos niveles de concentración podrían conducir a comportamientos anticompetitivos y resultados económicos menos favorables.</p>
 </section>
-<section id="chicago-george-joseph-stigler-1964" class="level2">
-<h2 class="anchored" data-anchor-id="chicago-george-joseph-stigler-1964">Chicago: George Joseph Stigler (1964)</h2>
+<section id="chicago-george-joseph-stigler-1964" class="level2" data-number="8.2">
+<h2 data-number="8.2" class="anchored" data-anchor-id="chicago-george-joseph-stigler-1964"><span class="header-section-number">8.2</span> Chicago: George Joseph Stigler (1964)</h2>
 <p>George Joseph Stigler, economista estadounidense (1911-1991), es conocido por sus contribuciones al análisis de la Organización Industrial desde la perspectiva de la escuela de Chicago. Stigler realizó un análisis exhaustivo del paradigma ECR y cuestionó los efectos de la regulación en el mercado. Reveló que la colusión, es decir, la colaboración entre empresas en mercados oligopólicos, es una forma de funcionamiento común en estos mercados. Además, Stigler resaltó la importancia del análisis económico de la información en la toma de decisiones empresariales.</p>
 <p>Stigler argumentaba que la concentración y la eficiencia no estaban necesariamente relacionadas, ya que existen otros factores estructurales que determinan estas variables endógenamente. Utilizó modelos de competencia perfecta y competencia monopolística, combinándolos para justificar su postura de que la regulación no es necesariamente beneficiosa para el mercado.</p>
 </section>
 </section>
-<section id="nuevos-aportes-y-cambio-de-enfoque-en-la-organización-industrial" class="level1">
-<h1>Nuevos Aportes y Cambio de Enfoque en la Organización Industrial</h1>
+<section id="nuevos-aportes-y-cambio-de-enfoque-en-la-organización-industrial" class="level1" data-number="9">
+<h1 data-number="9"><span class="header-section-number">9</span> Nuevos Aportes y Cambio de Enfoque en la Organización Industrial</h1>
 <p>Los nuevos aportes y el cambio de enfoque teórico y empírico tuvo lugar en la economía industrial entre 1970 y 1980. Durante este periodo, se adoptó la teoría de juegos, en particular el equilibrio de Nash (1951), como herramienta clave para comprender el desempeño de las empresas en diferentes estructuras de mercado. Varios economistas destacados contribuyeron a este enfoque, entre ellos:</p>
 <p>Maskin, E., Riley, J., &amp; Tirole, J. (1982). Desarrollaron la teoría de la colusión basada en la teoría de juegos y analizaron los acuerdos y comportamientos colusivos entre empresas en un mercado, así como su impacto en los resultados económicos. Su trabajo ha sido influyente en el campo de la economía industrial y ha proporcionado una base teórica sólida para comprender los fenómenos de colusión y competencia en los mercados.</p>
 <p>Kreps, D. M., Wilson, R., Milgrom, P., &amp; Roberts, J. (1982). Estos economistas introdujeron la teoría de juegos con información incompleta como una forma de racionalizar y obstaculizar la entrada de nuevas empresas, así como de evitar la depredación de mercados por parte de competidores potenciales. Su enfoque se basó en el análisis de la información limitada disponible para las empresas y cómo esta afecta sus estrategias y decisiones.</p>
@@ -1489,47 +1534,47 @@ z-index: 0;
 <p>En la actualidad, los círculos y asociaciones de intelectuales continúan debatiendo las nuevas conductas que deben adoptar las empresas en las diversas estructuras de mercado. Estos debates son fundamentales para comprender y adaptarse a los desafíos y oportunidades que enfrenta la Organización Industrial en un entorno empresarial en constante evolución.</p>
 </blockquote>
 </section>
-<section id="el-concepto-de-optimización-y-equilibrio-en-la-organización-industrial" class="level1">
-<h1>El Concepto de Optimización y Equilibrio en la Organización Industrial</h1>
+<section id="el-concepto-de-optimización-y-equilibrio-en-la-organización-industrial" class="level1" data-number="10">
+<h1 data-number="10"><span class="header-section-number">10</span> El Concepto de Optimización y Equilibrio en la Organización Industrial</h1>
 <p>La metodología utilizada en Organización Industrial se basa en el “enfoque de equilibrio parcial”, que se expresa a través de modelos de optimización cuyos efectos pueden ser internos, dentro de un mercado industrial específico, o externos, cuando afectan a otros mercados industriales. Estos efectos pueden variar en su magnitud, desde insignificantes hasta altamente significativos.</p>
 <p><strong>Modelos de Optimización:</strong> Los modelos de optimización se refieren a los resultados obtenidos a través de decisiones individuales sujetas a ciertas restricciones, como los factores de producción. Estos modelos buscan maximizar los beneficios o la utilidad de las empresas y consideran variables como la cantidad producida, el precio del producto, la disponibilidad de los factores de producción y la tecnología de la empresa. Estos modelos son aplicables tanto a situaciones de competencia perfecta como a casos de monopolio, competencia monopolística u oligopolios.</p>
 <p><strong>Los Modelos de Equilibrio:</strong> Los modelos de equilibrio se refieren al conjunto de modelos en los cuales los agentes económicos toman decisiones de forma individual, pero los resultados son interdependientes. Por ejemplo, en un mercado, si bien las decisiones son individuales, el resultado es una respuesta a la interdependencia que existe entre las empresas, los consumidores y los proveedores.</p>
-<section id="la-regla-de-la-función-de-beneficios" class="level2">
-<h2 class="anchored" data-anchor-id="la-regla-de-la-función-de-beneficios">La Regla de la Función de Beneficios</h2>
+<section id="la-regla-de-la-función-de-beneficios" class="level2" data-number="10.1">
+<h2 data-number="10.1" class="anchored" data-anchor-id="la-regla-de-la-función-de-beneficios"><span class="header-section-number">10.1</span> La Regla de la Función de Beneficios</h2>
 <p>En todos los casos, la maximización de los beneficios se expresa a través de una función o relación que depende de la cantidad producida, el precio del producto, la disponibilidad de los factores de producción y la tecnología de la empresa. Estas reglas de maximización de beneficios se aplican a diferentes estructuras de mercado y se traducen en reglas de fijación de precios, elección de niveles de cantidad y calidad, así como en principios de discriminación y segmentación de mercados, clientes y proveedores.</p>
 </section>
-<section id="el-equilibrio-en-la-organización-industrial" class="level2">
-<h2 class="anchored" data-anchor-id="el-equilibrio-en-la-organización-industrial">El Equilibrio en la Organización Industrial</h2>
+<section id="el-equilibrio-en-la-organización-industrial" class="level2" data-number="10.2">
+<h2 data-number="10.2" class="anchored" data-anchor-id="el-equilibrio-en-la-organización-industrial"><span class="header-section-number">10.2</span> El Equilibrio en la Organización Industrial</h2>
 <p>Aunque el precio está determinado por los costos, la cantidad, la calidad y el comportamiento de los productores y consumidores también influyen en su determinación final, así como en el equilibrio de la empresa e industria en términos de maximización de beneficios. Además, la organización industrial alcanza un equilibrio integral cuando logra un equilibrio económico-financiero, un equilibrio competitivo y un equilibrio con respecto a la naturaleza y el medio ambiente. Estos equilibrios pueden ser aplicables tanto a situaciones de competencia perfecta como a casos de competencia imperfecta.</p>
 </section>
-<section id="la-regla-del-equilibrio-estratégico" class="level2">
-<h2 class="anchored" data-anchor-id="la-regla-del-equilibrio-estratégico">La Regla del Equilibrio Estratégico</h2>
+<section id="la-regla-del-equilibrio-estratégico" class="level2" data-number="10.3">
+<h2 data-number="10.3" class="anchored" data-anchor-id="la-regla-del-equilibrio-estratégico"><span class="header-section-number">10.3</span> La Regla del Equilibrio Estratégico</h2>
 <p>La regla del equilibrio estratégico es el resultado del nuevo enfoque de la Organización Industrial, basado en la teoría de juegos y respaldado por el concepto de “equilibrio de Nash”. Este concepto reconoce que tanto las cantidades como los precios son variables elegidas por los agentes individuales y que los precios de equilibrio no surgen de una “mano invisible” que iguala oferta y demanda, sino de las decisiones de los agentes económicos que tienen la capacidad de fijar o influir en los precios.</p>
 </section>
 </section>
-<section id="metodología-de-la-organización-industrial-explorando-el-funcionamiento-de-las-empresas" class="level1">
-<h1>Metodología de la Organización Industrial: Explorando el Funcionamiento de las Empresas</h1>
+<section id="metodología-de-la-organización-industrial-explorando-el-funcionamiento-de-las-empresas" class="level1" data-number="11">
+<h1 data-number="11"><span class="header-section-number">11</span> Metodología de la Organización Industrial: Explorando el Funcionamiento de las Empresas</h1>
 <p><strong>El método:</strong> Es una forma de estudiar el funcionamiento de la Industria a partir de la conducta de las empresas.</p>
 <p><strong>La metodología:</strong> Se refiere a un conjunto de procedimientos y pasos que se siguen en una investigación científica, y nos permite realizar un estudio crítico y analítico de los métodos utilizados.</p>
-<section id="el-concepto-de-empresa-e-industria" class="level2">
-<h2 class="anchored" data-anchor-id="el-concepto-de-empresa-e-industria">El Concepto de Empresa e Industria</h2>
+<section id="el-concepto-de-empresa-e-industria" class="level2" data-number="11.1">
+<h2 data-number="11.1" class="anchored" data-anchor-id="el-concepto-de-empresa-e-industria"><span class="header-section-number">11.1</span> El Concepto de Empresa e Industria</h2>
 <p>Una empresa se define como una entidad económica que produce bienes o servicios, mientras que una industria está compuesta por un conjunto de empresas o productores que ofrecen un bien específico.</p>
 </section>
-<section id="decisión-individual-y-agregada" class="level2">
-<h2 class="anchored" data-anchor-id="decisión-individual-y-agregada">Decisión Individual y Agregada</h2>
+<section id="decisión-individual-y-agregada" class="level2" data-number="11.2">
+<h2 data-number="11.2" class="anchored" data-anchor-id="decisión-individual-y-agregada"><span class="header-section-number">11.2</span> Decisión Individual y Agregada</h2>
 <p>Las decisiones individuales se refieren a las acciones y estrategias adoptadas por cada empresa de forma independiente, mientras que las decisiones agregadas se centran en el comportamiento colectivo de todas las empresas en el mercado.</p>
 </section>
-<section id="demanda-y-oferta" class="level2">
-<h2 class="anchored" data-anchor-id="demanda-y-oferta">Demanda y Oferta</h2>
+<section id="demanda-y-oferta" class="level2" data-number="11.3">
+<h2 data-number="11.3" class="anchored" data-anchor-id="demanda-y-oferta"><span class="header-section-number">11.3</span> Demanda y Oferta</h2>
 <p>La demanda se compone del conjunto de familias o agentes que demandan un bien o servicio en el mercado. Por otro lado, la oferta está formada por el conjunto de empresas o productores que ofrecen ese bien o servicio en particular. El estudio de la Organización Industrial considera tanto la demanda como la oferta y analiza cómo interactúan entre sí para determinar los precios y las cantidades en el mercado.</p>
 </section>
-<section id="la-metodología-propuesta-por-bain-el-paradigma-e-c-r" class="level2">
-<h2 class="anchored" data-anchor-id="la-metodología-propuesta-por-bain-el-paradigma-e-c-r">La Metodología Propuesta por Bain: El Paradigma E-C-R</h2>
+<section id="la-metodología-propuesta-por-bain-el-paradigma-e-c-r" class="level2" data-number="11.4">
+<h2 data-number="11.4" class="anchored" data-anchor-id="la-metodología-propuesta-por-bain-el-paradigma-e-c-r"><span class="header-section-number">11.4</span> La Metodología Propuesta por Bain: El Paradigma E-C-R</h2>
 <p>Una de las metodologías destacadas en el campo de la Organización Industrial es la propuesta por Bain, conocida como el paradigma E-C-R (Estructura-Conducta-Rendimiento). Esta metodología se enfoca en analizar la relación entre la estructura de mercado, la conducta de las empresas y el rendimiento económico. Examina cómo la estructura del mercado, como la concentración de empresas y las barreras de entrada, influye en la conducta empresarial y, a su vez, en los resultados económicos.</p>
 </section>
 </section>
-<section id="elementos-básicos-de-un-estudio-de-organización-industrial" class="level1">
-<h1>Elementos básicos de un estudio de organización industrial</h1>
+<section id="elementos-básicos-de-un-estudio-de-organización-industrial" class="level1" data-number="12">
+<h1 data-number="12"><span class="header-section-number">12</span> Elementos básicos de un estudio de organización industrial</h1>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 56%">
@@ -1563,10 +1608,10 @@ z-index: 0;
 <p>Las condiciones básicas de oferta incluyen aspectos como la disponibilidad de recursos, especialmente las materias primas necesarias para la producción. Además, las actitudes de las empresas, su disposición para participar en el mercado y su capacidad para aprovechar oportunidades también juegan un papel importante. La tecnología utilizada por las empresas es otro factor relevante, ya que puede influir en su productividad y eficiencia. Por último, las expectativas de las empresas en relación con el mercado y las tendencias futuras también deben considerarse.</p>
 <p>Por otro lado, las condiciones básicas de demanda se centran en la perspectiva de los consumidores. La elasticidad precio de la demanda indica cómo las fluctuaciones en los precios afectan la cantidad demandada de un producto. La tasa de crecimiento de la demanda es otro factor crucial, ya que nos ayuda a comprender si el mercado está expandiéndose o contrayéndose. Los métodos de compra utilizados por los consumidores y las estrategias de marketing y publicidad implementadas por las empresas también influyen en la demanda del mercado.</p>
 </section>
-<section id="el-modelo-de-análisis-de-la-organización-industrial---paradigma" class="level1">
-<h1>El modelo de análisis de la organización industrial - Paradigma</h1>
-<section id="estructura" class="level2">
-<h2 class="anchored" data-anchor-id="estructura">Estructura</h2>
+<section id="el-modelo-de-análisis-de-la-organización-industrial---paradigma" class="level1" data-number="13">
+<h1 data-number="13"><span class="header-section-number">13</span> El modelo de análisis de la organización industrial - Paradigma</h1>
+<section id="estructura" class="level2" data-number="13.1">
+<h2 data-number="13.1" class="anchored" data-anchor-id="estructura"><span class="header-section-number">13.1</span> Estructura</h2>
 <p>Los elementos de la estructura en el análisis de la Organización Industrial comprenden aspectos estáticos y dinámicos que influyen en el funcionamiento de las empresas y el mercado. Algunos de estos elementos son:</p>
 <ul>
 <li>Número y dimensión relativa de las empresas-clientes.</li>
@@ -1577,8 +1622,8 @@ z-index: 0;
 </ul>
 <p>La estructura de la industria se puede representar mediante la ecuación E = E(NEC, DQ, ESE, CFO), donde NEC representa el número y dimensión de las empresas-clientes, DQ la diferenciación del producto, ESE las barreras de entrada y salida, y CFO la estructura de costos.</p>
 </section>
-<section id="conducta" class="level2">
-<h2 class="anchored" data-anchor-id="conducta">Conducta</h2>
+<section id="conducta" class="level2" data-number="13.2">
+<h2 data-number="13.2" class="anchored" data-anchor-id="conducta"><span class="header-section-number">13.2</span> Conducta</h2>
 <p>Los elementos de la conducta en el análisis de la Organización Industrial se refieren a las prácticas y operaciones comerciales llevadas a cabo por las empresas. Algunos de estos elementos son:</p>
 <ul>
 <li>Estrategias de precios, calidad y cantidad.</li>
@@ -1589,8 +1634,8 @@ z-index: 0;
 </ul>
 <p>La conducta de las empresas puede ser representada mediante la ecuación C = C(O y D), donde O y D representan los elementos relacionados con las estrategias y operaciones comerciales. Además, el poder y la concentración también son factores que influyen en la conducta de las empresas.</p>
 </section>
-<section id="resultados" class="level2">
-<h2 class="anchored" data-anchor-id="resultados">Resultados</h2>
+<section id="resultados" class="level2" data-number="13.3">
+<h2 data-number="13.3" class="anchored" data-anchor-id="resultados"><span class="header-section-number">13.3</span> Resultados</h2>
 <p>Los elementos de los resultados en el análisis de la Organización Industrial se centran en la eficiencia estática y dinámica de las empresas y el mercado. Algunos de estos elementos son:</p>
 <ul>
 <li>Pleno empleo.</li>
@@ -1601,28 +1646,28 @@ z-index: 0;
 <p>Los resultados obtenidos en el análisis de la Organización Industrial se pueden representar mediante la ecuación R = R(DE; B, IS), donde DE representa el pleno empleo, B la distribución de los excedentes y beneficios económicos, e IS la eficiencia de los recursos.</p>
 </section>
 </section>
-<section id="paradigmas-sobre-la-organización-industrial" class="level1">
-<h1>Paradigmas sobre la Organización Industrial</h1>
-<section id="el-enfoque-estructura-conducta---resultados" class="level2">
-<h2 class="anchored" data-anchor-id="el-enfoque-estructura-conducta---resultados">El enfoque: Estructura – Conducta - Resultados</h2>
+<section id="paradigmas-sobre-la-organización-industrial" class="level1" data-number="14">
+<h1 data-number="14"><span class="header-section-number">14</span> Paradigmas sobre la Organización Industrial</h1>
+<section id="el-enfoque-estructura-conducta---resultados" class="level2" data-number="14.1">
+<h2 data-number="14.1" class="anchored" data-anchor-id="el-enfoque-estructura-conducta---resultados"><span class="header-section-number">14.1</span> El enfoque: Estructura – Conducta - Resultados</h2>
 <p>El enfoque de Estructura-Conducta-Resultados (ECR) es fundamental para comprender y analizar la organización industrial. Este enfoque sostiene que cualquier estudio de la organización industrial debe considerar estos tres aspectos de manera integrada, ya que son interdependientes y proporcionan una visión completa de la dinámica del mercado.</p>
 <p><strong>Estructura:</strong> La estructura se refiere a la configuración de la industria y abarca elementos como el número de empresas y clientes, la diferenciación del producto, las barreras de entrada y la integración vertical a través de colusiones y fusiones. Estos factores influyen en la competitividad y el poder de mercado de las empresas.</p>
 <p><strong>Conducta:</strong> La conducta se relaciona con las estrategias y acciones comerciales de las empresas. Incluye aspectos como los precios, la publicidad, la investigación, la inversión en desarrollo e innovación (I+D+i) y el grado de competencia. La conducta de las empresas determina cómo compiten en el mercado y afecta directamente los resultados.</p>
 <p><strong>Resultados:</strong> Los resultados son las consecuencias de la interacción entre la estructura y la conducta de las empresas. Incluyen la distribución de los excedentes económicos, la rentabilidad, la eficiencia en el uso de los recursos y la introducción de nuevos productos o mejoras en la calidad. Estos resultados reflejan el desempeño y la eficacia de la organización industrial.</p>
 <p>Es decir, el enfoque ECR proporciona un marco analítico para comprender la organización industrial en su conjunto, considerando la interrelación entre estructura, conducta y resultados. Es esencial para evaluar el poder y la concentración en el mercado y permite realizar estudios complejos de manera simplificada mediante el uso de indicadores y regresiones económicas.</p>
 </section>
-<section id="el-enfoque-de-eficiencia-ee" class="level2">
-<h2 class="anchored" data-anchor-id="el-enfoque-de-eficiencia-ee">El enfoque de eficiencia: (EE)</h2>
+<section id="el-enfoque-de-eficiencia-ee" class="level2" data-number="14.2">
+<h2 data-number="14.2" class="anchored" data-anchor-id="el-enfoque-de-eficiencia-ee"><span class="header-section-number">14.2</span> El enfoque de eficiencia: (EE)</h2>
 <p>El enfoque de eficiencia y eficacia (EE) se centra en lograr beneficios tanto para la sociedad en general como para los productores individuales. Este enfoque implica la utilización óptima de los recursos disponibles, la maximización de la productividad y la minimización de los costos. Además, considera la importancia de mantener un equilibrio con el medio ambiente y promover prácticas sostenibles.</p>
 <p>El mercado es el resultado de las interacciones entre los actores económicos y está influenciado por aspectos normativos y de regulación. El enfoque de eficiencia busca garantizar que las decisiones y acciones de las empresas contribuyan al bienestar económico y social de manera equitativa y sostenible.</p>
 </section>
-<section id="el-enfoque-del-crecimiento-con-investigación-desarrollo-e-innovación-idi" class="level2">
-<h2 class="anchored" data-anchor-id="el-enfoque-del-crecimiento-con-investigación-desarrollo-e-innovación-idi">El enfoque del crecimiento con investigación, desarrollo e innovación (I+D+i)</h2>
+<section id="el-enfoque-del-crecimiento-con-investigación-desarrollo-e-innovación-idi" class="level2" data-number="14.3">
+<h2 data-number="14.3" class="anchored" data-anchor-id="el-enfoque-del-crecimiento-con-investigación-desarrollo-e-innovación-idi"><span class="header-section-number">14.3</span> El enfoque del crecimiento con investigación, desarrollo e innovación (I+D+i)</h2>
 <p>El enfoque del crecimiento con investigación, desarrollo e innovación (I+D+i) destaca la importancia de invertir en actividades de investigación y desarrollo para impulsar el crecimiento y la competitividad de las empresas. Mediante la generación de nuevos conocimientos, la mejora de productos y procesos, y la implementación de innovaciones, las empresas pueden alcanzar ventajas competitivas y adaptarse a los cambios en el entorno empresarial.</p>
 <p>La inversión en I+D+i fomenta la creatividad, la generación de ideas y la adopción de tecnologías avanzadas. Permite a las empresas diferenciarse en el mercado, mejorar la calidad de sus productos y servicios, y aumentar su eficiencia. Además, promueve la colaboración entre diferentes actores, como empresas, instituciones de investigación y organismos gubernamentales, para impulsar la innovación en la organización industrial.</p>
 </section>
-<section id="el-enfoque-de-los-rendimientos-a-escala" class="level2">
-<h2 class="anchored" data-anchor-id="el-enfoque-de-los-rendimientos-a-escala">El enfoque de los rendimientos a escala</h2>
+<section id="el-enfoque-de-los-rendimientos-a-escala" class="level2" data-number="14.4">
+<h2 data-number="14.4" class="anchored" data-anchor-id="el-enfoque-de-los-rendimientos-a-escala"><span class="header-section-number">14.4</span> El enfoque de los rendimientos a escala</h2>
 <p>El enfoque de los rendimientos a escala se refiere a cómo las empresas gestionan su producción en relación con el tamaño de mercado y los objetivos perseguidos. En este caso, las empresas pueden optar por diferentes estrategias:</p>
 <ol type="A">
 <li><p><strong>Por el tamaño óptimo (CMeLP):</strong> Las empresas pueden buscar el tamaño óptimo de producción que les permita minimizar los costos unitarios y maximizar la eficiencia. Esto puede implicar una estructura de costos constante (CMeLP constante), una estructura de costos creciente (CMeLP creciente) o una estructura de costos decreciente (CMeLP decreciente).</p></li>
@@ -1633,20 +1678,20 @@ z-index: 0;
 <p>Por lo tanto, el enfoque de los rendimientos a escala considera cómo las empresas gestionan su producción en función del tamaño de mercado y los objetivos perseguidos, teniendo en cuenta la eficiencia, la flexibilidad y otros aspectos económicos y no económicos.</p>
 </section>
 </section>
-<section id="la-economía-positiva-y-la-economía-normativa-en-la-organización-industrial" class="level1">
-<h1>La Economía Positiva y la Economía Normativa en la Organización Industrial</h1>
-<section id="economía-positiva" class="level2">
-<h2 class="anchored" data-anchor-id="economía-positiva">Economía Positiva</h2>
+<section id="la-economía-positiva-y-la-economía-normativa-en-la-organización-industrial" class="level1" data-number="15">
+<h1 data-number="15"><span class="header-section-number">15</span> La Economía Positiva y la Economía Normativa en la Organización Industrial</h1>
+<section id="economía-positiva" class="level2" data-number="15.1">
+<h2 data-number="15.1" class="anchored" data-anchor-id="economía-positiva"><span class="header-section-number">15.1</span> Economía Positiva</h2>
 <p>La <strong>explicación</strong> y <strong>predicción</strong> de fenómenos relacionados con el funcionamiento de los mercados son los objetivos principales de la economía positiva en el ámbito de la organización industrial. Se busca comprender los precios y las cantidades de equilibrio en diferentes estructuras de mercado, así como analizar la viabilidad de prácticas comerciales como la colusión, la exclusión de competidores o la discriminación de precios. También se examinan los cambios que pueden ocurrir como resultado de fusiones o acuerdos horizontales o verticales entre empresas.</p>
 </section>
-<section id="economía-normativa" class="level2">
-<h2 class="anchored" data-anchor-id="economía-normativa">Economía Normativa</h2>
+<section id="economía-normativa" class="level2" data-number="15.2">
+<h2 data-number="15.2" class="anchored" data-anchor-id="economía-normativa"><span class="header-section-number">15.2</span> Economía Normativa</h2>
 <p>En contraste, desde la perspectiva de la economía normativa, el enfoque principal de la organización industrial es <strong>evaluar políticas públicas relacionadas con la intervención del Estado en el funcionamiento de los mercados.</strong> Se busca regular los monopolios y promover la competencia como alternativas para abordar las distorsiones generadas por el ejercicio del poder monopólico.</p>
 <p>En este sentido, las distorsiones se resuelven a través de la acción directa del regulador, quien toma decisiones en lugar de las empresas en aspectos como precios, cantidad, calidad, inversiones, entre otros.</p>
 </section>
 </section>
-<section id="publicaciones-similares" class="level1">
-<h1>Publicaciones Similares</h1>
+<section id="publicaciones-similares" class="level1" data-number="16">
+<h1 data-number="16"><span class="header-section-number">16</span> Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
 <ol type="1">
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
@@ -1663,13 +1708,83 @@ z-index: 0;
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2023" class="csl-entry quarto-appendix-citeas">
-Achalma, Edison. 2023. <span>“Introducción a organización
-industrial,”</span> June. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/">https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/</a>.
+Achalma, Edison. 2023. <em>Introducción a organización industrial</em>.
+accepted, June 12. <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/">https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/</a>.
 </div></div></section></div> ]]></description>
   <category>Organizacion Industrial</category>
   <guid>https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/</guid>
   <pubDate>Mon, 12 Jun 2023 05:00:00 GMT</pubDate>
   <media:content url="https://optimums.netlify.app/organizacion-industrial/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://optimums.netlify.app/posts/2021-08-09-07-fallas-de-mercado/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Microeconomia</category>
+  <guid>https://optimums.netlify.app/posts/2021-08-09-07-fallas-de-mercado/</guid>
+  <pubDate>Mon, 09 Aug 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://optimums.netlify.app/posts/2021-08-02-06-modelo-de-intercambio-puro/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Microeconomia</category>
+  <guid>https://optimums.netlify.app/posts/2021-08-02-06-modelo-de-intercambio-puro/</guid>
+  <pubDate>Mon, 02 Aug 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://optimums.netlify.app/posts/2021-07-26-05-monopolio-y-modelos-de-oligopolio/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Microeconomia</category>
+  <guid>https://optimums.netlify.app/posts/2021-07-26-05-monopolio-y-modelos-de-oligopolio/</guid>
+  <pubDate>Mon, 26 Jul 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://optimums.netlify.app/posts/2021-07-19-04-equilibrio-parcial-y-competitivo/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Microeconomia</category>
+  <guid>https://optimums.netlify.app/posts/2021-07-19-04-equilibrio-parcial-y-competitivo/</guid>
+  <pubDate>Mon, 19 Jul 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://optimums.netlify.app/posts/2021-07-12-03-decisiones-de-consumo-y-produccion-en-el-tiempo/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Microeconomia</category>
+  <guid>https://optimums.netlify.app/posts/2021-07-12-03-decisiones-de-consumo-y-produccion-en-el-tiempo/</guid>
+  <pubDate>Mon, 12 Jul 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://optimums.netlify.app/posts/2021-07-05-02-teoria-del-productor/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Microeconomia</category>
+  <guid>https://optimums.netlify.app/posts/2021-07-05-02-teoria-del-productor/</guid>
+  <pubDate>Mon, 05 Jul 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://optimums.netlify.app/posts/2021-06-28-01-teoria-del-consumidor/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Microeconomia</category>
+  <guid>https://optimums.netlify.app/posts/2021-06-28-01-teoria-del-consumidor/</guid>
+  <pubDate>Mon, 28 Jun 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://optimums.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

@@ -36,6 +36,7 @@ citation:
 date: 06/16/2023
 draft: true
 image: ../featured.jpg
+curso: organizacion_industrial
 ---
 
 <!--# MEDICION DE LA ESTRUCTURA Y DESEMPEÑO DE LA ORGANIZACIÓN INDUSTRIAL

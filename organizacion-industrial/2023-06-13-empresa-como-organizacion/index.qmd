@@ -37,6 +37,7 @@ citation:
 date: 06/13/2023
 draft: false
 image: ../featured.jpg
+curso: organizacion_industrial
 ---
 
 # La Empresa como Organización: Un Enfoque Cooperativo, Humano y Social

@@ -1,3 +1,8 @@
+---
+tipo: fragmento
+titulo: índice de publicaciones de posts; lo genera script_generador_publicacion_similar
+---
+
 1. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/posts/2021-06-28-01-teoria-del-consumidor/index.pdf) [01 Teoria Del Consumidor](https://optimums.netlify.app/posts/2021-06-28-01-teoria-del-consumidor)
 2. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/posts/2021-07-05-02-teoria-del-productor/index.pdf) [02 Teoria Del Productor](https://optimums.netlify.app/posts/2021-07-05-02-teoria-del-productor)
 3. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/posts/2021-07-12-03-decisiones-de-consumo-y-produccion-en-el-tiempo/index.pdf) [03 Decisiones De Consumo Y Produccion En El Tiempo](https://optimums.netlify.app/posts/2021-07-12-03-decisiones-de-consumo-y-produccion-en-el-tiempo)

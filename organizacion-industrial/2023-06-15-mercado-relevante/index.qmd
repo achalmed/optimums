@@ -5,9 +5,7 @@ copyrightext: All rights reserved
 title: Definición de mercado relevante
 abstract: Este abstract será actualizado una vez que se complete el contenido final
   del artículo.
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Organizacion Industrial
 tags:
@@ -34,7 +32,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf
-date: 06/15/2023
+date: 2023-06-15
 draft: false
 image: ../featured.jpg
 curso: organizacion_industrial

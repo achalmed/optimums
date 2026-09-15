@@ -4,9 +4,7 @@ copyrightext: All rights reserved
 title: Teoría del consumidor microeconómica
 abstract: Este abstract será actualizado una vez que se complete el contenido final
   del artículo.
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Microeconomia
 tags:
@@ -32,7 +30,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://optimums.netlify.app/posts/2021-06-28-01-teoria-del-consumidor/index.pdf
-date: 06/28/2021
+date: 2021-06-28
 draft: true
 image: ../featured.jpg
 curso: microeconomia_i

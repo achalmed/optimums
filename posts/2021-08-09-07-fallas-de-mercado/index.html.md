@@ -4,9 +4,7 @@ copyrightext: All rights reserved
 title: Fallas de mercado y externalidades
 abstract: Este abstract será actualizado una vez que se complete el contenido final
   del artículo.
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Microeconomia
 tags:
@@ -32,17 +30,28 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://optimums.netlify.app/posts/2021-08-09-07-fallas-de-mercado/index.pdf
-date: 08/09/2021
+date: 2021-08-09
 draft: true
 image: ../featured.jpg
+curso: microeconomia_i
 ---
 
 Este artículo está actualmente en proceso de edición, y todas las secciones serán ampliadas y refinadas en futuras revisiones.
+
+---
+tipo: fragmento
+titulo: texto de apertura del bloque «Publicaciones similares» (incluido en cada post)
+---
 
 # Publicaciones Similares
 
 Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:
 
+
+---
+tipo: fragmento
+titulo: índice de publicaciones de posts; lo genera script_generador_publicacion_similar
+---
 
 1. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/posts/2021-06-28-01-teoria-del-consumidor/index.pdf) [01 Teoria Del Consumidor](https://optimums.netlify.app/posts/2021-06-28-01-teoria-del-consumidor)
 2. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/posts/2021-07-05-02-teoria-del-productor/index.pdf) [02 Teoria Del Productor](https://optimums.netlify.app/posts/2021-07-05-02-teoria-del-productor)
@@ -52,6 +61,11 @@ Si te interesó este artículo, te recomendamos que explores otros blogs y recur
 6. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/posts/2021-08-02-06-modelo-de-intercambio-puro/index.pdf) [06 Modelo De Intercambio Puro](https://optimums.netlify.app/posts/2021-08-02-06-modelo-de-intercambio-puro)
 7. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/posts/2021-08-09-07-fallas-de-mercado/index.pdf) [07 Fallas De Mercado](https://optimums.netlify.app/posts/2021-08-09-07-fallas-de-mercado)
 
+
+---
+tipo: fragmento
+titulo: texto de cierre del bloque «Publicaciones similares» (incluido en cada post)
+---
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!
 

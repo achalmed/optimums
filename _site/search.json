@@ -273,27 +273,6 @@
     "text": "6.4 Producción de bienes y servicios\nLa producción de bienes y servicios es el resultado de combinar los recursos naturales, recursos humanos y recursos financieros. En este proceso, los recursos naturales se utilizan como insumos, los recursos humanos aportan su trabajo y conocimiento, y los recursos financieros permiten adquirir y utilizar eficientemente los otros recursos. La producción de bienes y servicios es el objetivo principal de las empresas, donde se busca transformar los insumos en productos finales que satisfagan las necesidades y demandas de los consumidores."
   },
   {
-    "objectID": "SECURITY.html",
-    "href": "SECURITY.html",
-    "title": "Security Policy",
-    "section": "",
-    "text": "Use this section to tell people about which versions of your project are currently being supported with security updates.\n\n\n\nVersion\nSupported\n\n\n\n\n5.1.x\n:white_check_mark:\n\n\n5.0.x\n:x:\n\n\n4.0.x\n:white_check_mark:\n\n\n&lt; 4.0\n:x:\n\n\n\n\n\n\nUse this section to tell people how to report a vulnerability.\nTell them where to go, how often they can expect to get an update on a reported vulnerability, what to expect if the vulnerability is accepted or declined, etc."
-  },
-  {
-    "objectID": "SECURITY.html#supported-versions",
-    "href": "SECURITY.html#supported-versions",
-    "title": "Security Policy",
-    "section": "",
-    "text": "Use this section to tell people about which versions of your project are currently being supported with security updates.\n\n\n\nVersion\nSupported\n\n\n\n\n5.1.x\n:white_check_mark:\n\n\n5.0.x\n:x:\n\n\n4.0.x\n:white_check_mark:\n\n\n&lt; 4.0\n:x:"
-  },
-  {
-    "objectID": "SECURITY.html#reporting-a-vulnerability",
-    "href": "SECURITY.html#reporting-a-vulnerability",
-    "title": "Security Policy",
-    "section": "",
-    "text": "Use this section to tell people how to report a vulnerability.\nTell them where to go, how often they can expect to get an update on a reported vulnerability, what to expect if the vulnerability is accepted or declined, etc."
-  },
-  {
     "objectID": "organizacion-industrial/2023-06-13-sistemas-economicos/index.html",
     "href": "organizacion-industrial/2023-06-13-sistemas-economicos/index.html",
     "title": "Sistemas económicos comparados",
@@ -599,7 +578,7 @@
     "href": "organizacion-industrial/2023-06-23-elasticidad/index.html#reflexiones-sobre-la-aplicabilidad-y-relevancia-de-la-elasticidad-en-el-mundo-actual",
     "title": "Elasticidad y poder de mercado",
     "section": "7.3 Reflexiones sobre la aplicabilidad y relevancia de la elasticidad en el mundo actual",
-    "text": "7.3 Reflexiones sobre la aplicabilidad y relevancia de la elasticidad en el mundo actual"
+    "text": "7.3 Reflexiones sobre la aplicabilidad y relevancia de la elasticidad en el mundo actual\n\ntipo: fragmento titulo: texto de apertura del bloque «Publicaciones similares» (incluido en cada post) —"
   },
   {
     "objectID": "organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.html",

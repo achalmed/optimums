@@ -5,9 +5,7 @@ copyrightext: All rights reserved
 title: La empresa como organización económica
 abstract: Este abstract será actualizado una vez que se complete el contenido final
   del artículo.
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Organizacion Industrial
 tags:
@@ -34,9 +32,10 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf
-date: 06/13/2023
+date: 2023-06-13
 draft: false
 image: ../featured.jpg
+curso: organizacion_industrial
 ---
 
 # La Empresa como Organización: Un Enfoque Cooperativo, Humano y Social
@@ -179,10 +178,20 @@ Los recursos financieros, también conocidos como capital, se refieren a los fon
 
 La producción de bienes y servicios es el resultado de combinar los recursos naturales, recursos humanos y recursos financieros. En este proceso, los recursos naturales se utilizan como insumos, los recursos humanos aportan su trabajo y conocimiento, y los recursos financieros permiten adquirir y utilizar eficientemente los otros recursos. La producción de bienes y servicios es el objetivo principal de las empresas, donde se busca transformar los insumos en productos finales que satisfagan las necesidades y demandas de los consumidores.
 
+---
+tipo: fragmento
+titulo: texto de apertura del bloque «Publicaciones similares» (incluido en cada post)
+---
+
 # Publicaciones Similares
 
 Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:
 
+
+---
+tipo: fragmento
+titulo: índice de publicaciones de organizacion-industrial; lo genera script_generador_publicacion_similar
+---
 
 1. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf) [Introducion A Organizacion Industrial](https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial)
 2. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf) [Empresa Como Organizacion](https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion)
@@ -192,6 +201,11 @@ Si te interesó este artículo, te recomendamos que explores otros blogs y recur
 6. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf) [Estructura Del Mercado](https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado)
 7. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf) [Elasticidad](https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad)
 
+
+---
+tipo: fragmento
+titulo: texto de cierre del bloque «Publicaciones similares» (incluido en cada post)
+---
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!
 

@@ -38,20 +38,14 @@ curso: microeconomia_i
 
 Este artículo está actualmente en proceso de edición, y todas las secciones serán ampliadas y refinadas en futuras revisiones.
 
----
-tipo: fragmento
-titulo: texto de apertura del bloque «Publicaciones similares» (incluido en cada post)
----
+<!-- fragmento de inclusión — texto de apertura del bloque «Publicaciones similares» (incluido en cada post) -->
 
 # Publicaciones Similares
 
 Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:
 
 
----
-tipo: fragmento
-titulo: índice de publicaciones de posts; lo genera script_generador_publicacion_similar
----
+<!-- fragmento de inclusión — índice de publicaciones de posts; lo genera script_generador_publicacion_similar -->
 
 1. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/posts/2021-06-28-01-teoria-del-consumidor/index.pdf) [01 Teoria Del Consumidor](https://optimums.netlify.app/posts/2021-06-28-01-teoria-del-consumidor)
 2. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/posts/2021-07-05-02-teoria-del-productor/index.pdf) [02 Teoria Del Productor](https://optimums.netlify.app/posts/2021-07-05-02-teoria-del-productor)
@@ -62,10 +56,7 @@ titulo: índice de publicaciones de posts; lo genera script_generador_publicacio
 7. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/posts/2021-08-09-07-fallas-de-mercado/index.pdf) [07 Fallas De Mercado](https://optimums.netlify.app/posts/2021-08-09-07-fallas-de-mercado)
 
 
----
-tipo: fragmento
-titulo: texto de cierre del bloque «Publicaciones similares» (incluido en cada post)
----
+<!-- fragmento de inclusión — texto de cierre del bloque «Publicaciones similares» (incluido en cada post) -->
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!
 

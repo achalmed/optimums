@@ -355,20 +355,14 @@ En contraste, desde la perspectiva de la economía normativa, el enfoque princip
 
 En este sentido, las distorsiones se resuelven a través de la acción directa del regulador, quien toma decisiones en lugar de las empresas en aspectos como precios, cantidad, calidad, inversiones, entre otros.
 
----
-tipo: fragmento
-titulo: texto de apertura del bloque «Publicaciones similares» (incluido en cada post)
----
+<!-- fragmento de inclusión — texto de apertura del bloque «Publicaciones similares» (incluido en cada post) -->
 
 # Publicaciones Similares
 
 Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:
 
 
----
-tipo: fragmento
-titulo: índice de publicaciones de organizacion-industrial; lo genera script_generador_publicacion_similar
----
+<!-- fragmento de inclusión — índice de publicaciones de organizacion-industrial; lo genera script_generador_publicacion_similar -->
 
 1. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf) [Introducion A Organizacion Industrial](https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial)
 2. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf) [Empresa Como Organizacion](https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion)
@@ -379,10 +373,7 @@ titulo: índice de publicaciones de organizacion-industrial; lo genera script_ge
 7. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf) [Elasticidad](https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad)
 
 
----
-tipo: fragmento
-titulo: texto de cierre del bloque «Publicaciones similares» (incluido en cada post)
----
+<!-- fragmento de inclusión — texto de cierre del bloque «Publicaciones similares» (incluido en cada post) -->
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!
 

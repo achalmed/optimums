@@ -200,13 +200,13 @@ Incluye notas y tutoriales para mi futuro y espero que también para ti.&lt;br&g
 </section>
 <section id="reflexiones-sobre-la-aplicabilidad-y-relevancia-de-la-elasticidad-en-el-mundo-actual" class="level2" data-number="7.3">
 <h2 data-number="7.3" class="anchored" data-anchor-id="reflexiones-sobre-la-aplicabilidad-y-relevancia-de-la-elasticidad-en-el-mundo-actual"><span class="header-section-number">7.3</span> Reflexiones sobre la aplicabilidad y relevancia de la elasticidad en el mundo actual</h2>
-<hr>
-<p>tipo: fragmento titulo: texto de apertura del bloque «Publicaciones similares» (incluido en cada post) —</p>
+<!-- fragmento de inclusión — texto de apertura del bloque «Publicaciones similares» (incluido en cada post) -->
 </section>
 </section>
 <section id="publicaciones-similares" class="level1" data-number="8">
 <h1 data-number="8"><span class="header-section-number">8</span> Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
+<!-- fragmento de inclusión — índice de publicaciones de organizacion-industrial; lo genera script_generador_publicacion_similar -->
 <ol type="1">
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
@@ -216,8 +216,7 @@ Incluye notas y tutoriales para mi futuro y espero que también para ti.&lt;br&g
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
 </ol>
-<hr>
-<p>tipo: fragmento titulo: texto de cierre del bloque «Publicaciones similares» (incluido en cada post) —</p>
+<!-- fragmento de inclusión — texto de cierre del bloque «Publicaciones similares» (incluido en cada post) -->
 <p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
 
 
@@ -756,10 +755,12 @@ accepted, June 23. <a href="https://optimums.netlify.app/organizacion-industrial
 <p>El mercado geográfico relevante es importante para comprender la competencia a nivel local o regional. Permite evaluar la disponibilidad de alternativas para los consumidores y la capacidad de los proveedores para competir en esa área geográfica específica. Además, tener en cuenta el mercado geográfico relevante es fundamental para analizar la distribución geográfica de la oferta y la demanda, así como los factores económicos y logísticos que influyen en el comercio y la competencia en una región determinada.</p>
 <p><strong>Mercado Relevante</strong></p>
 <p>El concepto de mercado relevante también puede abarcar la dimensión temporal. En este caso, se refiere a las combinaciones de los mercados de producto y geográfico en un determinado período de tiempo. Esta perspectiva temporal es relevante para comprender la evolución de la competencia y las estrategias de mercado a lo largo del tiempo.</p>
+<!-- fragmento de inclusión — texto de apertura del bloque «Publicaciones similares» (incluido en cada post) -->
 </section>
 <section id="publicaciones-similares" class="level1" data-number="9">
 <h1 data-number="9"><span class="header-section-number">9</span> Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
+<!-- fragmento de inclusión — índice de publicaciones de organizacion-industrial; lo genera script_generador_publicacion_similar -->
 <ol type="1">
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
@@ -769,6 +770,7 @@ accepted, June 23. <a href="https://optimums.netlify.app/organizacion-industrial
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
 </ol>
+<!-- fragmento de inclusión — texto de cierre del bloque «Publicaciones similares» (incluido en cada post) -->
 <p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
 
 
@@ -1036,11 +1038,13 @@ accepted, June 15. <a href="https://optimums.netlify.app/organizacion-industrial
 <section id="monopolio-una-empresa-en-control" class="level2" data-number="8.5">
 <h2 data-number="8.5" class="anchored" data-anchor-id="monopolio-una-empresa-en-control"><span class="header-section-number">8.5</span> Monopolio: una empresa en control</h2>
 <p>El monopolio ocurre cuando una sola empresa tiene el control exclusivo sobre la oferta de un producto o servicio en un mercado determinado. En esta situación, la empresa puede establecer los precios y las condiciones de venta sin enfrentar competencia directa. Los monopolios pueden surgir debido a barreras legales, tecnológicas o económicas que dificultan o impiden la entrada de nuevas empresas al mercado. Para evitar abusos de poder, los monopolios suelen estar sujetos a regulaciones gubernamentales.</p>
+<!-- fragmento de inclusión — texto de apertura del bloque «Publicaciones similares» (incluido en cada post) -->
 </section>
 </section>
 <section id="publicaciones-similares" class="level1" data-number="9">
 <h1 data-number="9"><span class="header-section-number">9</span> Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
+<!-- fragmento de inclusión — índice de publicaciones de organizacion-industrial; lo genera script_generador_publicacion_similar -->
 <ol type="1">
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
@@ -1050,6 +1054,7 @@ accepted, June 15. <a href="https://optimums.netlify.app/organizacion-industrial
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
 </ol>
+<!-- fragmento de inclusión — texto de cierre del bloque «Publicaciones similares» (incluido en cada post) -->
 <p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
 
 
@@ -1281,11 +1286,13 @@ accepted, June 13. <a href="https://optimums.netlify.app/organizacion-industrial
 <section id="producción-de-bienes-y-servicios" class="level2" data-number="6.4">
 <h2 data-number="6.4" class="anchored" data-anchor-id="producción-de-bienes-y-servicios"><span class="header-section-number">6.4</span> Producción de bienes y servicios</h2>
 <p>La producción de bienes y servicios es el resultado de combinar los recursos naturales, recursos humanos y recursos financieros. En este proceso, los recursos naturales se utilizan como insumos, los recursos humanos aportan su trabajo y conocimiento, y los recursos financieros permiten adquirir y utilizar eficientemente los otros recursos. La producción de bienes y servicios es el objetivo principal de las empresas, donde se busca transformar los insumos en productos finales que satisfagan las necesidades y demandas de los consumidores.</p>
+<!-- fragmento de inclusión — texto de apertura del bloque «Publicaciones similares» (incluido en cada post) -->
 </section>
 </section>
 <section id="publicaciones-similares" class="level1" data-number="7">
 <h1 data-number="7"><span class="header-section-number">7</span> Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
+<!-- fragmento de inclusión — índice de publicaciones de organizacion-industrial; lo genera script_generador_publicacion_similar -->
 <ol type="1">
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
@@ -1295,6 +1302,7 @@ accepted, June 13. <a href="https://optimums.netlify.app/organizacion-industrial
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
 </ol>
+<!-- fragmento de inclusión — texto de cierre del bloque «Publicaciones similares» (incluido en cada post) -->
 <p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
 
 
@@ -1672,11 +1680,13 @@ accepted, June 13. <a href="https://optimums.netlify.app/organizacion-industrial
 <h2 data-number="15.2" class="anchored" data-anchor-id="economía-normativa"><span class="header-section-number">15.2</span> Economía Normativa</h2>
 <p>En contraste, desde la perspectiva de la economía normativa, el enfoque principal de la organización industrial es <strong>evaluar políticas públicas relacionadas con la intervención del Estado en el funcionamiento de los mercados.</strong> Se busca regular los monopolios y promover la competencia como alternativas para abordar las distorsiones generadas por el ejercicio del poder monopólico.</p>
 <p>En este sentido, las distorsiones se resuelven a través de la acción directa del regulador, quien toma decisiones en lugar de las empresas en aspectos como precios, cantidad, calidad, inversiones, entre otros.</p>
+<!-- fragmento de inclusión — texto de apertura del bloque «Publicaciones similares» (incluido en cada post) -->
 </section>
 </section>
 <section id="publicaciones-similares" class="level1" data-number="16">
 <h1 data-number="16"><span class="header-section-number">16</span> Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
+<!-- fragmento de inclusión — índice de publicaciones de organizacion-industrial; lo genera script_generador_publicacion_similar -->
 <ol type="1">
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial">Introducion A Organizacion Industrial</a></li>
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion">Empresa Como Organizacion</a></li>
@@ -1686,6 +1696,7 @@ accepted, June 13. <a href="https://optimums.netlify.app/organizacion-industrial
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado">Estructura Del Mercado</a></li>
 <li><a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad">Elasticidad</a></li>
 </ol>
+<!-- fragmento de inclusión — texto de cierre del bloque «Publicaciones similares» (incluido en cada post) -->
 <p>Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!</p>
 
 

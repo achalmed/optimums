@@ -368,9 +368,7 @@ Si te interesó este artículo, te recomendamos que explores otros blogs y recur
 2. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf) [Empresa Como Organizacion](https://optimums.netlify.app/organizacion-industrial/2023-06-13-empresa-como-organizacion)
 3. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf) [Sistemas Economicos](https://optimums.netlify.app/organizacion-industrial/2023-06-13-sistemas-economicos)
 4. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante/index.pdf) [Mercado Relevante](https://optimums.netlify.app/organizacion-industrial/2023-06-15-mercado-relevante)
-5. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño/index.pdf) [Medidas Concentracion Desempeño](https://optimums.netlify.app/organizacion-industrial/2023-06-16-medidas-concentracion-desempeño)
-6. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado/index.pdf) [Estructura Del Mercado](https://optimums.netlify.app/organizacion-industrial/2023-06-17-estructura-del-mercado)
-7. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf) [Elasticidad](https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad)
+5. [{{< fa regular file-pdf >}}](https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad/index.pdf) [Elasticidad](https://optimums.netlify.app/organizacion-industrial/2023-06-23-elasticidad)
 
 
 <!-- fragmento de inclusión — texto de cierre del bloque «Publicaciones similares» (incluido en cada post) -->

@@ -2,15 +2,15 @@
 tipo: readme
 estado: activo
 ---
-# pub_optimums/ — Microeconomía: blog satélite del hub `04 index` (repo optimums, optimums.netlify.app)
+# optimums/ — Microeconomía: blog satélite del hub `04 index` (repo optimums, optimums.netlify.app)
 
-<!-- GENERADO por `04 index/scripts/pubs.py readme --aplicar` desde `04 index/_pubs/pubs.yml` (2026-10-08); no editar aquí: se regenera desde el hub -->
+<!-- GENERADO por `04 index/scripts/pubs.py readme --aplicar` desde `04 index/_pubs/pubs.yml` (2026-10-10); no editar aquí: se regenera desde el hub -->
 
 ## Qué es
 
 Teoría del consumidor y del productor, mercados, organización industrial y equilibrio general. Es uno de los 11 blogs satélite de la familia Quarto de Edison Achalma: un sitio Quarto
 con repositorio y sitio Netlify propios, incluido como submódulo git en el hub `04 index` (repo
-`website-achalma`) bajo `04 index/_pubs/pub_optimums/`. El mismo blog tiene tres nombres: carpeta `pub_optimums`, repo
+`website-achalma`) bajo `04 index/_pubs/optimums/`. El mismo blog tiene tres nombres: carpeta `optimums`, repo
 GitHub `achalmed/optimums` y dominio `optimums.netlify.app`; el registro de los tres es `04 index/_pubs/pubs.yml`.
 
 El tema visual (SCSS, JS, extensiones, filtros, `scripts/build-page-css.sh`) **no se edita aquí**: vive en el hub y
@@ -26,7 +26,7 @@ quarto render                               # regenera _site/ (freeze: true: el 
 git add -- <carpeta del post> _contenido_*.qmd _site && git commit -m "post: …"   # confirmar AQUÍ primero…
 ../../scripts/puerta-r6.sh .                # puerta R6: _site/index.html al día antes del push (también es el hook pre-push)
 git push                                    # …al remoto propio (ssh git@github.com:achalmed/optimums.git)
-cd ../.. && git add _pubs/pub_optimums && git commit -m "pubs: optimums al último commit"   # y mover el puntero en el hub
+cd ../.. && git add _pubs/optimums && git commit -m "pubs: optimums al último commit"   # y mover el puntero en el hub
 ```
 
 ## Estructura

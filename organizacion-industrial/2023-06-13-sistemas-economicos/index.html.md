@@ -35,7 +35,8 @@ citation:
 date: 2023-06-13
 draft: false
 image: ../featured.jpg
-curso: organizacion_industrial
+curso: organizacion-industrial
+tema: "1.3"
 ---
 
 # Introducción a los Sistemas Económicos: Cómo se distribuyen los recursos, se producen y se distribuyen los bienes y servicios

@@ -35,7 +35,8 @@ citation:
 date: 2023-06-15
 draft: false
 image: ../featured.jpg
-curso: organizacion_industrial
+curso: organizacion-industrial
+tema: "1.4"
 ---
 
 # Sistema económio y mercado

@@ -34,7 +34,8 @@ citation:
 date: 2023-06-17
 draft: true
 image: ../featured.jpg
-curso: organizacion_industrial
+curso: organizacion-industrial
+tema: "1.5"
 ---
 
 LAS ESTRUCTURAS DE MERCADO

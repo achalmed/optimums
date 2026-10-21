@@ -1,0 +1,16 @@
+# _documentos.tsv — GENERADO por scripts/documentos.py; no editar
+# Caché del modo documentos (render.sh --documentos): una fila por página y formato; la clave es el sha256 de la
+# fuente y de la fecha de la página; sha256 es el de la salida en _site/. Ver web/docs/decisiones.md §4.5.
+fuente	formato	salida	clave	sha256
+404.qmd	-	-	95b773c0880f4ef95612554c41255f9a7d2d0ba2202398053057a1d980d30f76	-
+index.qmd	-	-	eeefb4677595f03aaa079bc266927f8526dd4dfbc7654005ea5ad196d4e5c319	-
+organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.qmd	apaquarto-docx	organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.docx	56911e43865f691b2748cebfe7b032961a8233dfcb464fd46f72ae3a4ba4c7fc	6f942888ac459b7ff0a4ab596e34f4590244f30d0aca12f38f3501331b6f83f7
+organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.qmd	apaquarto-pdf	organizacion-industrial/2023-06-12-introducion-a-organizacion-industrial/index.pdf	56911e43865f691b2748cebfe7b032961a8233dfcb464fd46f72ae3a4ba4c7fc	4e052277ae6cce85086a2bd5df56e4803f94a273df9ba2c68fd3c43a4110329d
+organizacion-industrial/2023-06-13-empresa-como-organizacion/index.qmd	apaquarto-docx	organizacion-industrial/2023-06-13-empresa-como-organizacion/index.docx	2c99c264ed65eb958ec83162d35d8e0a714d40796e1d048dd77bf308e2e4a0ca	e56ec7c1914e1aea7e2ec36afd8fb67607b0263f61a7ab817f63c2048c1566e7
+organizacion-industrial/2023-06-13-empresa-como-organizacion/index.qmd	apaquarto-pdf	organizacion-industrial/2023-06-13-empresa-como-organizacion/index.pdf	2c99c264ed65eb958ec83162d35d8e0a714d40796e1d048dd77bf308e2e4a0ca	02ce181704509c0655763315efa5587b4e0e6db351d8274e51030749877b0316
+organizacion-industrial/2023-06-13-sistemas-economicos/index.qmd	apaquarto-docx	organizacion-industrial/2023-06-13-sistemas-economicos/index.docx	68e09e5b105050bda3dfeb9a1a9173ce394e2fbe004069282267bff25b3b1b74	51b90448e398a6122ee74d1c59dd84d7d400c957e6f0e0713a84c2521e0d7b45
+organizacion-industrial/2023-06-13-sistemas-economicos/index.qmd	apaquarto-pdf	organizacion-industrial/2023-06-13-sistemas-economicos/index.pdf	68e09e5b105050bda3dfeb9a1a9173ce394e2fbe004069282267bff25b3b1b74	a7b86ea0acff765136bc07d4d3665e40e5fcd44d64cec75867c04dc0838db899
+organizacion-industrial/2023-06-15-mercado-relevante/index.qmd	apaquarto-docx	organizacion-industrial/2023-06-15-mercado-relevante/index.docx	862d95e60a083cc2e2fb2483f7a63c16cfe526d2164bff0b71122fc59199913f	fbd6db8816f60652602b9a468f173946bd29cc30e1a8da669e8dd487c25a9554
+organizacion-industrial/2023-06-15-mercado-relevante/index.qmd	apaquarto-pdf	organizacion-industrial/2023-06-15-mercado-relevante/index.pdf	862d95e60a083cc2e2fb2483f7a63c16cfe526d2164bff0b71122fc59199913f	b8884412a311d1d2c95c4b81d9e35b7fc65b12ba36101d82c1edeaee4a53de03
+organizacion-industrial/2023-06-23-elasticidad/index.qmd	apaquarto-docx	organizacion-industrial/2023-06-23-elasticidad/index.docx	23bad14007208219a55dc449733f395e1d32b37cbd12119df259828ed6c30afe	f7ab2f2be8fd89a31c8cd22b640128c5192dbcd331567b9fd998c248900ec702
+organizacion-industrial/2023-06-23-elasticidad/index.qmd	apaquarto-pdf	organizacion-industrial/2023-06-23-elasticidad/index.pdf	23bad14007208219a55dc449733f395e1d32b37cbd12119df259828ed6c30afe	89ade644f2e65e041be7abef1b5c7a579151c48007232693fbdcefe1c4fc4bfd

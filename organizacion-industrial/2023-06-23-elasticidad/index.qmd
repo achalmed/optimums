@@ -34,7 +34,8 @@ citation:
 date: 2023-06-23
 draft: false
 image: ../featured.jpg
-curso: organizacion_industrial
+curso: organizacion-industrial
+tema: "2.1"
 ---
 
 # Introducción a la Elasticidad

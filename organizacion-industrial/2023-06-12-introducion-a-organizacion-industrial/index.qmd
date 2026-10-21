@@ -34,7 +34,8 @@ citation:
 date: 2023-06-12
 draft: false
 image: ../featured.jpg
-curso: organizacion_industrial
+curso: organizacion-industrial
+tema: "1.1"
 ---
 
 # ¿Qué estudiaremos en organización industrial?

@@ -33,7 +33,8 @@ citation:
 date: 2021-08-02
 draft: true
 image: ../featured.jpg
-curso: microeconomia_i
+curso: microeconomia-i
+tema: "3.1"
 ---
 
 Este artículo está actualmente en proceso de edición, y todas las secciones serán ampliadas y refinadas en futuras revisiones.

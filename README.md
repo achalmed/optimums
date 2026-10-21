@@ -33,7 +33,7 @@ cd ../.. && git add _pubs/optimums && git commit -m "pubs: optimums al último c
 
 | carpeta | qué es | entradas |
 |---|---|--:|
-| `organizacion-industrial/` | sección temática | 7 |
+| `organizacion-industrial/` | sección temática | 28 |
 | `posts/` | entradas sin sección temática | 7 |
 | `_quarto.yml`, `index.qmd`, `404.qmd`, `_contenido-inicio.qmd`, `_contenido-final.qmd` | configuración y portada propias del blog | |
 | `assets/scss/`, `assets/js/`, `assets/css/global.css`, `assets/css/components/`, `_extensions/`, `_filters/apa-floats-html.lua`, `scripts/build-page-css.sh` | tema propagado desde el hub por `sync-theme-pubs.sh`: no se edita aquí | |
@@ -42,7 +42,7 @@ cd ../.. && git add _pubs/optimums && git commit -m "pubs: optimums al último c
 | `THEME_VERSION` | sello del tema: commit del hub y sha256 del conjunto; lo escribe `sync-theme-pubs.sh --aplicar` (GENERADO) | |
 | `netlify.toml` | configuración de Netlify: publica `_site/` sin comando de build | |
 
-14 entradas. Cada entrada es `<sección>/AAAA-MM-DD-slug/index.qmd` con frontmatter apaquarto y fecha ISO;
+35 entradas. Cada entrada es `<sección>/AAAA-MM-DD-slug/index.qmd` con frontmatter apaquarto y fecha ISO;
 sus metadatos se editan en masa desde `scripts-quarto` (`metadata_manager`).
 
 ## Documentación
